@@ -5,7 +5,7 @@ import baostock as bs
 from datetime import datetime, timedelta
 
 class A_Stocks_DataCollection:
-    def __init__(self, start_date, end_date, current_date,stocks_num=10000):
+    def __init__(self, start_date, end_date, current_date, stocks_num=10000):
         self.start_date = start_date
         self.end_date = end_date
         self.current_date = current_date
@@ -14,7 +14,12 @@ class A_Stocks_DataCollection:
     def get_data(self):
         result = self.get_stocks_code_name()
         result = self.get_stock_code_industry(result)
-        self.get_history_k_data(result)
+        self.get_history_k_data(self.start_date, self.end_date, result)
+
+    def get_new_data(self):
+        result = self.get_stocks_code_name()
+        result = self.get_stock_code_industry(result)
+        self.get_history_k_data(self.current_date, self.current_date, result)
 
     def get_stocks_code_name(self):
         #### 登陆系统 ####
@@ -64,7 +69,7 @@ class A_Stocks_DataCollection:
 
         return result
 
-    def get_history_k_data(self, result):
+    def get_history_k_data(self, start_date, end_date, result):
         # 登陆系统
         lg = bs.login()
         # 显示登陆返回信息
@@ -77,8 +82,8 @@ class A_Stocks_DataCollection:
                                               fields="date,code,open,high,low,close,preclose,volume,"
                                                      "amount,adjustflag,turn,tradestatus,pctChg,peTTM,"
                                                      "pbMRQ,psTTM,pcfNcfTTM,isST",
-                                              start_date=self.start_date,
-                                              end_date=self.end_date,
+                                              start_date=start_date,
+                                              end_date=end_date,
                                               frequency="d",
                                               adjustflag="3")  # frequency="d"取日k线，adjustflag="3"默认不复权
             k_data_list = []
@@ -88,7 +93,12 @@ class A_Stocks_DataCollection:
             k_result = pd.DataFrame(k_data_list, columns=rs.fields)
             k_result = pd.merge(k_result, result[['code', 'code_name','industry', 'industryClassification']], on='code',
                               how='left')
-            k_result.to_csv(f"../data/A_Stocks_Data/{k_result['code'][0]}.csv",encoding="UTF-8", index=False)
+            if start_date==end_date:
+                k_result.to_csv(f"data/A_Stocks_Data/{k_result['code'][0]}.csv",encoding="UTF-8", index=False, mode="a",header=0)
+            else:
+                k_result.to_csv(f"data/A_Stocks_Data/{k_result['code'][0]}.csv",encoding="UTF-8", index=False)
+
+            
 
         print('query_history_k_data_plus respond error_code:' + rs.error_code)
         print('query_history_k_data_plus respond  error_msg:' + rs.error_msg)
