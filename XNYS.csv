@@ -1,0 +1,2374 @@
+ticker,name,is_active,exchange_code,country_code,currency_code
+AAN,The Aaron's Company Inc.,1,XNYS,USA,USD
+ABM,ABM Industries Incorporated,1,XNYS,USA,USD
+ABR,Arbor Realty Trust,1,XNYS,USA,USD
+AGCO,AGCO Corporation,1,XNYS,USA,USD
+AKO-B,Embotelladora Andina S.A,1,XNYS,USA,USD
+ANG-P-B,ANG-P-B,1,XNYS,USA,USD
+AOMN,"Angel Oak Mortgage REIT, Inc. 9",1,XNYS,USA,USD
+ASPN,Aspen Aerogels Inc,1,XNYS,USA,USD
+AVB,AvalonBay Communities Inc,1,XNYS,USA,USD
+AZUL,Azul SA,1,XNYS,USA,USD
+BCO,Brinks Company,1,XNYS,USA,USD
+BFZ,BlackRock California Municipal Income Closed Fund,1,XNYS,USA,USD
+BILL,Bill Com Holdings Inc,1,XNYS,USA,USD
+BIPC,Brookfield Infrastructure Corp,1,XNYS,USA,USD
+BLND,Blend Labs Inc,1,XNYS,USA,USD
+BZH,Beazer Homes USA Inc,1,XNYS,USA,USD
+CCI,Crown Castle,1,XNYS,USA,USD
+CCO,Clear Channel Outdoor Holdings Inc,1,XNYS,USA,USD
+CDLR,Cadeler A/S,1,XNYS,USA,USD
+CMA,Comerica Inc,1,XNYS,USA,USD
+CNK,Cinemark Holdings Inc,1,XNYS,USA,USD
+CODI,Compass Diversified Holdings,1,XNYS,USA,USD
+CR,Crane Company,1,XNYS,USA,USD
+CRK,Comstock Resources Inc,1,XNYS,USA,USD
+KSS,Kohls Corp,1,XNYS,USA,USD
+LLY,Eli Lilly and Company,1,XNYS,USA,USD
+LPG,Dorian LPG Ltd,1,XNYS,USA,USD
+MDU,MDU Resources Group Inc,1,XNYS,USA,USD
+MLNK,Meridianlink Inc,1,XNYS,USA,USD
+MUFG,Mitsubishi UFJ Financial Group Inc ADR,1,XNYS,USA,USD
+MVO,MV Oil Trust,1,XNYS,USA,USD
+NL,NL Industries Inc,1,XNYS,USA,USD
+NOV,NOV Inc.,1,XNYS,USA,USD
+NSA-PB,National Storage Affiliates Tru,1,XNYS,USA,USD
+OSK,Oshkosh Corporation,1,XNYS,USA,USD
+OUT,Outfront Media Inc,1,XNYS,USA,USD
+PERF,Perfect Corp.,1,XNYS,USA,USD
+CUBE,CubeSmart,1,XNYS,USA,USD
+CVII,Churchill Capital Corp VII Class A Common Stock,1,XNYS,USA,USD
+DK,Delek US Energy Inc,1,XNYS,USA,USD
+DSX,Diana Shipping Inc.,1,XNYS,USA,USD
+EC,Ecopetrol SA ADR,1,XNYS,USA,USD
+EGP,EastGroup Properties Inc,1,XNYS,USA,USD
+EGY,Vaalco Energy Inc,1,XNYS,USA,USD
+EOT,Eaton Vance National Municipal Opportunities Closed Fund,1,XNYS,USA,USD
+ET-P-I,ET-P-I,1,XNYS,USA,USD
+FCPT,Four Corners Property Trust Inc,1,XNYS,USA,USD
+FDP,Fresh Del Monte Produce Inc,1,XNYS,USA,USD
+FMX,Fomento Economico Mexicano,1,XNYS,USA,USD
+FSCO,FS Credit Opportunities Corp.,1,XNYS,USA,USD
+GDOT,Green Dot Corporation,1,XNYS,USA,USD
+GJR,Strats SM Trust for Procter & Gamble Securities Series 2006-1 GIC,1,XNYS,USA,USD
+GJT,STRATS SM Trust for Allstate Corp Securities Series 2006-3 IC,1,XNYS,USA,USD
+GNL-PD,Global Net Lease Inc. 7.50% Cum. Redeem. Pfd. Series D,1,XNYS,USA,USD
+HE,Hawaiian Electric Industries Inc,1,XNYS,USA,USD
+HLF,Herbalife Nutrition Ltd,1,XNYS,USA,USD
+QD,Qudian Inc,1,XNYS,USA,USD
+R,Ryder System Inc,1,XNYS,USA,USD
+RF-PF,Regions Financial Corporation,1,XNYS,USA,USD
+RRC,Range Resources Corp,1,XNYS,USA,USD
+SHAK,Shake Shack Inc,1,XNYS,USA,USD
+SII,Sprott Inc.,1,XNYS,USA,USD
+SLQT,Selectquote Inc,1,XNYS,USA,USD
+SMR,Nuscale Power Corp,1,XNYS,USA,USD
+THO,Thor Industries Inc,1,XNYS,USA,USD
+TOST,Toast Inc,1,XNYS,USA,USD
+TV,Grupo Televisa SAB ADR,1,XNYS,USA,USD
+UHS,Universal Health Services Inc,1,XNYS,USA,USD
+UTI,Universal Technical Institute Inc,1,XNYS,USA,USD
+VMO,Invesco Municipal Opportunity Trust,1,XNYS,USA,USD
+VPV,Invesco Pennsylvania Value Municipal Income Trust,1,XNYS,USA,USD
+ICE,Intercontinental Exchange Inc,1,XNYS,USA,USD
+IVR,Invesco Mortgage Capital Inc,1,XNYS,USA,USD
+WMK,Weis Markets Inc,1,XNYS,USA,USD
+WMT,Walmart Inc,1,XNYS,USA,USD
+WTRG,Essential Utilities Inc,1,XNYS,USA,USD
+XPEV,Xpeng Inc,1,XNYS,USA,USD
+YETI,YETI Holdings Inc,1,XNYS,USA,USD
+ZEPP,Zepp Health Corp,1,XNYS,USA,USD
+ZTS,Zoetis Inc,1,XNYS,USA,USD
+ACCO,Acco Brands Corporation,1,XNYS,USA,USD
+ADNT,Adient PLC,1,XNYS,USA,USD
+AER,AerCap Holdings NV,1,XNYS,USA,USD
+AHH,Armada Hflr Pr,1,XNYS,USA,USD
+AJG,Arthur J Gallagher & Co,1,XNYS,USA,USD
+ALX,Alexanders Inc,1,XNYS,USA,USD
+ANG-P-A,ANG-P-A,1,XNYS,USA,USD
+ANG-PA,American National Group Inc.,1,XNYS,USA,USD
+AR,Antero Resources Corp,1,XNYS,USA,USD
+ATHM,Autohome Inc,1,XNYS,USA,USD
+ATKR,Atkore International Group Inc,1,XNYS,USA,USD
+AVNS,Avanos Medical Inc,1,XNYS,USA,USD
+AVTR,Avantor Inc,1,XNYS,USA,USD
+BARK,Original Bark Co,1,XNYS,USA,USD
+BB,BlackBerry Ltd,1,XNYS,USA,USD
+BBD,Banco Bradesco SA ADR,1,XNYS,USA,USD
+BEST,BEST Inc,1,XNYS,USA,USD
+BKKT,Bakkt Holdings Inc,1,XNYS,USA,USD
+BMI,Badger Meter Inc,1,XNYS,USA,USD
+BR,Broadridge Financial Solutions Inc,1,XNYS,USA,USD
+BYM,BlackRock Municipal Income Quality Closed Fund,1,XNYS,USA,USD
+C,Citigroup Inc,1,XNYS,USA,USD
+CCS,Century Communities Inc,1,XNYS,USA,USD
+CRBG,Corebridge Financial Inc.,1,XNYS,USA,USD
+CRM,Salesforce.com Inc,1,XNYS,USA,USD
+CSL,Carlisle Companies Incorporated,1,XNYS,USA,USD
+JILL,J.Jill Inc,1,XNYS,USA,USD
+KEYS,Keysight Technologies Inc,1,XNYS,USA,USD
+LC,LendingClub Corp,1,XNYS,USA,USD
+LVS,Las Vegas Sands Corp,1,XNYS,USA,USD
+MCD,McDonald’s Corporation,1,XNYS,USA,USD
+MPX,Marine Products Corporation,1,XNYS,USA,USD
+MRK,Merck & Company Inc,1,XNYS,USA,USD
+MS,Morgan Stanley,1,XNYS,USA,USD
+NC,NACCO Industries Inc,1,XNYS,USA,USD
+NDMO,Nuveen Dynamic Municipal Opportunities Fund,1,XNYS,USA,USD
+NWN,Northwest Natural Gas Co,1,XNYS,USA,USD
+NXP,Nuveen Select Tax-Free Income Portfolio,1,XNYS,USA,USD
+OFG,OFG Bancorp,1,XNYS,USA,USD
+ORA,Ormat Technologies Inc,1,XNYS,USA,USD
+PDM,Piedmont Office Realty Trust Inc,1,XNYS,USA,USD
+CUK,Carnival Plc ADS,1,XNYS,USA,USD
+DAR,Darling Ingredients Inc,1,XNYS,USA,USD
+DDS,Dillards Inc,1,XNYS,USA,USD
+DHT,DHT Holdings Inc,1,XNYS,USA,USD
+DNMR,Danimer Scientific Inc,1,XNYS,USA,USD
+ECVT,Ecovyst Inc,1,XNYS,USA,USD
+EPRT,Essential Properties Realty Trust Inc,1,XNYS,USA,USD
+ES,Eversource Energy,1,XNYS,USA,USD
+EVRI,Everi Holdings Inc,1,XNYS,USA,USD
+GAM,General American Investors Closed Fund,1,XNYS,USA,USD
+GJS,STRATSSM Certificates series supplement 2006-2 Trust IC,1,XNYS,USA,USD
+GMS,GMS Inc,1,XNYS,USA,USD
+GNK,Genco Shipping & Trading Ltd,1,XNYS,USA,USD
+GS,Goldman Sachs Group Inc,1,XNYS,USA,USD
+HIMS,Hims Hers Health Inc,1,XNYS,USA,USD
+HLN,Haleon plc,1,XNYS,USA,USD
+HVTA,Haverty Furniture Cos. Inc. Cl A,1,XNYS,USA,USD
+RMAX,Re Max Holding,1,XNYS,USA,USD
+RS,Reliance Steel & Aluminum Co,1,XNYS,USA,USD
+RSI,Rush Street Interactive Inc,1,XNYS,USA,USD
+SEMR,Semrush Holdings Inc,1,XNYS,USA,USD
+SFBS,ServisFirst Bancshares Inc,1,XNYS,USA,USD
+SITC-WI,SITC-WI,1,XNYS,USA,USD
+SJT,San Juan Basin Royalty Trust,1,XNYS,USA,USD
+SPIR,Spire Global Inc,1,XNYS,USA,USD
+TFPM,Triple Flag Precious Metals Corp,1,XNYS,USA,USD
+TGNA,Tegna Inc,1,XNYS,USA,USD
+TK,Teekay Corporation,1,XNYS,USA,USD
+TRU,TransUnion,1,XNYS,USA,USD
+UMAC,Unusual Machines Inc,1,XNYS,USA,USD
+VIV,Telefonica Brasil SA ADR,1,XNYS,USA,USD
+HYAC-UN,HYAC-U,1,XNYS,USA,USD
+IEX,IDEX Corporation,1,XNYS,USA,USD
+WELL,Welltower Inc,1,XNYS,USA,USD
+WF,Woori Financial Group Inc,1,XNYS,USA,USD
+WLYB,John Wiley & Sons B,1,XNYS,USA,USD
+WOLF,Wolfspeed Inc,1,XNYS,USA,USD
+ACA,Arcosa Inc,1,XNYS,USA,USD
+AESI,Atlas Energy Solutions Inc.,1,XNYS,USA,USD
+AIR,AAR Corp,1,XNYS,USA,USD
+AIZN,Assurant Inc,1,XNYS,USA,USD
+ALTG,Alta Equipment Group Inc,1,XNYS,USA,USD
+AMH,American Homes 4 Rent,1,XNYS,USA,USD
+AVK-R,AVK-R,1,XNYS,USA,USD
+BEPJ,Brookfield Renewable Partners L.P.,1,XNYS,USA,USD
+BETR,Better Home & Finance Holding Company,1,XNYS,USA,USD
+BIPJ,Brookfield Infrastructure Finance ULC,1,XNYS,USA,USD
+BMY,Bristol-Myers Squibb Company,1,XNYS,USA,USD
+BOC,Boston Omaha Corp,1,XNYS,USA,USD
+BSBR,Banco Santander Brasil SA ADR,1,XNYS,USA,USD
+BUR,Burford Capital Ltd,1,XNYS,USA,USD
+CCJ,Cameco Corp,1,XNYS,USA,USD
+CMI,Cummins Inc,1,XNYS,USA,USD
+KRC,Kilroy Realty Corp,1,XNYS,USA,USD
+LLAP,Terran Orbital Corp,1,XNYS,USA,USD
+MC,Moelis & Co,1,XNYS,USA,USD
+MHLA,Maiden Holdings Ltd,1,XNYS,USA,USD
+MIO,Pioneer Municipal High Income Opportunities Fund Inc,1,XNYS,USA,USD
+MTD,Mettler-Toledo International Inc,1,XNYS,USA,USD
+MYE,Myers Industries Inc,1,XNYS,USA,USD
+NMG,Nouveau Monde Graphite Inc,1,XNYS,USA,USD
+NR,Newpark Resources Inc,1,XNYS,USA,USD
+NVST,Envista Holdings Corp,1,XNYS,USA,USD
+OXY-WT,Occidental Petroleum Corporation,1,XNYS,USA,USD
+PGZ,Principal Real Estate Income Closed Fund,1,XNYS,USA,USD
+PLYM,Plymouth Industrial REIT Inc,1,XNYS,USA,USD
+PNC,PNC Financial Services Group Inc,1,XNYS,USA,USD
+PRA,ProAssurance Corporation,1,XNYS,USA,USD
+CURV,Torrid Holdings Inc,1,XNYS,USA,USD
+EHC,Encompass Health Corp,1,XNYS,USA,USD
+ENZ,Enzo Biochem Inc,1,XNYS,USA,USD
+EQV-UN,EQV Ventures Acquisition Corp,1,XNYS,USA,USD
+ET,Energy Transfer LP,1,XNYS,USA,USD
+ETX,Eaton Vance Municipal Income Term Closed Fund,1,XNYS,USA,USD
+FINS,Angel Oak Financial Strategies Income Term Trust,1,XNYS,USA,USD
+FOR,Forestar Group Inc,1,XNYS,USA,USD
+GJH,Strats Trust US Cellular GIC,1,XNYS,USA,USD
+GWH,ESS Tech Inc,1,XNYS,USA,USD
+HBI,Hanesbrands Inc,1,XNYS,USA,USD
+HWM,Howmet Aerospace Inc,1,XNYS,USA,USD
+HY,Hyster-Yale Materials Handling Inc,1,XNYS,USA,USD
+PYT,PPLUS Trust Series GSC 2 Pref,1,XNYS,USA,USD
+RHI,Robert Half International Inc,1,XNYS,USA,USD
+RNST,Renasant Corporation,1,XNYS,USA,USD
+SES,SES AI Corp,1,XNYS,USA,USD
+SHG,Shinhan Financial Group Co Ltd,1,XNYS,USA,USD
+SOC,Sable Offshore Corp.,1,XNYS,USA,USD
+SONX,Sonendo Inc,1,XNYS,USA,USD
+SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,1,XNYS,USA,USD
+TAK,Takeda Pharmaceutical Co Ltd ADR,1,XNYS,USA,USD
+TKO,"TKO Group Holdings, Inc.",1,XNYS,USA,USD
+TNC,Tennant Company,1,XNYS,USA,USD
+USNA,USANA Health Sciences Inc,1,XNYS,USA,USD
+VSTO,Vista Outdoor Inc,1,XNYS,USA,USD
+WEX,Wex Inc,1,XNYS,USA,USD
+WFG,West Fraser Timber Co Ltd,1,XNYS,USA,USD
+WHD,Cactus Inc,1,XNYS,USA,USD
+WTTR,Select Energy Services Inc,1,XNYS,USA,USD
+XYF,X Financial Class A,1,XNYS,USA,USD
+ZGN,Ermenegildo Zegna NV,1,XNYS,USA,USD
+AEE,Ameren Corp,1,XNYS,USA,USD
+AIT,Applied Industrial Technologies,1,XNYS,USA,USD
+ALE,Allete Inc,1,XNYS,USA,USD
+ALK,Alaska Air Group Inc,1,XNYS,USA,USD
+AMWL,American Well Corp,1,XNYS,USA,USD
+AON,Aon PLC,1,XNYS,USA,USD
+AORT,Artivion Inc,1,XNYS,USA,USD
+AX,Axos Financial Inc,1,XNYS,USA,USD
+AYI,Acuity Brands Inc,1,XNYS,USA,USD
+BBDO,Banco Bradesco S/A ADR,1,XNYS,USA,USD
+BBVA,Banco Bilbao Viscaya Argentaria SA ADR,1,XNYS,USA,USD
+BEP,Brookfield Renewable Partners LP,1,XNYS,USA,USD
+BHV,BlackRock Virginia MBT,1,XNYS,USA,USD
+BOX,Box Inc,1,XNYS,USA,USD
+BP,BP PLC ADR,1,XNYS,USA,USD
+BTA,BlackRock Long-Term Municipal Advantage Trust,1,XNYS,USA,USD
+BX,Blackstone Group Inc,1,XNYS,USA,USD
+BXSL,Blackstone Secured Lending Fund,1,XNYS,USA,USD
+CBZ,CBIZ Inc,1,XNYS,USA,USD
+CDE,Coeur Mining Inc,1,XNYS,USA,USD
+CION,Cion Investment Corp,1,XNYS,USA,USD
+CNA,CNA Financial Corporation,1,XNYS,USA,USD
+COOK,Traeger Inc,1,XNYS,USA,USD
+COP,ConocoPhillips,1,XNYS,USA,USD
+CRC,California Resources Corp,1,XNYS,USA,USD
+KGC,Kinross Gold Corporation,1,XNYS,USA,USD
+KTN,Credit Enhanced Corts Trust For Aon Capital A GIC,1,XNYS,USA,USD
+LEVI,Levi Strauss & Co Class A,1,XNYS,USA,USD
+LH,Laboratory Corporation of America Holdings,1,XNYS,USA,USD
+LXFR,Luxfer Holdings PLC,1,XNYS,USA,USD
+MAIN,Main Street Capital Corporation,1,XNYS,USA,USD
+MFG,Mizuho Financial Group Inc.,1,XNYS,USA,USD
+MGR,Affiliated Managers Group Inc,1,XNYS,USA,USD
+MGRD,"Affiliated Managers Group, Inc.",1,XNYS,USA,USD
+MSB,Mesabi Trust,1,XNYS,USA,USD
+MSC,Studio City International Holdings Ltd,1,XNYS,USA,USD
+MX,MagnaChip Semiconductor,1,XNYS,USA,USD
+NAPA,Duckhorn Portfolio Inc,1,XNYS,USA,USD
+NE,Noble Corporation plc,1,XNYS,USA,USD
+NGL,NGL Energy Partners LP,1,XNYS,USA,USD
+NYT,New York Times Company,1,XNYS,USA,USD
+OHI,Omega Healthcare Investors Inc,1,XNYS,USA,USD
+ONON,On Holding Ltd,1,XNYS,USA,USD
+PDO,Pimco Dynamic Income Opportunities Fund,1,XNYS,USA,USD
+CTV,Innovid Corp.,1,XNYS,USA,USD
+CX,Cemex SAB de CV ADR,1,XNYS,USA,USD
+CYH,Community Health Systems Inc,1,XNYS,USA,USD
+EBR-B,Centrais Elétricas Brasileiras S.A. - Eletrobrás,1,XNYS,USA,USD
+EPR-P-E,EPR-P-E,1,XNYS,USA,USD
+ESAB,ESAB Corp,1,XNYS,USA,USD
+EVTC,Evertec Inc,1,XNYS,USA,USD
+EXTO,Almacenes Ãxito S.A.,1,XNYS,USA,USD
+FSM,Fortuna Silver Mines Inc,1,XNYS,USA,USD
+GEFB,"Greif, Inc.",1,XNYS,USA,USD
+GGT,Gabelli MultiMedia Mutual Fund,1,XNYS,USA,USD
+GOOS,Canada Goose Holdings Inc,1,XNYS,USA,USD
+GPI,Group 1 Automotive Inc,1,XNYS,USA,USD
+GTN-A,Gray Television Inc,1,XNYS,USA,USD
+GWRE,Guidewire Software Inc,1,XNYS,USA,USD
+HD,Home Depot Inc,1,XNYS,USA,USD
+HGTY,Hagerty Inc,1,XNYS,USA,USD
+HIG,Hartford Financial Services Group,1,XNYS,USA,USD
+HNI,HNI Corp,1,XNYS,USA,USD
+HP,Helmerich and Payne Inc,1,XNYS,USA,USD
+HVT,Haverty Furniture Companies Inc,1,XNYS,USA,USD
+PSBD,Palmer Square Capital BDC Inc.,1,XNYS,USA,USD
+PSQH-WT,PSQH-WS,1,XNYS,USA,USD
+RGA,Reinsurance Group of America,1,XNYS,USA,USD
+SAN,Banco Santander SA ADR,1,XNYS,USA,USD
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo SABESP ADR,1,XNYS,USA,USD
+SEM,Select Medical Holdings,1,XNYS,USA,USD
+SMC,Summit Midstream Corporation,1,XNYS,USA,USD
+SOAR,Volato Group Inc.,1,XNYS,USA,USD
+SOJE,Southern Company (The) Series 2,1,XNYS,USA,USD
+STZ,Constellation Brands Inc Class A,1,XNYS,USA,USD
+SUAC,ShoulderUP Technology Acquisition Corp,1,XNYS,USA,USD
+TBI,TrueBlue Inc,1,XNYS,USA,USD
+TFX,Teleflex Incorporated,1,XNYS,USA,USD
+TRV,The Travelers Companies Inc,1,XNYS,USA,USD
+TTC,Toro Co,1,XNYS,USA,USD
+TX,Ternium SA ADR,1,XNYS,USA,USD
+U,Unity Software Inc,1,XNYS,USA,USD
+UAA,Under Armour Inc A,1,XNYS,USA,USD
+VET,Vermilion Energy Inc.,1,XNYS,USA,USD
+VNO,Vornado Realty Trust,1,XNYS,USA,USD
+INN,Summit Hotel Properties Inc,1,XNYS,USA,USD
+IRRXW,Integrated Rail and Resources Acquisition Corp,1,XNYS,USA,USD
+ITW,Illinois Tool Works Inc,1,XNYS,USA,USD
+WLY,John Wiley & Sons,1,XNYS,USA,USD
+XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,1,XNYS,USA,USD
+AB,AllianceBernstein Holding L.P. ,1,XNYS,USA,USD
+AGS,PlayAGS Inc,1,XNYS,USA,USD
+AIN,Albany International Corporation,1,XNYS,USA,USD
+APTV,Aptiv PLC,1,XNYS,USA,USD
+AVD,American Vanguard Corporation,1,XNYS,USA,USD
+BQ,Boqii Holding Limited,1,XNYS,USA,USD
+BV,BrightView Holdings,1,XNYS,USA,USD
+CCL,Carnival Corporation,1,XNYS,USA,USD
+CCM,Concord Medical Services Holdings,1,XNYS,USA,USD
+CDAY,Ceridian HCM Holding Inc,1,XNYS,USA,USD
+CHPT,ChargePoint Holdings Inc,1,XNYS,USA,USD
+CMRE,Costamare Inc,1,XNYS,USA,USD
+CNGL,Canna Global Acquisition Corp,1,XNYS,USA,USD
+CNMD,CONMED Corporation,1,XNYS,USA,USD
+CRS,Carpenter Technology Corporation,1,XNYS,USA,USD
+JOBY,Joby Aviation,1,XNYS,USA,USD
+KD,Kyndryl Holdings Inc,1,XNYS,USA,USD
+L,Loews Corp,1,XNYS,USA,USD
+LTH,Life Time Group Holdings Inc,1,XNYS,USA,USD
+MCB,Metropolitan Bank Holding,1,XNYS,USA,USD
+MCY,Mercury General Corporation,1,XNYS,USA,USD
+MET,MetLife Inc,1,XNYS,USA,USD
+ML,MoneyLion Inc,1,XNYS,USA,USD
+MOV,Movado Group Inc,1,XNYS,USA,USD
+MTUS,"Metallus, Inc",1,XNYS,USA,USD
+NBHC,National Bank Holdings Corporation,1,XNYS,USA,USD
+NOMD,Nomad Foods Ltd,1,XNYS,USA,USD
+NSA,National Storage Affiliates Trust,1,XNYS,USA,USD
+OMF,OneMain Holdings Inc,1,XNYS,USA,USD
+OWLT,Owlet Inc,1,XNYS,USA,USD
+OXY,Occidental Petroleum Corporation,1,XNYS,USA,USD
+PACK,Ranpak Holdings Corp,1,XNYS,USA,USD
+PHYT,Pyrophyte Acquisition Corp,1,XNYS,USA,USD
+PPT,Putnam Premier Income Trust,1,XNYS,USA,USD
+CULP,Culp Inc,1,XNYS,USA,USD
+CWK,Cushman & Wakefield plc,1,XNYS,USA,USD
+DECK,Deckers Outdoor Corporation,1,XNYS,USA,USD
+ELC,Entergy Louisiana LLC Pref,1,XNYS,USA,USD
+ETP,Energy Transfer Partners L.P,1,XNYS,USA,USD
+FCN,FTI Consulting Inc,1,XNYS,USA,USD
+FTHY,First Trust High Yield Opportunities 2027 Term Fund,1,XNYS,USA,USD
+GDDY,Godaddy Inc,1,XNYS,USA,USD
+GEV,GE Vernova LLC,1,XNYS,USA,USD
+GNT,GAMCO Natural Resources Gold and Income Closed Fund,1,XNYS,USA,USD
+GRBK,Green Brick Partners Inc,1,XNYS,USA,USD
+GSBD,Goldman Sachs BDC Inc,1,XNYS,USA,USD
+HGV,Hilton Grand Vacations Inc,1,XNYS,USA,USD
+HOMB,Home BancShares Inc,1,XNYS,USA,USD
+RBCP,RBC Bearings Inc,1,XNYS,USA,USD
+RMT,Royce Micro Cap Closed Fund,1,XNYS,USA,USD
+RXO,RXO Inc.,1,XNYS,USA,USD
+SNX,Synnex Corporation,1,XNYS,USA,USD
+SONY,Sony Group Corp,1,XNYS,USA,USD
+SPCE,Virgin Galactic Holdings Inc,1,XNYS,USA,USD
+TDY,Teledyne Technologies Incorporated,1,XNYS,USA,USD
+TFII,TFI International Inc,1,XNYS,USA,USD
+TLK,Telkom Indonesia (Persero) Tbk PT ADR Rep 100 B,1,XNYS,USA,USD
+TNL,Travel + Leisure Co,1,XNYS,USA,USD
+TPL,Texas Pacific Land Trust,1,XNYS,USA,USD
+TVE,Tennessee Valley Authority,1,XNYS,USA,USD
+UGP,Ultrapar Participacoes SA ADR,1,XNYS,USA,USD
+VAPO,Vapotherm Inc,1,XNYS,USA,USD
+VLD,Velo3D Inc,1,XNYS,USA,USD
+VLT,Invesco High Income Trust II,1,XNYS,USA,USD
+IHG,InterContinental Hotels Group PLC ADR,1,XNYS,USA,USD
+IVZ,Invesco Plc,1,XNYS,USA,USD
+VZIO,Vizio Holding Corp,1,XNYS,USA,USD
+WHG,Westwood Holdings Group Inc,1,XNYS,USA,USD
+YEXT,Yext Inc,1,XNYS,USA,USD
+YRD,Yirendai Ltd,1,XNYS,USA,USD
+AEFC,Aegon Funding Company LLC 5.10%,1,XNYS,USA,USD
+AGM,Federal Agricultural Mortgage,1,XNYS,USA,USD
+AKR,Acadia Realty Trust,1,XNYS,USA,USD
+ALUR-WT,Allurion Technologies Inc. WT,1,XNYS,USA,USD
+ARR,ARMOUR Residential REIT Inc,1,XNYS,USA,USD
+ATMU,Atmus Filtration Technologies Inc.,1,XNYS,USA,USD
+AVNT,Avient Corp,1,XNYS,USA,USD
+BAK,Braskem SA Class A,1,XNYS,USA,USD
+BAM,Brookfield Asset Management Inc,1,XNYS,USA,USD
+BBW,Build-A-Bear Workshop Inc,1,XNYS,USA,USD
+BRFS,BRF SA ADR,1,XNYS,USA,USD
+CACI,CACI International Inc,1,XNYS,USA,USD
+CBT,Cabot Corporation,1,XNYS,USA,USD
+CHD,Church & Dwight Company Inc,1,XNYS,USA,USD
+CLCO,Cool Company Ltd,1,XNYS,USA,USD
+CLDT,Chatham Lodging Trust REIT,1,XNYS,USA,USD
+CMC,Commercial Metals Company,1,XNYS,USA,USD
+CNM,Core & Main Inc,1,XNYS,USA,USD
+CNQ,Canadian Natural Resources Ltd,1,XNYS,USA,USD
+CPF,Central Pacific Financial Corp,1,XNYS,USA,USD
+JHS,John Hancock Income Securities Closed Fund,1,XNYS,USA,USD
+JHX,James Hardie Industries PLC ADR,1,XNYS,USA,USD
+KEP,Korea Electric Power Corp ADR,1,XNYS,USA,USD
+KIM-P-N,KIM-P-N,1,XNYS,USA,USD
+KKR,KKR & Co LP,1,XNYS,USA,USD
+KMPR,Kemper Corporation,1,XNYS,USA,USD
+KO,The Coca-Cola Company,1,XNYS,USA,USD
+LEA,Lear Corporation,1,XNYS,USA,USD
+LENB,LENNAR CORP CLASS B,1,XNYS,USA,USD
+LUMN,Lumen Technologies Inc,1,XNYS,USA,USD
+MAS,Masco Corporation,1,XNYS,USA,USD
+MGM,MGM Resorts International,1,XNYS,USA,USD
+MPC,Marathon Petroleum Corp,1,XNYS,USA,USD
+MTZ,MasTec Inc,1,XNYS,USA,USD
+NHI,National Health Investors Inc,1,XNYS,USA,USD
+NNN,National Retail Properties Inc,1,XNYS,USA,USD
+NXDT,NexPoint Strategic Opportunities Fund,1,XNYS,USA,USD
+OGS,One Gas Inc,1,XNYS,USA,USD
+ORI,Old Republic International Corp,1,XNYS,USA,USD
+PAC,Grupo Aeroportuario del Pacifico SAB De CV ADR,1,XNYS,USA,USD
+PBI,Pitney Bowes Inc,1,XNYS,USA,USD
+PG,Procter & Gamble Company,1,XNYS,USA,USD
+PRKS,United Parks & Resorts Inc,1,XNYS,USA,USD
+DAN,Dana Inc,1,XNYS,USA,USD
+DDL,Dingdong ADR,1,XNYS,USA,USD
+DEA,Eerly Govt Ppty Inc,1,XNYS,USA,USD
+DFH,Dream Finders Homes Inc,1,XNYS,USA,USD
+DKL,Delek Logistics Partners LP,1,XNYS,USA,USD
+DRH,Diamondrock Hospitality Company,1,XNYS,USA,USD
+DUK,Duke Energy Corporation,1,XNYS,USA,USD
+ECCV,Eagle Point Credit Company Inc.,1,XNYS,USA,USD
+EEX,Emerald Expositions Events Inc,1,XNYS,USA,USD
+EIC,Eagle Point Income Company Inc,1,XNYS,USA,USD
+ELS,Equity Lifestyle Properties Inc,1,XNYS,USA,USD
+ENV,Envestnet Inc,1,XNYS,USA,USD
+EQR,Equity Residential,1,XNYS,USA,USD
+FINV,FinVolution Group,1,XNYS,USA,USD
+FSK,FS KKR Capital Corp,1,XNYS,USA,USD
+H,Hyatt Hotels Corporation,1,XNYS,USA,USD
+HRTG,Heritage Insurance Hldgs Inc,1,XNYS,USA,USD
+HUBB,Hubbell Inc,1,XNYS,USA,USD
+HUYA,HUYA Inc,1,XNYS,USA,USD
+PX,P10 Inc,1,XNYS,USA,USD
+QSR,Restaurant Brands International Inc,1,XNYS,USA,USD
+RDDT,"Reddit, Inc.",1,XNYS,USA,USD
+RL,Ralph Lauren Corp Class A,1,XNYS,USA,USD
+RLI,RLI Corp,1,XNYS,USA,USD
+RSG,Republic Services Inc,1,XNYS,USA,USD
+S,SentinelOne Inc,1,XNYS,USA,USD
+SAFE,Safehold Inc,1,XNYS,USA,USD
+SEDA-UN,SDCL EDGE Acquisition Corporation,1,XNYS,USA,USD
+SG,Sweetgreen Inc,1,XNYS,USA,USD
+SNN,Smith & Nephew SNATS Inc,1,XNYS,USA,USD
+SOS,SOS Limited,1,XNYS,USA,USD
+SPB,Spectrum Brands Holdings Inc,1,XNYS,USA,USD
+SPG,Simon Property Group Inc,1,XNYS,USA,USD
+SSTK,Shutterstock,1,XNYS,USA,USD
+STT,State Street Corp,1,XNYS,USA,USD
+SUI,Sun Communities Inc,1,XNYS,USA,USD
+SWX,Southwest Gas Holdings Inc,1,XNYS,USA,USD
+TKR,Timken Company,1,XNYS,USA,USD
+TSQ,Townsquare Media Inc,1,XNYS,USA,USD
+UDR,UDR Inc,1,XNYS,USA,USD
+UHALB,AMERCO,1,XNYS,USA,USD
+UHT,Universal Health Realty Income Trust,1,XNYS,USA,USD
+VIST,Vista Oil Gas ADR,1,XNYS,USA,USD
+IMPTV,Imperial Petroleum Inc. 8.75% Series A Cumulative Redeemable Perpetual Preferred Shares When Issued,1,XNYS,USA,USD
+IRS-WT,IRSA-Inversiones y Representaciones S.A. Wt,1,XNYS,USA,USD
+JCI,Johnson Controls International PLC,1,XNYS,USA,USD
+WM,Waste Management Inc,1,XNYS,USA,USD
+WSO,Watsco Inc,1,XNYS,USA,USD
+XOM,Exxon Mobil Corp,1,XNYS,USA,USD
+AIZ,Assurant Inc,1,XNYS,USA,USD
+ALC,Alcon AG,1,XNYS,USA,USD
+AM,Antero Midstream Partners LP,1,XNYS,USA,USD
+AMPX,Amprius Technologies Inc.,1,XNYS,USA,USD
+APLE,Apple Hospitality REIT Inc,1,XNYS,USA,USD
+BAC-P-Q,BAC-P-Q,1,XNYS,USA,USD
+BEN,Franklin Resources Inc,1,XNYS,USA,USD
+BF-A,Brown-Forman Corporation,1,XNYS,USA,USD
+BUD,Anheuser Busch Inbev NV ADR,1,XNYS,USA,USD
+CAH,Cardinal Health Inc,1,XNYS,USA,USD
+CLS,Celestica Inc.,1,XNYS,USA,USD
+CRD-B,Crawford & Company,1,XNYS,USA,USD
+JXN,Jackson Financial Inc,1,XNYS,USA,USD
+KBDC,"Kayne Anderson BDC, Inc.",1,XNYS,USA,USD
+KTB,Kontoor Brands Inc,1,XNYS,USA,USD
+KYN,Kayne Anderson MLP Investment Closed Fund,1,XNYS,USA,USD
+LAD,Lithia Motors Inc,1,XNYS,USA,USD
+LXP,LXP Industrial Trust,1,XNYS,USA,USD
+MED,MEDIFAST INC,1,XNYS,USA,USD
+MRT,Marti Technologies Inc.,1,XNYS,USA,USD
+MSM,MSC Industrial Direct Company Inc,1,XNYS,USA,USD
+MT,ArcelorMittal SA ADR,1,XNYS,USA,USD
+NVS,Novartis AG ADR,1,XNYS,USA,USD
+PKX,POSCO Holdings Inc,1,XNYS,USA,USD
+PMM,Putnam Managed Municipal Income Closed Fund,1,XNYS,USA,USD
+PNNT,PennantPark Investment Corporation,1,XNYS,USA,USD
+CXW,CoreCivic Inc,1,XNYS,USA,USD
+DFS,Discover Financial Services,1,XNYS,USA,USD
+DVN,Devon Energy Corporation,1,XNYS,USA,USD
+DXYZ,Destiny Tech100 Inc.,1,XNYS,USA,USD
+EE,Excelerate Energy Inc,1,XNYS,USA,USD
+EGO,Eldorado Gold Corp,1,XNYS,USA,USD
+EICB,Eagle Point Income Company Inc.,1,XNYS,USA,USD
+ESI,Element Solutions Inc,1,XNYS,USA,USD
+FLS,Flowserve Corporation,1,XNYS,USA,USD
+FT,Franklin Universal Closed Fund,1,XNYS,USA,USD
+GIB,CGI Inc,1,XNYS,USA,USD
+GRP-U,Granite Real Estate Investment Trust,1,XNYS,USA,USD
+HII,Huntington Ingalls Industries Inc,1,XNYS,USA,USD
+HIPO,Hippo Holdings Inc,1,XNYS,USA,USD
+HTFC,HTFC,1,XNYS,USA,USD
+HYAC,Haymaker Acquisition Corp. 4,1,XNYS,USA,USD
+PSA-P-R,PSA-P-R,1,XNYS,USA,USD
+QVCC,QVCC,1,XNYS,USA,USD
+SBSW,Sibanye Gold Ltd ADR,1,XNYS,USA,USD
+SDHY,PGIM Short Duration High Yield Opportunities Fund,1,XNYS,USA,USD
+SHEL,Shell PLC ADR,1,XNYS,USA,USD
+SKE,Skeena Resources Ltd,1,XNYS,USA,USD
+SO,Southern Company,1,XNYS,USA,USD
+SUM,Summit Materials Inc,1,XNYS,USA,USD
+T,AT&T Inc,1,XNYS,USA,USD
+TRN,Trinity Industries Inc,1,XNYS,USA,USD
+VEEV,Veeva Systems Inc Class A,1,XNYS,USA,USD
+VFC,VF Corporation,1,XNYS,USA,USD
+VLTO,Veralto Corporation,1,XNYS,USA,USD
+VTN,Invesco Trust For Inv Grade NY Munis,1,XNYS,USA,USD
+INFY,Infosys Ltd ADR,1,XNYS,USA,USD
+INSW,International Seaways Inc,1,XNYS,USA,USD
+IRRX,Integrated Rail and Resources Acquisition Corp,1,XNYS,USA,USD
+WIT,Wipro Limited ADR,1,XNYS,USA,USD
+AEVA,Aeva Technologies Inc,1,XNYS,USA,USD
+ALTM,Arcadium Lithium plc,1,XNYS,USA,USD
+AMRC,Ameresco Inc,1,XNYS,USA,USD
+BCC,Boise Cascad Llc,1,XNYS,USA,USD
+BCH,Banco De Chile,1,XNYS,USA,USD
+BFS,Saul Centers Inc,1,XNYS,USA,USD
+BHIL,"Benson Hill, Inc. Common Stock",1,XNYS,USA,USD
+BIP,Brookfield Infrastructure Partners LP,1,XNYS,USA,USD
+BKU,BankUnited Inc,1,XNYS,USA,USD
+BLD,Topbuild Corp,1,XNYS,USA,USD
+BN,Brookfield Corp,1,XNYS,USA,USD
+BWLP,BW LPG Limited,1,XNYS,USA,USD
+CAPL,Crossamerica Partners LP,1,XNYS,USA,USD
+CGAU,Centerra Gold Inc,1,XNYS,USA,USD
+CL,Colgate-Palmolive Company,1,XNYS,USA,USD
+CLH,Clean Harbors Inc,1,XNYS,USA,USD
+CMSA,CMS Energy Corp,1,XNYS,USA,USD
+CMTG,Claros Mortgage Trust Inc,1,XNYS,USA,USD
+CNS,Cohen & Steers Inc,1,XNYS,USA,USD
+LLAPW,LLAPW,1,XNYS,USA,USD
+LVWR, LiveWire Group Inc.,1,XNYS,USA,USD
+LXU,Lsb Industries Inc,1,XNYS,USA,USD
+MA,Mastercard Inc,1,XNYS,USA,USD
+MGA,Magna International Inc,1,XNYS,USA,USD
+MGY,Magnolia Oil & Gas Corp,1,XNYS,USA,USD
+MKFG,Markforged Holding Corp,1,XNYS,USA,USD
+MLR,Miller Industries Inc,1,XNYS,USA,USD
+MPLN,MultiPlan Corporation,1,XNYS,USA,USD
+NEP,Nextera Energy Partners LP,1,XNYS,USA,USD
+NEUE,NeueHealth Inc,1,XNYS,USA,USD
+NOA,North American Construction Group Ltd,1,XNYS,USA,USD
+NRT,North European Oil Royalty Trust,1,XNYS,USA,USD
+NU,Nu Holdings Ltd,1,XNYS,USA,USD
+NVRO,Nevro Corp,1,XNYS,USA,USD
+OMI,Owens & Minor Inc,1,XNYS,USA,USD
+ORCL,Oracle Corporation,1,XNYS,USA,USD
+PNST,Pinstripes Holdings Inc,1,XNYS,USA,USD
+CTRE,CareTrust REIT Inc.,1,XNYS,USA,USD
+DBD,Diebold Nixdorf Incorporated,1,XNYS,USA,USD
+DEC,Diversified Energy Company plc,1,XNYS,USA,USD
+DFIN,Donnelley Financial Solutions Inc,1,XNYS,USA,USD
+DNB,Dun & Bradstreet Holdings Inc.,1,XNYS,USA,USD
+DOW,Dow Inc,1,XNYS,USA,USD
+EAT,Brinker International Inc,1,XNYS,USA,USD
+EBR,Centrais Electricas Brasileiras SA,1,XNYS,USA,USD
+EQBK,"Equity Bancshares, Inc.",1,XNYS,USA,USD
+ERO,Ero Copper Corp,1,XNYS,USA,USD
+FNV,Franco-Nevada Corporation,1,XNYS,USA,USD
+FVR,"FrontView REIT, Inc.",1,XNYS,USA,USD
+FXLV,F45 Training Holdings Inc,1,XNYS,USA,USD
+GE,GE Aerospace,1,XNYS,USA,USD
+GPOR,Gulfport Energy Operating Corp,1,XNYS,USA,USD
+GRC,Gorman-Rupp Company,1,XNYS,USA,USD
+HEI,Heico Corporation,1,XNYS,USA,USD
+HEIA,HEICO Corporation,1,XNYS,USA,USD
+HLIO,Helios Technologies Inc,1,XNYS,USA,USD
+HPQ,HP Inc,1,XNYS,USA,USD
+HVT-A,Haverty Furniture Companies Inc,1,XNYS,USA,USD
+PVL,Permianville Royalty Trust,1,XNYS,USA,USD
+PWR,Quanta Services Inc,1,XNYS,USA,USD
+RTO,Rentokil Initial PLC,1,XNYS,USA,USD
+SMP,Standard Motor Products Inc,1,XNYS,USA,USD
+SRL,Scully Royalty Ltd,1,XNYS,USA,USD
+TGLS,Tecnoglass Inc,1,XNYS,USA,USD
+TPX,Tempur Sealy International Inc,1,XNYS,USA,USD
+UZF,United States Cellular Corporat,1,XNYS,USA,USD
+VCV,Invesco California Value Muni Inc Tr,1,XNYS,USA,USD
+VEL,Velocity Financial Llc,1,XNYS,USA,USD
+IIPR,Innovative Industrial Properties Inc,1,XNYS,USA,USD
+IRM,Iron Mountain Incorporated,1,XNYS,USA,USD
+WCC,WESCO International Inc,1,XNYS,USA,USD
+WFC,Wells Fargo & Company,1,XNYS,USA,USD
+ABT,Abbott Laboratories,1,XNYS,USA,USD
+ACN,Accenture plc,1,XNYS,USA,USD
+AG,First Majestic Silver Corp,1,XNYS,USA,USD
+ALL-P-J,ALL-P-J,1,XNYS,USA,USD
+AMC,AMC Entertainment Holdings Inc,1,XNYS,USA,USD
+ANG-PB,American National Group Inc,1,XNYS,USA,USD
+ATR,AptarGroup Inc,1,XNYS,USA,USD
+BBU,Brookfield Business Partners LP,1,XNYS,USA,USD
+BK,Bank of New York Mellon,1,XNYS,USA,USD
+CBU,Community Bank System Inc,1,XNYS,USA,USD
+CCRD,CoreCard Corp,1,XNYS,USA,USD
+CMBT,Euronav NV,1,XNYS,USA,USD
+CMG,Chipotle Mexican Grill Inc,1,XNYS,USA,USD
+COTY,Coty Inc,1,XNYS,USA,USD
+KNTK,Kinetik Holdings Inc,1,XNYS,USA,USD
+LEO,BNY Mellon Strategic Municipals Inc,1,XNYS,USA,USD
+LYV,Live Nation Entertainment Inc,1,XNYS,USA,USD
+MAA,Mid-America Apartment Communities Inc,1,XNYS,USA,USD
+MHNC,Maiden Holdings North America Ltd ELKS,1,XNYS,USA,USD
+MSGS,Madison Square Garden Sports Corp,1,XNYS,USA,USD
+MTB,M&T Bank Corporation,1,XNYS,USA,USD
+NEE-PS,"NextEra Energy, Inc.",1,XNYS,USA,USD
+NRGV,Energy Vault Holdings Inc,1,XNYS,USA,USD
+NTEST,NTEST,1,XNYS,USA,USD
+NTEST-O,NTEST-O,1,XNYS,USA,USD
+NVT,nVent Electric PLC,1,XNYS,USA,USD
+OLO,Olo Inc,1,XNYS,USA,USD
+PARR,Par Pacific Holdings Inc,1,XNYS,USA,USD
+PHM,PulteGroup Inc,1,XNYS,USA,USD
+POST,Post Holdings Inc,1,XNYS,USA,USD
+CXH,MFS Investment Grade Municipal Trust,1,XNYS,USA,USD
+DTE,DTE Energy Company,1,XNYS,USA,USD
+ECO,Okeanis Eco Tankers Corp.,1,XNYS,USA,USD
+EFC-PD,Ellington Financial Inc.,1,XNYS,USA,USD
+EQS,Equus Total Return Closed Fund,1,XNYS,USA,USD
+ETWO,E2open Parent Holdings Inc,1,XNYS,USA,USD
+FHN,First Horizon National Corporation,1,XNYS,USA,USD
+FIX,Comfort Systems USA Inc,1,XNYS,USA,USD
+FLUT,Flutter Entertainment plc,1,XNYS,USA,USD
+GNL-P-D,GNL-P-D,1,XNYS,USA,USD
+HIW,Highwoods Properties Inc,1,XNYS,USA,USD
+HRL,Hormel Foods Corporation,1,XNYS,USA,USD
+PUK,Prudential Public Limited Company,1,XNYS,USA,USD
+RCFA,RCF Acquisition Corp,1,XNYS,USA,USD
+RITM,Rithm Capital Corp.,1,XNYS,USA,USD
+RLTY,Cohen & Steers Real Estate Opportunities and Income Fund,1,XNYS,USA,USD
+RVLV,Revolve Group LLC,1,XNYS,USA,USD
+SCI,Service Corporation International,1,XNYS,USA,USD
+SEE,Sealed Air Corporation,1,XNYS,USA,USD
+SN,"SharkNinja, Inc.",1,XNYS,USA,USD
+SRFM,Surf Air Mobility Inc.,1,XNYS,USA,USD
+SSB,South State Corp,1,XNYS,USA,USD
+SW,Smurfit WestRock plc,1,XNYS,USA,USD
+SXI,Standex International Corporation,1,XNYS,USA,USD
+TEN-P-E,TEN-P-E,1,XNYS,USA,USD
+TJX,The TJX Companies Inc,1,XNYS,USA,USD
+TPTA,"Terra Property Trust, Inc. 6.00%",1,XNYS,USA,USD
+TRGP,Targa Resources Inc,1,XNYS,USA,USD
+TROX,Tronox Holdings PLC,1,XNYS,USA,USD
+UBS,UBS Group AG,1,XNYS,USA,USD
+UNF,Unifirst Corporation,1,XNYS,USA,USD
+VNCE,Vince Holding Corp,1,XNYS,USA,USD
+VTEX,VTEX,1,XNYS,USA,USD
+VVI,Viad Corp,1,XNYS,USA,USD
+IP,International Paper,1,XNYS,USA,USD
+IPI,Intrepid Potash Inc,1,XNYS,USA,USD
+JBGS,JBG SMITH Properties,1,XNYS,USA,USD
+WDI,Western Asset Diversified Income Fund,1,XNYS,USA,USD
+WDS,Woodside Energy Group Ltd,1,XNYS,USA,USD
+WOR,Worthington Industries Inc,1,XNYS,USA,USD
+ABBV,AbbVie Inc,1,XNYS,USA,USD
+ADM,Archer-Daniels-Midland Company,1,XNYS,USA,USD
+AGX,Argan Inc,1,XNYS,USA,USD
+AKA,AKA Brands Holding Corp,1,XNYS,USA,USD
+ALL,The Allstate Corporation,1,XNYS,USA,USD
+ALLG,Allego US Inc,1,XNYS,USA,USD
+AMX,America Movil SAB de CV ADR,1,XNYS,USA,USD
+ATO,Atmos Energy Corporation,1,XNYS,USA,USD
+AUB,Atlantic Union Bankshares Corp,1,XNYS,USA,USD
+B,Barnes Group Inc,1,XNYS,USA,USD
+BEKE,Ke Holdings Inc,1,XNYS,USA,USD
+BFAM,Bright Horizons Family Solutions Inc,1,XNYS,USA,USD
+BLCO,Bausch + Lomb Corp,1,XNYS,USA,USD
+BRCC,BRC Inc.,1,XNYS,USA,USD
+BSM,Black Stone Minerals LP,1,XNYS,USA,USD
+CB,Chubb Ltd,1,XNYS,USA,USD
+CIMO,Chimera Investment Corporation,1,XNYS,USA,USD
+CLX,The Clorox Company,1,XNYS,USA,USD
+KAI,Kadant Inc,1,XNYS,USA,USD
+KMPB,Kemper Corporation 5.875% Fixed,1,XNYS,USA,USD
+LEG,Leggett & Platt Incorporated,1,XNYS,USA,USD
+LW,Lamb Weston Holdings Inc,1,XNYS,USA,USD
+LZB,La-Z-Boy Incorporated,1,XNYS,USA,USD
+MATV,Mativ Holdings Inc.,1,XNYS,USA,USD
+MMS,Maximus Inc,1,XNYS,USA,USD
+MOH,Molina Healthcare Inc,1,XNYS,USA,USD
+MPV,Barings Participation Investors (the Trust),1,XNYS,USA,USD
+MTB-PJ,M&T Bank Corporation,1,XNYS,USA,USD
+NSP,Insperity Inc,1,XNYS,USA,USD
+NTB,Bank of N.T. Butterfield & Son Ltd,1,XNYS,USA,USD
+OC,Owens Corning Inc,1,XNYS,USA,USD
+ODZA,ODENZA CORP,1,XNYS,USA,USD
+ORAN,Orange SA ADR,1,XNYS,USA,USD
+PFSI,PennyMac Finl Svcs Inc,1,XNYS,USA,USD
+PKE,Park Electrochemical Corporation,1,XNYS,USA,USD
+DEO,Diageo PLC ADR,1,XNYS,USA,USD
+DTC,Solo Brands Inc,1,XNYS,USA,USD
+DV,DoubleVerify Holdings Inc,1,XNYS,USA,USD
+ECCX,Eagle Point Credit Company Inc,1,XNYS,USA,USD
+EPR,EPR Properties,1,XNYS,USA,USD
+FENG,Phoenix New Media Limited,1,XNYS,USA,USD
+FIS,Fidelity National Information Services Inc,1,XNYS,USA,USD
+FTI,TechnipFMC PLC,1,XNYS,USA,USD
+GBLI,Global Indemnity PLC,1,XNYS,USA,USD
+GCTS,GCT Semiconductor Holding Inc,1,XNYS,USA,USD
+GEF,Greif Bros Corporation,1,XNYS,USA,USD
+GEF-B,Greif Inc,1,XNYS,USA,USD
+GLOB,Globant SA,1,XNYS,USA,USD
+GRP-UN,Granite Real Estate Investment Trust,1,XNYS,USA,USD
+HAL,Halliburton Company,1,XNYS,USA,USD
+HBM,Hudbay Minerals Inc.,1,XNYS,USA,USD
+PSTL,Postal Realty Trust Inc,1,XNYS,USA,USD
+REX,REX American Resources Corporation,1,XNYS,USA,USD
+RFMZ,RiverNorth Flexible Municipal Income Fund II Inc,1,XNYS,USA,USD
+RIO,Rio Tinto ADR,1,XNYS,USA,USD
+ROL,Rollins Inc,1,XNYS,USA,USD
+SKLZ,Skillz Platform Inc,1,XNYS,USA,USD
+SLND,Southland Holdings Inc.,1,XNYS,USA,USD
+SOR,Source Capital Closed Fund,1,XNYS,USA,USD
+SRG,Seritage Growth Properties,1,XNYS,USA,USD
+STR,Sitio Royalties Corp.,1,XNYS,USA,USD
+STXI,EA Series Trust,1,XNYS,USA,USD
+SWI,SolarWinds Corp,1,XNYS,USA,USD
+THG,The Hanover Insurance Group Inc,1,XNYS,USA,USD
+TNET,TriNet Group Inc,1,XNYS,USA,USD
+TNK,Teekay Tankers Ltd,1,XNYS,USA,USD
+TRNO,Terreno Realty Corporation,1,XNYS,USA,USD
+TU,Telus Corp,1,XNYS,USA,USD
+VTLE,Vital Energy Inc.,1,XNYS,USA,USD
+VTOL,Bristow Group Inc,1,XNYS,USA,USD
+ICL,ICL Israel Chemicals Ltd,1,XNYS,USA,USD
+IROHU,Iron Horse Acquisitions Corp. Unit,1,XNYS,USA,USD
+WPC,W P Carey Inc,1,XNYS,USA,USD
+XPO,XPO Logistics Inc,1,XNYS,USA,USD
+XYL,Xylem Inc,1,XNYS,USA,USD
+ZPTAW,Zapata Computing Holdings Inc. Warrant,1,XNYS,USA,USD
+AHT,Ashford Hospitality Trust Inc,1,XNYS,USA,USD
+ALG,Alamo Group Inc,1,XNYS,USA,USD
+ALLY,Ally Financial Inc,1,XNYS,USA,USD
+AMG,Affiliated Managers Group Inc,1,XNYS,USA,USD
+ARLO,Arlo Technologies,1,XNYS,USA,USD
+ASGI,Aberdeen Standard Global Infrastructure Income Fund,1,XNYS,USA,USD
+AXR,AMREP Corporation,1,XNYS,USA,USD
+BAP,Credicorp Ltd,1,XNYS,USA,USD
+BF-B,Brown-Forman Corporation,1,XNYS,USA,USD
+BFK,BlackRock Municipal Income Closed Fund,1,XNYS,USA,USD
+BIRK,Birkenstock Holding plc,1,XNYS,USA,USD
+BIT,Blackrock Multi Sector Income Closed Fund,1,XNYS,USA,USD
+BKE,Buckle Inc,1,XNYS,USA,USD
+BNED,Barnes & Noble Education Inc,1,XNYS,USA,USD
+BNY,BlackRock New York Municipal Income Trust,1,XNYS,USA,USD
+CAE,CAE Inc.,1,XNYS,USA,USD
+CAL,Caleres Inc,1,XNYS,USA,USD
+JLL,Jones Lang LaSalle Incorporated,1,XNYS,USA,USD
+JXN-P-A,JXN-P-A,1,XNYS,USA,USD
+KB,KB Financial Group Inc,1,XNYS,USA,USD
+KNX,Knight Transportation Inc,1,XNYS,USA,USD
+LPX,Louisiana-Pacific Corporation,1,XNYS,USA,USD
+MANU,Manchester United Ltd,1,XNYS,USA,USD
+MEI,Methode Electronics Inc,1,XNYS,USA,USD
+MLM,Martin Marietta Materials Inc,1,XNYS,USA,USD
+MMT,MFS Multimarket Income Trust,1,XNYS,USA,USD
+MTR,Mesa Royalty Trust,1,XNYS,USA,USD
+NCLH,Norwegian Cruise Line Holdings Ltd,1,XNYS,USA,USD
+NFG,National Fuel Gas Company,1,XNYS,USA,USD
+NIO,Nio Inc Class A ADR,1,XNYS,USA,USD
+NTZ,Natuzzi SpA,1,XNYS,USA,USD
+OPFI,OppFi Inc,1,XNYS,USA,USD
+PAAS,Pan American Silver Corp.,1,XNYS,USA,USD
+PACS,"PACS Group, Inc.",1,XNYS,USA,USD
+PAR,PAR Technology Corporation,1,XNYS,USA,USD
+PBT,Permian Basin Royalty Trust,1,XNYS,USA,USD
+PFGC,Performance Food Group Co,1,XNYS,USA,USD
+PH,Parker-Hannifin Corporation,1,XNYS,USA,USD
+PHR,Phreesia Inc,1,XNYS,USA,USD
+PII,Polaris Industries Inc,1,XNYS,USA,USD
+PNM,PNM Resources Inc,1,XNYS,USA,USD
+PRG,PROG Holdings Inc,1,XNYS,USA,USD
+PRLB,Proto Labs Inc,1,XNYS,USA,USD
+DAO,Youdao Inc,1,XNYS,USA,USD
+DIS,Walt Disney Company,1,XNYS,USA,USD
+DQ,Daqo New Energy Corp ADR,1,XNYS,USA,USD
+DTM,DT Midstream Inc,1,XNYS,USA,USD
+EAI,Entergy Arkansas LLC Deb 2066,1,XNYS,USA,USD
+EBF,Ennis Inc,1,XNYS,USA,USD
+EFC-P-D,EFC-P-D,1,XNYS,USA,USD
+EVTL,Vertical Aerospace Ltd,1,XNYS,USA,USD
+FNF,Fidelity National Financial Inc,1,XNYS,USA,USD
+GJP,STRATS SM Trust for Dominion Resources Inc Securities Series 2005-6 IC,1,XNYS,USA,USD
+HCC,Warrior Met Coal Inc,1,XNYS,USA,USD
+HDB,HDFC Bank Limited ADR,1,XNYS,USA,USD
+HHH,Howard Hughes Corporation,1,XNYS,USA,USD
+HOV,Hovnanian Enterprises Inc,1,XNYS,USA,USD
+RES,RPC Inc,1,XNYS,USA,USD
+ROG,Rogers Corporation,1,XNYS,USA,USD
+SAH,Sonic Automotive Inc,1,XNYS,USA,USD
+SAP,SAP SE ADR,1,XNYS,USA,USD
+SMFG,Sumitomo Mitsui Financial Group Inc,1,XNYS,USA,USD
+SMWB,SimilarWeb Ltd,1,XNYS,USA,USD
+SOJD,Southern Co,1,XNYS,USA,USD
+SU,Suncor Energy Inc,1,XNYS,USA,USD
+TGT,Target Corporation,1,XNYS,USA,USD
+TLN,Talen Energy Corporation Common Stock,1,XNYS,USA,USD
+TME,Tencent Music Entertainment Group,1,XNYS,USA,USD
+TNP,Tsakos Energy Navigation Ltd,1,XNYS,USA,USD
+UP,Wheels Up Experience Inc,1,XNYS,USA,USD
+VGR,Vector Group Ltd,1,XNYS,USA,USD
+IBN,ICICI Bank Limited,1,XNYS,USA,USD
+IDA,IDACORP Inc,1,XNYS,USA,USD
+WAT,Waters Corporation,1,XNYS,USA,USD
+WMS,Advanced Drainage Systems Inc,1,XNYS,USA,USD
+ZETA,Zeta Global Holdings Corp,1,XNYS,USA,USD
+AMPY,Amplify Energy Corp,1,XNYS,USA,USD
+AP,Ampco-Pittsburgh Corporation,1,XNYS,USA,USD
+ARE,Alexandria Real Estate Equities Inc,1,XNYS,USA,USD
+ARGD,Argo Group US Inc. 6.5% SR NTS 42,1,XNYS,USA,USD
+ATUS,Altice USA Inc,1,XNYS,USA,USD
+AWK,American Water Works,1,XNYS,USA,USD
+BALY,Bally's Corp,1,XNYS,USA,USD
+BE,Bloom Energy Corp,1,XNYS,USA,USD
+BLDR,Builders FirstSource Inc,1,XNYS,USA,USD
+BLX,Foreign Trade Bank of Latin America Inc,1,XNYS,USA,USD
+CABO,Cable One Inc,1,XNYS,USA,USD
+CARR,Carrier Global Corp,1,XNYS,USA,USD
+CIM-P-A,CIM-P-A,1,XNYS,USA,USD
+CNDA-U,CNDA-U,1,XNYS,USA,USD
+CNNE,Cannae Holdings Inc,1,XNYS,USA,USD
+JMIA,Jumia Technologies AG,1,XNYS,USA,USD
+K-W,K-W,1,XNYS,USA,USD
+LMT,Lockheed Martin Corporation,1,XNYS,USA,USD
+LOW,Lowe's Companies Inc,1,XNYS,USA,USD
+MCR,MFS Charter Income Trust,1,XNYS,USA,USD
+MSA,MSA Safety,1,XNYS,USA,USD
+MSDL,Morgan Stanley Direct Lending Fund,1,XNYS,USA,USD
+NEM,Newmont Goldcorp Corp,1,XNYS,USA,USD
+OBK,"Origin Bancorp, Inc.",1,XNYS,USA,USD
+PAG,Penske Automotive Group Inc,1,XNYS,USA,USD
+PBA,Pembina Pipeline Corp,1,XNYS,USA,USD
+PCOR,Procore Technologies Inc,1,XNYS,USA,USD
+PD,Pagerduty Inc,1,XNYS,USA,USD
+PHX,PHX Minerals Inc,1,XNYS,USA,USD
+PM,Philip Morris International Inc,1,XNYS,USA,USD
+CXT,Crane NXT Co,1,XNYS,USA,USD
+CYD,China Yuchai International Limited,1,XNYS,USA,USD
+DLX,Deluxe Corporation,1,XNYS,USA,USD
+DSAQ,Direct Selling Acquisition Corp,1,XNYS,USA,USD
+DTF,DTF Tax Free Income Closed Fund,1,XNYS,USA,USD
+EIG,Employers Holdings Inc,1,XNYS,USA,USD
+EME,EMCOR Group Inc,1,XNYS,USA,USD
+ETR,Entergy Corporation,1,XNYS,USA,USD
+FOA,Finance of America Companies Inc,1,XNYS,USA,USD
+FOACW,FOACW,1,XNYS,USA,USD
+FPH,Five Point Holdings LLC,1,XNYS,USA,USD
+FREY,FREYR Battery SA,1,XNYS,USA,USD
+FUL,H B Fuller Company,1,XNYS,USA,USD
+GFF,Griffon Corporation,1,XNYS,USA,USD
+GMRE,Global Medical REIT Inc,1,XNYS,USA,USD
+GNE,Genie Energy Ltd,1,XNYS,USA,USD
+RCUS,Arcus Biosciences Inc,1,XNYS,USA,USD
+SBXC-WT,SBXC-WT,1,XNYS,USA,USD
+SDHC,Smith Douglas Homes Corp.,1,XNYS,USA,USD
+SLG,SL Green Realty Corp,1,XNYS,USA,USD
+SMAR,Smartsheet Inc,1,XNYS,USA,USD
+STXT,EA Series Trust,1,XNYS,USA,USD
+SVV,"Savers Value Village, Inc.",1,XNYS,USA,USD
+SYY,Sysco Corporation,1,XNYS,USA,USD
+TM,Toyota Motor Corporation ADR,1,XNYS,USA,USD
+TWI,Titan International Inc,1,XNYS,USA,USD
+UHAL,U-Haul Holding Company,1,XNYS,USA,USD
+USM,United States Cellular Corporation,1,XNYS,USA,USD
+VATE,Innovate Corp,1,XNYS,USA,USD
+IHS,IHS Holding Ltd,1,XNYS,USA,USD
+IOT,Samsara Inc,1,XNYS,USA,USD
+IRT,Independence Realty Trust Inc,1,XNYS,USA,USD
+WU,Western Union Co,1,XNYS,USA,USD
+WY,Weyerhaeuser Company,1,XNYS,USA,USD
+ALIT,Alight Inc,1,XNYS,USA,USD
+AMTB,Amerant Bancorp Inc.,1,XNYS,USA,USD
+ARES,Ares Management LP,1,XNYS,USA,USD
+ARI,Apollo Commercial Real Estate Finance Inc,1,XNYS,USA,USD
+ASC,Ardmore Shpng,1,XNYS,USA,USD
+AXL,American Axle & Manufacturing,1,XNYS,USA,USD
+AXS,AXIS Capital Holdings Ltd,1,XNYS,USA,USD
+BABA,Alibaba Group Holding Ltd,1,XNYS,USA,USD
+BBUC,Brookfield Business Corp,1,XNYS,USA,USD
+BKSY-WS,BKSY-WS,1,XNYS,USA,USD
+BTZ,BlackRock Credit Allocation Income Trust,1,XNYS,USA,USD
+BWXT,BWX Technologies Inc,1,XNYS,USA,USD
+CARS,Cars.com Inc,1,XNYS,USA,USD
+CBL,CBL & Associates Properties Inc,1,XNYS,USA,USD
+CDRE,Cadre Holdings Inc,1,XNYS,USA,USD
+CIM,Chimera Investment Corporation,1,XNYS,USA,USD
+CRDB,Crawford & Company,1,XNYS,USA,USD
+CRGY,Crescent Energy Co,1,XNYS,USA,USD
+KREF-P-A,KREF-P-A,1,XNYS,USA,USD
+KTF,DWS Municipal Income Trust,1,XNYS,USA,USD
+LUV,Southwest Airlines Company,1,XNYS,USA,USD
+MIR,Mirion Technologies Inc,1,XNYS,USA,USD
+MITT,AG Mortgage Investment Trust Inc,1,XNYS,USA,USD
+MNSO,Miniso Group Holding Ltd,1,XNYS,USA,USD
+MUX,McEwen Mining Inc.,1,XNYS,USA,USD
+NEE,Nextera Energy Inc,1,XNYS,USA,USD
+NNI,Nelnet Inc,1,XNYS,USA,USD
+NTR,Nutrien Ltd,1,XNYS,USA,USD
+NXN,Nuveen New York Select Tax-Free Income Portfolio,1,XNYS,USA,USD
+OIA,Invesco Municipal Income Opportunities Closed Fund Class Common,1,XNYS,USA,USD
+ORC,Orchid Island Capital Inc.,1,XNYS,USA,USD
+PAYC,Paycom Soft,1,XNYS,USA,USD
+PGR,Progressive Corp,1,XNYS,USA,USD
+PINS,Pinterest Inc,1,XNYS,USA,USD
+PK,Park Hotels & Resorts Inc,1,XNYS,USA,USD
+PLNT,Planet Fitness Inc,1,XNYS,USA,USD
+PLOW,Douglas Dynamics Inc,1,XNYS,USA,USD
+PPL,PPL Corporation,1,XNYS,USA,USD
+PRIM,Primoris Services Corporation,1,XNYS,USA,USD
+CTOS,Custom Truck One Source Inc,1,XNYS,USA,USD
+CTVA,Corteva Inc,1,XNYS,USA,USD
+CVU,CPI Aerostructures Inc,1,XNYS,USA,USD
+DAY,Dayforce Inc.,1,XNYS,USA,USD
+DDT,Dillards Capital Trust I,1,XNYS,USA,USD
+DESP,Despegar.com Corp,1,XNYS,USA,USD
+DOMA,Doma Holdings Inc,1,XNYS,USA,USD
+EMP,Entergy Mississippi LLC,1,XNYS,USA,USD
+ENR,Energizer Holdings Inc,1,XNYS,USA,USD
+EQNR,Equinor ASA ADR,1,XNYS,USA,USD
+FBRT,Franklin BSP Realty Trust Inc,1,XNYS,USA,USD
+FG,F&G Annuities & Life Inc. ,1,XNYS,USA,USD
+FRT,Federal Realty Investment Trust,1,XNYS,USA,USD
+GRNT,Granite Ridge Resources Inc,1,XNYS,USA,USD
+GTNA,Gray Television Inc,1,XNYS,USA,USD
+GTY,Getty Realty Corporation,1,XNYS,USA,USD
+HPP,Hudson Pacific Properties Inc,1,XNYS,USA,USD
+HQH,Tekla Healthcare Investors,1,XNYS,USA,USD
+PSA,Public Storage,1,XNYS,USA,USD
+RGT,Royce Global Value Trust Inc,1,XNYS,USA,USD
+RKT,Rocket Companies Inc,1,XNYS,USA,USD
+RLX,RLX Technology Inc,1,XNYS,USA,USD
+RMMZ,RiverNorth Managed Duration Municipal Income Fund II Inc.,1,XNYS,USA,USD
+RNG,Ringcentral Inc,1,XNYS,USA,USD
+RNGR,Ranger Energy Services Inc,1,XNYS,USA,USD
+RRAC,Rigel Resource Acquisition Corp,1,XNYS,USA,USD
+RYAM,Rayonier Advanced Materials,1,XNYS,USA,USD
+RYAN,Ryan Specialty Group Holdings Inc,1,XNYS,USA,USD
+SAJ,Saratoga Investment Corp 8.00%,1,XNYS,USA,USD
+SCCO,Southern Copper Corporation,1,XNYS,USA,USD
+SEDA,SDCL EDGE Acquisition Corporation,1,XNYS,USA,USD
+SKT,Tanger Factory Outlet Centers Inc,1,XNYS,USA,USD
+SON,Sonoco Products Company,1,XNYS,USA,USD
+STN,Stantec Inc,1,XNYS,USA,USD
+SYK,Stryker Corporation,1,XNYS,USA,USD
+TEN-P-F,TEN-P-F,1,XNYS,USA,USD
+TIMB,TIM Participacoes SA,1,XNYS,USA,USD
+TVC,Tennessee Valley Authority Pref,1,XNYS,USA,USD
+VRTS,Virtus Investment Partners Inc,1,XNYS,USA,USD
+VSH,Vishay Intertechnology Inc,1,XNYS,USA,USD
+VSTS,Vestis Corporation,1,XNYS,USA,USD
+WMB,Williams Companies Inc,1,XNYS,USA,USD
+ACR,Acres Commercial Realty Corp,1,XNYS,USA,USD
+AFL,Aflac Incorporated,1,XNYS,USA,USD
+AMTD,AMTD IDEA Group,1,XNYS,USA,USD
+APG,Api Group Corp,1,XNYS,USA,USD
+AQN,Algonquin Power & Utilities Corp,1,XNYS,USA,USD
+AQNB,Algonquin Power Utilities Corp,1,XNYS,USA,USD
+ARW,Arrow Electronics Inc,1,XNYS,USA,USD
+AU,AngloGold Ashanti plc,1,XNYS,USA,USD
+AWI,Armstrong World Industries Inc,1,XNYS,USA,USD
+BDC,Belden Inc,1,XNYS,USA,USD
+BFLY,Butterfly Network Inc,1,XNYS,USA,USD
+BJ,BJs Wholesale Club Holdings Inc,1,XNYS,USA,USD
+BOW,Bowhead Specialty Holdings Inc.,1,XNYS,USA,USD
+CADE,Cadence Bancorp,1,XNYS,USA,USD
+CDP,COPT Defense Properties,1,XNYS,USA,USD
+CFR,Cullen/Frost Bankers Inc,1,XNYS,USA,USD
+CHGG,Chegg Inc,1,XNYS,USA,USD
+CIMN,Chimera Investment Corporation,1,XNYS,USA,USD
+CNP,CenterPoint Energy Inc,1,XNYS,USA,USD
+CSAN,Cosan SA ADR,1,XNYS,USA,USD
+KOS,Kosmos Energy Ltd,1,XNYS,USA,USD
+KWR,Quaker Chemical Corporation,1,XNYS,USA,USD
+LHX,L3Harris Technologies Inc,1,XNYS,USA,USD
+LMND,Lemonade Inc,1,XNYS,USA,USD
+LOAR,Loar Holdings Inc.,1,XNYS,USA,USD
+LYB,LyondellBasell Industries NV,1,XNYS,USA,USD
+MNR,Mach Natural Resources LP,1,XNYS,USA,USD
+MODG,Callaway Golf Company,1,XNYS,USA,USD
+MSCI,MSCI Inc,1,XNYS,USA,USD
+MUR,Murphy Oil Corporation,1,XNYS,USA,USD
+NEXA,Nexa Resources SA,1,XNYS,USA,USD
+NMR,Nomura Holdings Inc ADR,1,XNYS,USA,USD
+NTST,Netstreit Corp,1,XNYS,USA,USD
+NXE,NexGen Energy Ltd.,1,XNYS,USA,USD
+OGN,Organon & Co,1,XNYS,USA,USD
+OMC,Omnicom Group Inc,1,XNYS,USA,USD
+ONIT,Onity Group Inc.,1,XNYS,USA,USD
+PEAK,Healthpeak Properties Inc,1,XNYS,USA,USD
+PERF-WT,Perfect Corp. WT,1,XNYS,USA,USD
+CSTAF,CSTAF,1,XNYS,USA,USD
+CTEST,CTEST,1,XNYS,USA,USD
+CTLT,Catalent Inc,1,XNYS,USA,USD
+CTRI,"Centuri Holdings, Inc.",1,XNYS,USA,USD
+CWENA,Clearway Energy Inc Class A,1,XNYS,USA,USD
+CXE,MFS High Income Municipal Closed Fund,1,XNYS,USA,USD
+DKS,Dick’s Sporting Goods Inc,1,XNYS,USA,USD
+DLB,Dolby Laboratories,1,XNYS,USA,USD
+DRI,Darden Restaurants Inc,1,XNYS,USA,USD
+DT,Dynatrace Holdings LLC,1,XNYS,USA,USD
+ENOV,Enovis Corp,1,XNYS,USA,USD
+EVF,Eaton Vance Senior Income Closed Fund,1,XNYS,USA,USD
+EXR,Extra Space Storage Inc,1,XNYS,USA,USD
+GCTS-WS,GCTS-WS,1,XNYS,USA,USD
+GETY,Getty Images Holdings Inc.,1,XNYS,USA,USD
+GL,Globe Life Inc,1,XNYS,USA,USD
+HKD,AMTD Digital Inc.,1,XNYS,USA,USD
+QUAD,Quad Graphics Inc,1,XNYS,USA,USD
+RBOT,Vicarious Surgical Inc.,1,XNYS,USA,USD
+RBRK,"Rubrik, Inc.",1,XNYS,USA,USD
+RDN,Radian Group Inc,1,XNYS,USA,USD
+REZI,Resideo Technologies Inc,1,XNYS,USA,USD
+RGS,Regis Corporation Common Stock,1,XNYS,USA,USD
+SAR,Saratoga Investment Corp,1,XNYS,USA,USD
+SE,Sea Ltd,1,XNYS,USA,USD
+SWN,Southwestern Energy Company,1,XNYS,USA,USD
+TLYS,Tillys Inc,1,XNYS,USA,USD
+TREX,Trex Company Inc,1,XNYS,USA,USD
+TXT,Textron Inc,1,XNYS,USA,USD
+VICI,VICI Properties Inc,1,XNYS,USA,USD
+IBP,Installed Building Products Inc,1,XNYS,USA,USD
+IFN-R-W,IFN-R-W,1,XNYS,USA,USD
+IGT,International Game Technology PLC,1,XNYS,USA,USD
+ING,ING Group NV ADR,1,XNYS,USA,USD
+J,Jacobs Solutions Inc.,1,XNYS,USA,USD
+WGO,Winnebago Industries Inc,1,XNYS,USA,USD
+WLKP,Westlake Chemical Partners LP,1,XNYS,USA,USD
+AMCR,Amcor PLC,1,XNYS,USA,USD
+ANET,Arista Networks,1,XNYS,USA,USD
+AOS,Smith AO Corporation,1,XNYS,USA,USD
+ARL,American Realty Investors Inc,1,XNYS,USA,USD
+ASBA,Associated Banc-Corp 6.625% Fixed-Rate Reset Subordinated Notes due 2033,1,XNYS,USA,USD
+ATS,ATS Corporation,1,XNYS,USA,USD
+BCAT,BlackRock Capital Allocation Trust,1,XNYS,USA,USD
+BHR,Braemar Hotel & Resorts Inc,1,XNYS,USA,USD
+BIO,Bio-Rad Laboratories Inc,1,XNYS,USA,USD
+BME,BlackRock Health Sciences Trust,1,XNYS,USA,USD
+BOWL,Bowlero Corp,1,XNYS,USA,USD
+BPT,BP Prudhoe Bay Royalty Trust,1,XNYS,USA,USD
+CAT,Caterpillar Inc,1,XNYS,USA,USD
+CATO,Cato Corporation,1,XNYS,USA,USD
+CE,Celanese Corporation,1,XNYS,USA,USD
+CHMI,Cherry Hill Mortgage Investment Corp,1,XNYS,USA,USD
+CIEN,Ciena Corp,1,XNYS,USA,USD
+COUR,Coursera Inc,1,XNYS,USA,USD
+CRDA,Crawford & Company,1,XNYS,USA,USD
+CRH,CRH PLC ADR,1,XNYS,USA,USD
+KIM,Kimco Realty Corporation,1,XNYS,USA,USD
+KKRS,KKRS,1,XNYS,USA,USD
+KORE,KORE Group Holdings Inc,1,XNYS,USA,USD
+KRP,Kimbell Royalty Partners LP,1,XNYS,USA,USD
+LAW,CS Disco LLC,1,XNYS,USA,USD
+LICY,LiCycle Holdings Corp,1,XNYS,USA,USD
+MBC,MasterBrand Inc.,1,XNYS,USA,USD
+MKC,McCormick & Company Incorporated,1,XNYS,USA,USD
+MMM,3M Company,1,XNYS,USA,USD
+MOGU,MOGU Inc,1,XNYS,USA,USD
+MTEST,MTEST,1,XNYS,USA,USD
+MTX,Minerals Technologies Inc,1,XNYS,USA,USD
+NMKBP,Niagara Mohawk Power Corp,1,XNYS,USA,USD
+OLN,Olin Corporation,1,XNYS,USA,USD
+OPAD,Offerpad Solutions Inc,1,XNYS,USA,USD
+OTIS,Otis Worldwide Corp,1,XNYS,USA,USD
+PBRA,Petróleo Brasileiro S.A. - Petrobras,1,XNYS,USA,USD
+PIPR,Piper Sandler Companies,1,XNYS,USA,USD
+PJT,PJT Partners Inc,1,XNYS,USA,USD
+POR,Portland General Electric Co,1,XNYS,USA,USD
+PRI,Primerica Inc,1,XNYS,USA,USD
+CXM,Sprinklr Inc,1,XNYS,USA,USD
+DAVA,Endava Ltd,1,XNYS,USA,USD
+DHI,DR Horton Inc,1,XNYS,USA,USD
+ECCW,Eagle Point Credit Company Inc.,1,XNYS,USA,USD
+EFR,Eaton Vance Senior Floating Rate Closed Fund,1,XNYS,USA,USD
+EMN,Eastman Chemical Company,1,XNYS,USA,USD
+EQC,Equity Commonwealth,1,XNYS,USA,USD
+ESTC,Elastic NV,1,XNYS,USA,USD
+EXPD,Expeditors International of Washington Inc,1,XNYS,USA,USD
+FF,FutureFuel Corp,1,XNYS,USA,USD
+GCO,Genesco Inc,1,XNYS,USA,USD
+GGB,Gerdau SA ADR,1,XNYS,USA,USD
+GM,General Motors Company,1,XNYS,USA,USD
+GNL-P-E,GNL-P-E,1,XNYS,USA,USD
+HMN,Horace Mann Educators Corporation,1,XNYS,USA,USD
+HQL,Tekla Life Sciences Investors,1,XNYS,USA,USD
+HSY,Hershey Co,1,XNYS,USA,USD
+HUBS,HubSpot Inc,1,XNYS,USA,USD
+HUM,Humana Inc,1,XNYS,USA,USD
+PSN,Parsons Corp,1,XNYS,USA,USD
+REXR,Rexford Industrial Realty Inc,1,XNYS,USA,USD
+RM,Regional Management Corp,1,XNYS,USA,USD
+ROK,Rockwell Automation Inc,1,XNYS,USA,USD
+SCL,Stepan Company,1,XNYS,USA,USD
+SD,SandRidge Energy Inc,1,XNYS,USA,USD
+SEAL-P-B,SEAL-P-B,1,XNYS,USA,USD
+SEI,"Solaris Energy Infrastructure, Inc.",1,XNYS,USA,USD
+SNA,Snap-On Inc,1,XNYS,USA,USD
+SPHR,Sphere Entertainment Co.,1,XNYS,USA,USD
+SPXC,SPX Corp,1,XNYS,USA,USD
+SQ,Block Inc,1,XNYS,USA,USD
+SUZ,Suzano Papel e Celulose SA ADR,1,XNYS,USA,USD
+TGI,Triumph Group Inc,1,XNYS,USA,USD
+TY,Tri Continental Closed Fund,1,XNYS,USA,USD
+UHAL-B,U-Haul Holding Company,1,XNYS,USA,USD
+UI,Ubiquiti Networks Inc,1,XNYS,USA,USD
+USAC,USA Compression Partners LP,1,XNYS,USA,USD
+UVV,Universal Corporation,1,XNYS,USA,USD
+VAC,Marriot Vacations Worldwide,1,XNYS,USA,USD
+VHI,Valhi Inc,1,XNYS,USA,USD
+VMI,Valmont Industries Inc,1,XNYS,USA,USD
+IFF,International Flavors & Fragrances Inc,1,XNYS,USA,USD
+INVX,"Innovex International, Inc",1,XNYS,USA,USD
+WOW,WideOpenWest Inc,1,XNYS,USA,USD
+WS,Worthington Steel Inc,1,XNYS,USA,USD
+YMM,Full Truck Alliance Co Ltd ADR,1,XNYS,USA,USD
+AFGE,American Financial Group AFGE,1,XNYS,USA,USD
+ASAI,Sendas Distribuidora SA,1,XNYS,USA,USD
+ATGE,Adtalem Global Education Inc,1,XNYS,USA,USD
+AXP,American Express Company,1,XNYS,USA,USD
+BLE,BlackRock MIT II,1,XNYS,USA,USD
+BLK,BlackRock Inc,1,XNYS,USA,USD
+BORR,Borr Drilling Ltd,1,XNYS,USA,USD
+BWNB,Babcock & Wilcox Enterprises Inc.,1,XNYS,USA,USD
+CC,Chemours Co,1,XNYS,USA,USD
+CFG-PH,"Citizens Financial Group, Inc",1,XNYS,USA,USD
+CGA,China Green Agriculture Inc,1,XNYS,USA,USD
+CHT,Chunghwa Telecom Co Ltd,1,XNYS,USA,USD
+CIG-C,Energy of Minas Gerais Co DRC,1,XNYS,USA,USD
+CNDA,Concord Acquisition Corp II,1,XNYS,USA,USD
+CNH,CNH Industrial N.V.,1,XNYS,USA,USD
+COR,Cencora Inc.,1,XNYS,USA,USD
+CP,Canadian Pacific Railway Ltd,1,XNYS,USA,USD
+CRL,Charles River Laboratories,1,XNYS,USA,USD
+JOBY-WT,Joby Aviation Inc.,1,XNYS,USA,USD
+KNOP,KNOT Offshore Partners LP,1,XNYS,USA,USD
+LEN-B,Lennar Corporation,1,XNYS,USA,USD
+MITP,"AG Mortgage Investment Trust, Inc",1,XNYS,USA,USD
+MKL,Markel Corporation,1,XNYS,USA,USD
+MOD,Modine Manufacturing Company,1,XNYS,USA,USD
+MPW,Medical Properties Trust Inc,1,XNYS,USA,USD
+MWA,Mueller Water Products,1,XNYS,USA,USD
+NUVB,Nuvation Bio Inc,1,XNYS,USA,USD
+OBDE,Blue Owl Capital Corporation III,1,XNYS,USA,USD
+PAGS,PagSeguro Digital Ltd,1,XNYS,USA,USD
+PATH,Uipath Inc,1,XNYS,USA,USD
+PEB,Pebblebrook Hotel Trust,1,XNYS,USA,USD
+PLD,Prologis Inc,1,XNYS,USA,USD
+PNST-WS,PNST-WS,1,XNYS,USA,USD
+DB,Deutsche Bank AG,1,XNYS,USA,USD
+DLNG,Dynagas LNG Partners LP,1,XNYS,USA,USD
+DOLE,Dole PLC,1,XNYS,USA,USD
+EAF,GrafTech International Ltd,1,XNYS,USA,USD
+ECCC,Eagle Point Credit Company Inc Preferred,1,XNYS,USA,USD
+EHAB,Enhabit Inc.,1,XNYS,USA,USD
+ENIC,Enel Chile SA ADR,1,XNYS,USA,USD
+ENS,Enersys,1,XNYS,USA,USD
+ESNT,Essent Group Ltd,1,XNYS,USA,USD
+ESS,Essex Property Trust Inc,1,XNYS,USA,USD
+ET-PI,Energy Transfer LP,1,XNYS,USA,USD
+FCF,First Commonwealth Financial,1,XNYS,USA,USD
+FNB,F.N.B. Corp,1,XNYS,USA,USD
+GATX,GATX Corporation,1,XNYS,USA,USD
+GRDN,"Guardian Pharmacy Services, Inc.",1,XNYS,USA,USD
+GSL,Global Ship Lease Inc,1,XNYS,USA,USD
+GWH-WT,GWH-WT,1,XNYS,USA,USD
+HCXY,Hercules Capital Inc,1,XNYS,USA,USD
+HMC,Honda Motor Co Ltd ADR,1,XNYS,USA,USD
+HRB,H&R Block Inc,1,XNYS,USA,USD
+QGEN,Qiagen NV,1,XNYS,USA,USD
+RIG,Transocean Ltd,1,XNYS,USA,USD
+SGU,Star Gas Partners LP,1,XNYS,USA,USD
+SJM,JM Smucker Company,1,XNYS,USA,USD
+SQM,Sociedad Quimica y Minera de Chile SA ADR B,1,XNYS,USA,USD
+TEF,Telefonica SA ADR,1,XNYS,USA,USD
+URI,United Rentals Inc,1,XNYS,USA,USD
+UWMC,UWM Holdings Corp,1,XNYS,USA,USD
+VIPS,Vipshop Holdings Limited,1,XNYS,USA,USD
+VZ,Verizon Communications Inc,1,XNYS,USA,USD
+INSP,Inspire Medical Systems Inc,1,XNYS,USA,USD
+WLK,Westlake Chemical Corporation,1,XNYS,USA,USD
+ADC,Agree Realty Corporation,1,XNYS,USA,USD
+AHR,"American Healthcare REIT, Inc.",1,XNYS,USA,USD
+AL,Air Lease Corporation,1,XNYS,USA,USD
+APAM,Artisan Partners Asset Management Inc,1,XNYS,USA,USD
+AZO,AutoZone Inc,1,XNYS,USA,USD
+AZZ,AZZ Incorporated,1,XNYS,USA,USD
+BANC-P-F,BANC-P-F,1,XNYS,USA,USD
+BBAI,BigBearai Holdings Inc,1,XNYS,USA,USD
+BCSF,Bain Capital Specialty Finance Inc,1,XNYS,USA,USD
+BGS,B&G Foods Inc,1,XNYS,USA,USD
+BH-A,Biglari Holdings Inc,1,XNYS,USA,USD
+BHP,BHP Group Limited,1,XNYS,USA,USD
+BOOT,Boot Barn Holdings Inc,1,XNYS,USA,USD
+BRO,Brown & Brown Inc,1,XNYS,USA,USD
+BROS,Dutch Bros Inc,1,XNYS,USA,USD
+BRX,Brixmor Property,1,XNYS,USA,USD
+BWA,BorgWarner Inc,1,XNYS,USA,USD
+CAVA,"CAVA Group, Inc.",1,XNYS,USA,USD
+CLVT,CLARIVATE PLC,1,XNYS,USA,USD
+CMSC,CMS Energy Corp,1,XNYS,USA,USD
+CNDA-WS,CNDA-WS,1,XNYS,USA,USD
+CPNG,Coupang LLC,1,XNYS,USA,USD
+JKS,JinkoSolar Holding Company Limited,1,XNYS,USA,USD
+KVUE,Kenvue Inc.,1,XNYS,USA,USD
+KVYO,"Klaviyo, Inc.",1,XNYS,USA,USD
+LPL,LG Display Co Ltd,1,XNYS,USA,USD
+MAC,Macerich Company,1,XNYS,USA,USD
+MFAN,"MFA Financial, Inc. 8.875%",1,XNYS,USA,USD
+MMI,Marcus & Millichap Inc,1,XNYS,USA,USD
+MOS,The Mosaic Company,1,XNYS,USA,USD
+MSGE,Madison Square Garden Entertainment Corp,1,XNYS,USA,USD
+NABL,N-Able Inc,1,XNYS,USA,USD
+NET,Cloudflare Inc,1,XNYS,USA,USD
+NMAI,Nuveen Multi-Asset Income Fund,1,XNYS,USA,USD
+NOK,Nokia Corp ADR,1,XNYS,USA,USD
+NPWR,NET Power Inc.,1,XNYS,USA,USD
+NWG,Natwest Group PLC,1,XNYS,USA,USD
+OVV,Ovintiv Inc,1,XNYS,USA,USD
+PBR,Petroleo Brasileiro Petrobras SA ADR,1,XNYS,USA,USD
+CWH,Camping World Holdings Inc,1,XNYS,USA,USD
+DELL,Dell Technologies Inc,1,XNYS,USA,USD
+DHX,DHI Group Inc,1,XNYS,USA,USD
+DTB,DTE Energy Company 2020 Series,1,XNYS,USA,USD
+DTW,DTE Energy Co Pref Series E,1,XNYS,USA,USD
+DVA,DaVita HealthCare Partners Inc,1,XNYS,USA,USD
+EDN,Empresa Distribuidora y Comercializadora Norte SA ADR,1,XNYS,USA,USD
+EICA,Eagle Point Income Company Inc Preferred Series A,1,XNYS,USA,USD
+ELPC,Companhia Paranaense de Energia - COPEL,1,XNYS,USA,USD
+EXK,Endeavour Silver Corp.,1,XNYS,USA,USD
+FSLY,Fastly Inc,1,XNYS,USA,USD
+FTV,Fortive Corp,1,XNYS,USA,USD
+HI,Hillenbrand Inc,1,XNYS,USA,USD
+HLX,Helix Energy Solutions Group Inc,1,XNYS,USA,USD
+HMY,Harmony Gold Mining Company Limited,1,XNYS,USA,USD
+HTH,Hilltop Holdings Inc,1,XNYS,USA,USD
+PSTG,Pure Storage Inc,1,XNYS,USA,USD
+RCI,Rogers Communications Inc,1,XNYS,USA,USD
+RF,Regions Financial Corporation,1,XNYS,USA,USD
+RVT,Royce Value Closed Fund,1,XNYS,USA,USD
+RWTN,"Redwood Trust, Inc. 9.125%",1,XNYS,USA,USD
+SCHW,Charles Schwab Corp,1,XNYS,USA,USD
+SDRL,Seadrill Limited,1,XNYS,USA,USD
+SHW,Sherwin-Williams Co,1,XNYS,USA,USD
+SRV-R,SRV-R,1,XNYS,USA,USD
+SSL,Sasol Ltd,1,XNYS,USA,USD
+TAP-A,Molson Coors Beverage Company,1,XNYS,USA,USD
+TBB,AT&T Inc,1,XNYS,USA,USD
+TEO,Telecom Argentina SA ADR,1,XNYS,USA,USD
+TT,Trane Technologies plc,1,XNYS,USA,USD
+VRN,Veren Inc,1,XNYS,USA,USD
+VRT,Vertiv Holdings Co,1,XNYS,USA,USD
+HYLN,Hyliion Holdings Corp,1,XNYS,USA,USD
+JBL,Jabil Circuit Inc,1,XNYS,USA,USD
+WBS,Webster Financial Corporation,1,XNYS,USA,USD
+WEAV,Weave Communications Inc,1,XNYS,USA,USD
+WKC,World Kinect Corporation,1,XNYS,USA,USD
+WSR,Whitestone REIT,1,XNYS,USA,USD
+XPRO,Expro Group Holdings NV,1,XNYS,USA,USD
+ZTO,ZTO Express (Cayman) Inc,1,XNYS,USA,USD
+AACT,Ares Acquisition Corporation II,1,XNYS,USA,USD
+AAT,American Assets Trust Inc,1,XNYS,USA,USD
+ACM,Aecom Technology Corporation,1,XNYS,USA,USD
+AJX,Great Ajax Corp,1,XNYS,USA,USD
+ARCH,Arch Resources Inc,1,XNYS,USA,USD
+ARDT,"Ardent Health Partners, Inc.",1,XNYS,USA,USD
+AVA,Avista Corporation,1,XNYS,USA,USD
+AXAC,AXIOS Sustainable Growth,1,XNYS,USA,USD
+BALL,Ball Corporation,1,XNYS,USA,USD
+BAX,Baxter International Inc,1,XNYS,USA,USD
+BHLB,Berkshire Hills Bancorp Inc,1,XNYS,USA,USD
+BW,Babcock & Wilcox Enterprises Inc,1,XNYS,USA,USD
+CALX,Calix Inc,1,XNYS,USA,USD
+CHE,Chemed Corp,1,XNYS,USA,USD
+CHMI-P-A,CHMI-P-A,1,XNYS,USA,USD
+CI,Cigna Corp,1,XNYS,USA,USD
+CIB,Bancolombia SA ADR,1,XNYS,USA,USD
+CLBR-WT,CLBR-WT,1,XNYS,USA,USD
+CLW,Clearwater Paper Corporation,1,XNYS,USA,USD
+CPB,Campbell Soup Company Common Stock,1,XNYS,USA,USD
+KEX,Kirby Corporation,1,XNYS,USA,USD
+KMX,CarMax Inc,1,XNYS,USA,USD
+LB,LandBridge Company LLC,1,XNYS,USA,USD
+M,Macy’s Inc,1,XNYS,USA,USD
+MATX,Matson Inc,1,XNYS,USA,USD
+MFC,Manulife Financial Corp,1,XNYS,USA,USD
+MHO,M/I Homes Inc,1,XNYS,USA,USD
+MKCV,"McCormick & Company, Incorporated",1,XNYS,USA,USD
+MNTN,Everest Consolidator Acquisition Corp,1,XNYS,USA,USD
+MTW,Manitowoc Company Inc,1,XNYS,USA,USD
+NREF,Nexpoint Real Estate Finance Inc,1,XNYS,USA,USD
+NRP,Natural Resource Partners LP,1,XNYS,USA,USD
+OEC,Orion Engineered Carbons SA,1,XNYS,USA,USD
+OKE,ONEOK Inc,1,XNYS,USA,USD
+OLP,One Liberty Properties Inc,1,XNYS,USA,USD
+OUST,Ouster Inc,1,XNYS,USA,USD
+PCG,PG&E Corp,1,XNYS,USA,USD
+PEG,Public Service Enterprise Group Inc,1,XNYS,USA,USD
+PFLT,PennantPark Floating Rate Capital Ltd,1,XNYS,USA,USD
+PIM,Putnam Master Intermediate Income Trust,1,XNYS,USA,USD
+PLTR,Palantir Technologies Inc,1,XNYS,USA,USD
+CTS,CTS Corporation,1,XNYS,USA,USD
+DDD,3D Systems Corporation,1,XNYS,USA,USD
+DIN,Dine Brands Global Inc,1,XNYS,USA,USD
+DNOW,Now Inc,1,XNYS,USA,USD
+DY,Dycom Industries Inc,1,XNYS,USA,USD
+EIX,Edison International,1,XNYS,USA,USD
+ENVA,Enova International Inc,1,XNYS,USA,USD
+EPD,Enterprise Products Partners LP,1,XNYS,USA,USD
+EW,Edwards Lifesciences Corp,1,XNYS,USA,USD
+FBP,First Bancorp,1,XNYS,USA,USD
+FNA,Paragon 28 Inc,1,XNYS,USA,USD
+FND,Floor & Decor Holdings Inc,1,XNYS,USA,USD
+FVRR,Fiverr International Ltd,1,XNYS,USA,USD
+GBX,Greenbrier Companies Inc,1,XNYS,USA,USD
+GIL,Gildan Activewear Inc.,1,XNYS,USA,USD
+GMED,Globus Medical,1,XNYS,USA,USD
+GNL-PE,Global Net Lease Inc.,1,XNYS,USA,USD
+GROV,Virgin Group Acquisition Corp II,1,XNYS,USA,USD
+GRX,Gabelli Healthcare & WellnessRx Trust,1,XNYS,USA,USD
+HCI,HCI Group Inc,1,XNYS,USA,USD
+HLT,Hilton Worldwide Holdings Inc,1,XNYS,USA,USD
+PSFE,Paysafe Ltd,1,XNYS,USA,USD
+RCB,Ready Capital Corporation,1,XNYS,USA,USD
+RERE,ATRenew Inc DRC,1,XNYS,USA,USD
+RH,RH,1,XNYS,USA,USD
+RMD,ResMed Inc,1,XNYS,USA,USD
+SM,SM Energy Co,1,XNYS,USA,USD
+SPR,Spirit Aerosystems Holdings Inc,1,XNYS,USA,USD
+STC,Stewart Information Services Corp,1,XNYS,USA,USD
+SWK,Stanley Black & Decker Inc,1,XNYS,USA,USD
+TECK,Teck Resources Ltd Class B,1,XNYS,USA,USD
+TEVA,Teva Pharma Industries Ltd ADR,1,XNYS,USA,USD
+THS,Treehouse Foods Inc,1,XNYS,USA,USD
+TMO,Thermo Fisher Scientific Inc,1,XNYS,USA,USD
+TTI,Tetra Technologies Inc,1,XNYS,USA,USD
+TYG,Tortoise Energy Infrastructure Closed Fund,1,XNYS,USA,USD
+UBER,Uber Technologies Inc,1,XNYS,USA,USD
+UFI,Unifi Inc,1,XNYS,USA,USD
+UPS,United Parcel Service Inc,1,XNYS,USA,USD
+USB,U.S. Bancorp,1,XNYS,USA,USD
+VAL-WT,Valaris Limited WT,1,XNYS,USA,USD
+INST,Instructure Holdings Inc,1,XNYS,USA,USD
+WTM,White Mountains Insurance Group Ltd,1,XNYS,USA,USD
+WWW,Wolverine World Wide Inc,1,XNYS,USA,USD
+XPOF,Xponential Fitness Inc,1,XNYS,USA,USD
+AA,Alcoa Corp,1,XNYS,USA,USD
+AGR,Avangrid Inc,1,XNYS,USA,USD
+AIG,American International Group Inc,1,XNYS,USA,USD
+ALUR,"Allurion Technologies, Inc.",1,XNYS,USA,USD
+ALV,Autoliv Inc,1,XNYS,USA,USD
+AME,Ametek Inc,1,XNYS,USA,USD
+ANRO,"Alto Neuroscience, Inc.",1,XNYS,USA,USD
+ASB,Associated Banc-Corp,1,XNYS,USA,USD
+BIGZ,Blackrock Innovation & Growth Trust,1,XNYS,USA,USD
+BNJ,Brookfield Finance Inc. 4.50% P,1,XNYS,USA,USD
+BRK-B,Berkshire Hathaway Inc,1,XNYS,USA,USD
+BYD,Boyd Gaming Corporation,1,XNYS,USA,USD
+CCZ,Comcast Holdings Corp,1,XNYS,USA,USD
+CF,CF Industries Holdings Inc,1,XNYS,USA,USD
+CHH,Choice Hotels International Inc,1,XNYS,USA,USD
+CINT,Ci&T Inc,1,XNYS,USA,USD
+CNC,Centene Corp,1,XNYS,USA,USD
+CPAY,Corpay Inc,1,XNYS,USA,USD
+KGS,"Kodiak Gas Services, Inc.",1,XNYS,USA,USD
+KUKE,Kuke Music Holding Ltd,1,XNYS,USA,USD
+LNC,Lincoln National Corporation,1,XNYS,USA,USD
+LND,Brasilagro Adr,1,XNYS,USA,USD
+LRN,Stride Inc,1,XNYS,USA,USD
+MAX,MediaAlpha Inc.,1,XNYS,USA,USD
+MD,Mednax Inc,1,XNYS,USA,USD
+MUSA,Murphy USA Inc,1,XNYS,USA,USD
+NGVT,Ingevity Corp,1,XNYS,USA,USD
+NLY,Annaly Capital Management Inc,1,XNYS,USA,USD
+NPCT,Nuveen Core Plus Impact Fund,1,XNYS,USA,USD
+NXC,Nuveen California Select Tax Free Income Closed Fund,1,XNYS,USA,USD
+OUST-WTA,Ouster Inc.,1,XNYS,USA,USD
+PRO,PROS Holdings Inc,1,XNYS,USA,USD
+DAL,Delta Air Lines Inc,1,XNYS,USA,USD
+DOUG,Douglas Elliman Inc,1,XNYS,USA,USD
+DTG,DTE Energy Company 2021 Series E,1,XNYS,USA,USD
+ELAN,Elanco Animal Health,1,XNYS,USA,USD
+FLNG,FLEX LNG Ltd,1,XNYS,USA,USD
+GB,Global Blue Group Holding Ltd,1,XNYS,USA,USD
+GE_old,General Electric Company,1,XNYS,USA,USD
+GFL,Gfl Environmental Holdings Inc,1,XNYS,USA,USD
+GJO,Strats SM Trust for Wal Mart Stores Inc Securities Series 2005-4 GIC,1,XNYS,USA,USD
+GNTY,"Guaranty Bancshares, Inc.",1,XNYS,USA,USD
+GPJA,Georgia Power Co,1,XNYS,USA,USD
+GRND,Grindr Inc,1,XNYS,USA,USD
+GTN,Gray Television Inc,1,XNYS,USA,USD
+HASI,Hannon Armstrong Sustainable Infrastructure Capital Inc,1,XNYS,USA,USD
+HRI,Herc Holdings Inc,1,XNYS,USA,USD
+PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund,1,XNYS,USA,USD
+RDY,Dr. Reddy’s Laboratories Ltd ADR,1,XNYS,USA,USD
+RLJ,RLJ Lodging Trust,1,XNYS,USA,USD
+RPM,RPM International Inc,1,XNYS,USA,USD
+RTX,Raytheon Technologies Corp,1,XNYS,USA,USD
+RY,Royal Bank of Canada,1,XNYS,USA,USD
+RZB,Reinsurance Group of America Inc,1,XNYS,USA,USD
+SBH,Sally Beauty Holdings Inc,1,XNYS,USA,USD
+SMBK,SmartFinancial Inc,1,XNYS,USA,USD
+SNDA,Sonida Senior Living Inc,1,XNYS,USA,USD
+STVN,Stevanato Group SpA,1,XNYS,USA,USD
+THR,Thermon Group Holdings Inc,1,XNYS,USA,USD
+TRAK,ReposiTrak,1,XNYS,USA,USD
+TSN,Tyson Foods Inc,1,XNYS,USA,USD
+TUYA,Tuya Inc ADR,1,XNYS,USA,USD
+UE,Urban Edge Properties,1,XNYS,USA,USD
+USFD,US Foods Holding Corp,1,XNYS,USA,USD
+UTL,UNITIL Corporation,1,XNYS,USA,USD
+UVE,Universal Insurance Holdings Inc,1,XNYS,USA,USD
+VHC,VirnetX Holding Corp,1,XNYS,USA,USD
+VLO,Valero Energy Corporation,1,XNYS,USA,USD
+VVX,V2X Inc,1,XNYS,USA,USD
+IAG,IAMGold Corporation,1,XNYS,USA,USD
+IDT,IDT Corporation,1,XNYS,USA,USD
+IH,Ihuman Inc,1,XNYS,USA,USD
+IMAX,Imax Corp,1,XNYS,USA,USD
+WEL,Integrated Wellness Acquisition Corp,1,XNYS,USA,USD
+WPM,Wheaton Precious Metals Corp,1,XNYS,USA,USD
+WTI,W&T Offshore Inc,1,XNYS,USA,USD
+ZK,ZEEKR Intelligent Technology Holding Limited,1,XNYS,USA,USD
+ZWS,Zurn Elkay Water Solutions Corporation,1,XNYS,USA,USD
+ADT,ADT Inc,1,XNYS,USA,USD
+AEO,American Eagle Outfitters Inc,1,XNYS,USA,USD
+APOS,Apollo Global Management Inc.,1,XNYS,USA,USD
+AS,"Amer Sports, Inc.",1,XNYS,USA,USD
+ASAN,Asana Inc,1,XNYS,USA,USD
+BHC,Bausch Health Companies Inc,1,XNYS,USA,USD
+BIG,Big Lots Inc,1,XNYS,USA,USD
+BNRE,Brookfield Reinsurance Ltd.,1,XNYS,USA,USD
+BRSP,Brightspire Capital Inc,1,XNYS,USA,USD
+BSAC,Banco Santander Chile,1,XNYS,USA,USD
+CMP,Compass Minerals International Inc,1,XNYS,USA,USD
+CNDA-UN,Concord Acquisition Corp II,1,XNYS,USA,USD
+CNX,CNX Resources Corp,1,XNYS,USA,USD
+CPAC,Cementos Pacasmayo SAA ADR,1,XNYS,USA,USD
+CPK,Chesapeake Utilities Corporation,1,XNYS,USA,USD
+CPS,Cooper Stnd,1,XNYS,USA,USD
+CSR,Centerspace,1,XNYS,USA,USD
+KFS,Kingsway Financial Services Inc,1,XNYS,USA,USD
+KFY,Korn Ferry,1,XNYS,USA,USD
+KIND,Nextdoor Holdings Inc,1,XNYS,USA,USD
+LEJUY,Leju Holdings Limited,1,XNYS,USA,USD
+LGF-A,Lions Gate Entertainment Corp,1,XNYS,USA,USD
+LNN,Lindsay Corporation,1,XNYS,USA,USD
+MGRB,"Affiliated Managers Group, Inc.",1,XNYS,USA,USD
+NAT,Nordic American Tankers Limited,1,XNYS,USA,USD
+NATL,NCR Atleos Corporation,1,XNYS,USA,USD
+NBR,Nabors Industries Ltd,1,XNYS,USA,USD
+NCDL,Nuveen Churchill Direct Lending Corp.,1,XNYS,USA,USD
+NXG,NXG NextGen Infrastructure Income Fund,1,XNYS,USA,USD
+PFS,Provident Financial Services Inc,1,XNYS,USA,USD
+PHD,Pioneer Floating Rate Trust,1,XNYS,USA,USD
+PHI,PLDT Inc ADR,1,XNYS,USA,USD
+PMO,Putnam Municipal Opportunities Trust,1,XNYS,USA,USD
+CTRA,Coterra Energy Inc,1,XNYS,USA,USD
+DLR,Digital Realty Trust Inc,1,XNYS,USA,USD
+DOV,Dover Corporation,1,XNYS,USA,USD
+EBRB,Centrais Electricas Brasileiras S.A.- Eletrobr?!s American Depositary Shares (Each representing one Preferred Share),1,XNYS,USA,USD
+EBWK,Enigma-Bulwark Ltd.,1,XNYS,USA,USD
+ED,Consolidated Edison Inc,1,XNYS,USA,USD
+ELME,Elme Communities,1,XNYS,USA,USD
+FBIN,Fortune Brands Innovations Inc.,1,XNYS,USA,USD
+FC,Franklin Covey Company,1,XNYS,USA,USD
+FHI,Federated Investors Inc B,1,XNYS,USA,USD
+FSRN,Fisker Inc,1,XNYS,USA,USD
+GFI,Gold Fields Ltd ADR,1,XNYS,USA,USD
+GGZ,Gabelli Global Small and Mid Cap Value Closed Fund,1,XNYS,USA,USD
+GHM,Graham Corporation,1,XNYS,USA,USD
+GIS,General Mills Inc,1,XNYS,USA,USD
+GVA,Granite Construction Incorporated,1,XNYS,USA,USD
+HCA,HCA Holdings Inc,1,XNYS,USA,USD
+HOUS,Anywhere Real Estate Inc,1,XNYS,USA,USD
+HR,Healthcare Realty Trust Incorporated,1,XNYS,USA,USD
+HXL,Hexcel Corporation,1,XNYS,USA,USD
+PVH,PVH Corp,1,XNYS,USA,USD
+RCC,Small Cap Premium & Dividend Income Fund Inc,1,XNYS,USA,USD
+RRX,Regal Beloit Corporation,1,XNYS,USA,USD
+RVTY,Revvity Inc.,1,XNYS,USA,USD
+SID,Companhia Siderurgica Nacional ADR,1,XNYS,USA,USD
+SMHI,SEACOR Marine Holdings Inc,1,XNYS,USA,USD
+SXC,SunCoke Energy Inc,1,XNYS,USA,USD
+TAP,Molson Coors Brewing Co Class B,1,XNYS,USA,USD
+TS,Tenaris SA ADR,1,XNYS,USA,USD
+UNM,Unum Group,1,XNYS,USA,USD
+V,Visa Inc. Class A,1,XNYS,USA,USD
+VATE-R,VATE-R,1,XNYS,USA,USD
+IQV,IQVIA Holdings Inc,1,XNYS,USA,USD
+JBI,Janus International Group Inc,1,XNYS,USA,USD
+WK,Workiva Inc,1,XNYS,USA,USD
+XIN,Xinyuan Real Estate Co Ltd,1,XNYS,USA,USD
+ZH,Zhihu Inc ADR,1,XNYS,USA,USD
+AAM,AA Mission Acquisition Corp.,1,XNYS,USA,USD
+AGM-A,Federal Agricultural Mortgage Corporation,1,XNYS,USA,USD
+APD,Air Products and Chemicals Inc,1,XNYS,USA,USD
+APO,Apollo Global Management LLC Class A,1,XNYS,USA,USD
+ARMK,Aramark Holdings,1,XNYS,USA,USD
+ATEN,A10 Network,1,XNYS,USA,USD
+AZEK,Azek Company Inc,1,XNYS,USA,USD
+BA,The Boeing Company,1,XNYS,USA,USD
+BAC,Bank of America Corp,1,XNYS,USA,USD
+BCS,Barclays PLC ADR,1,XNYS,USA,USD
+BFAC,Battery Future Acquisition Corp,1,XNYS,USA,USD
+BTT,Blackrock Municipal Target Term Closed Fund,1,XNYS,USA,USD
+BVN,Compania de Minas Buenaventura SAA ADR,1,XNYS,USA,USD
+BYON,Beyond Inc.,1,XNYS,USA,USD
+CIO,City Office,1,XNYS,USA,USD
+CIVI,Civitas Resources Inc,1,XNYS,USA,USD
+CLPR,Clipper Realty Inc,1,XNYS,USA,USD
+CNO,CNO Financial Group Inc,1,XNYS,USA,USD
+COHR,Coherent Inc,1,XNYS,USA,USD
+JHG,Janus Henderson Group PLC,1,XNYS,USA,USD
+JHI,John Hancock Investors Closed Fund,1,XNYS,USA,USD
+KAR,KAR Auction Services Inc,1,XNYS,USA,USD
+KODK,Eastman Kodak Co,1,XNYS,USA,USD
+LADR,Ladder Capital Corp Class A,1,XNYS,USA,USD
+LFT,Lument Finance Trust Inc,1,XNYS,USA,USD
+LLFLQ,"LL Flooring Holdings, Inc.",1,XNYS,USA,USD
+LZM,Lifezone Metals Limited,1,XNYS,USA,USD
+MCW,Mister Car Wash Inc,1,XNYS,USA,USD
+MNTN-UN,Everest Consolidator Acquisition Corporation,1,XNYS,USA,USD
+MTG,MGIC Investment Corp,1,XNYS,USA,USD
+MTN,Vail Resorts Inc,1,XNYS,USA,USD
+MTRN,Materion Corporation,1,XNYS,USA,USD
+NMM,Navios Maritime Partners LP Unit,1,XNYS,USA,USD
+NVO,Novo Nordisk A/S,1,XNYS,USA,USD
+OSCR,Oscar Health Inc,1,XNYS,USA,USD
+OWL,Blue Owl Capital Inc,1,XNYS,USA,USD
+OXM,Oxford Industries Inc,1,XNYS,USA,USD
+PAY,Paymentus Holdings Inc,1,XNYS,USA,USD
+PBF,PBF Energy Inc,1,XNYS,USA,USD
+PEN,Penumbra Inc,1,XNYS,USA,USD
+PHG,Koninklijke Philips NV ADR,1,XNYS,USA,USD
+PR,Permian Resources Corporation,1,XNYS,USA,USD
+PREJF,PartnerRe Ltd.,1,XNYS,USA,USD
+CSV,Carriage Services Inc,1,XNYS,USA,USD
+CWAN,Clearwater Analytics Holdings Inc,1,XNYS,USA,USD
+D,Dominion Energy Inc,1,XNYS,USA,USD
+DCO,Ducommun Incorporated,1,XNYS,USA,USD
+DM,Desktop Metal Inc,1,XNYS,USA,USD
+DOCS,Doximity Inc,1,XNYS,USA,USD
+EFXT,Enerflex Ltd.,1,XNYS,USA,USD
+ELF,ELF Beauty Inc,1,XNYS,USA,USD
+EQH,Axa Equitable Holdings Inc,1,XNYS,USA,USD
+EVR,Evercore Partners Inc,1,XNYS,USA,USD
+FE,FirstEnergy Corporation,1,XNYS,USA,USD
+FFWM,First Foundation Inc.,1,XNYS,USA,USD
+FI,"Fiserv, Inc.",1,XNYS,USA,USD
+FSS,Federal Signal Corporation,1,XNYS,USA,USD
+GLPPRB,Global Partners LP 9.5% Pfd. Series B,1,XNYS,USA,USD
+GOLLQ,Gol Linhas Aéreas Inteligentes S.A,1,XNYS,USA,USD
+GXO,GXO Logistics Inc,1,XNYS,USA,USD
+HGTY-WS,HGTY-WS,1,XNYS,USA,USD
+RBA,RB Global Inc.,1,XNYS,USA,USD
+RWT,Redwood Trust Inc,1,XNYS,USA,USD
+SA,Seabridge Gold Inc.,1,XNYS,USA,USD
+SAVE,Spirit Airlines Inc,1,XNYS,USA,USD
+SFUNY,Fang Holdings Ltd,1,XNYS,USA,USD
+SKY,Skyline Corporation,1,XNYS,USA,USD
+SNV,Synovus Financial Corp,1,XNYS,USA,USD
+SPLP,Steel Partners Holdings LP,1,XNYS,USA,USD
+SRV-R-W,SRV-R-W,1,XNYS,USA,USD
+SST,System1 Inc,1,XNYS,USA,USD
+STEW,SRH Total Return Fund Inc.,1,XNYS,USA,USD
+TAC,TransAlta Corp,1,XNYS,USA,USD
+TISI,Team Inc,1,XNYS,USA,USD
+TKC,Turkcell Iletisim Hizmetleri AS,1,XNYS,USA,USD
+TWLO,Twilio Inc,1,XNYS,USA,USD
+VIK,Viking Holdings Ltd,1,XNYS,USA,USD
+VLN,Valens,1,XNYS,USA,USD
+IQI,Invesco Quality Municipal Income Closed Fund,1,XNYS,USA,USD
+IX,Orix Corp Ads,1,XNYS,USA,USD
+JBK,Goldman Sachs Capital I Securities-Backed Series 2004-6 Trust,1,XNYS,USA,USD
+WTS,Watts Water Technologies Inc,1,XNYS,USA,USD
+XHR,Xenia Hotels & Resorts Inc,1,XNYS,USA,USD
+YALA,Yalla Group Ltd,1,XNYS,USA,USD
+YPF,YPF Sociedad Anonima,1,XNYS,USA,USD
+ABG,Asbury Automotive Group Inc,1,XNYS,USA,USD
+AGO,Assured Guaranty Ltd,1,XNYS,USA,USD
+ALB-PA,Albemarle Corporation,1,XNYS,USA,USD
+AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",1,XNYS,USA,USD
+AMT,American Tower Corp,1,XNYS,USA,USD
+AXTA,Axalta Coating Systems Ltd,1,XNYS,USA,USD
+BDX,Becton Dickinson and Company,1,XNYS,USA,USD
+BKV,BKV Corporation,1,XNYS,USA,USD
+BURL,Burlington Stores Inc,1,XNYS,USA,USD
+CCIA,Vertical Capital Income Fund,1,XNYS,USA,USD
+COLD,Americold Realty Trust,1,XNYS,USA,USD
+KLG,WK Kellogg Co,1,XNYS,USA,USD
+KMB,Kimberly-Clark Corporation,1,XNYS,USA,USD
+KW,Kennedy-Wilson Holdings Inc,1,XNYS,USA,USD
+LANV,Lanvin Group Holdings Limited,1,XNYS,USA,USD
+LITB,LightInTheBox Holding Co Ltd ARD,1,XNYS,USA,USD
+LTC,LTC Properties Inc,1,XNYS,USA,USD
+MFAO,"MFA Financial, Inc. 9.000%",1,XNYS,USA,USD
+MHI,Pioneer Municipal High Income Trust,1,XNYS,USA,USD
+NIC,Nicolet Bankshares Inc.,1,XNYS,USA,USD
+NVRI,Enviri Corporation,1,XNYS,USA,USD
+NVTA,Invitae Corp,1,XNYS,USA,USD
+OII,Oceaneering International Inc,1,XNYS,USA,USD
+OR,Osisko Gold Ro,1,XNYS,USA,USD
+PGRU,PropertyGuru Group Ltd,1,XNYS,USA,USD
+PKST,Peakstone Realty Trust,1,XNYS,USA,USD
+CURB,Curbline Properties Corp.,1,XNYS,USA,USD
+CVNA,Carvana Co,1,XNYS,USA,USD
+CW,Curtiss-Wright Corporation,1,XNYS,USA,USD
+DDC,DDC Enterprise Limited,1,XNYS,USA,USD
+DG,Dollar General Corporation,1,XNYS,USA,USD
+DNA,Ginkgo Bioworks Holdings,1,XNYS,USA,USD
+DOCN,DigitalOcean Holdings Inc,1,XNYS,USA,USD
+ECAT,BlackRock ESG Capital Allocation Trust,1,XNYS,USA,USD
+EFC-P-E,EFC-P-E,1,XNYS,USA,USD
+EVN,Eaton Vance Municipal Income Closed Fund,1,XNYS,USA,USD
+FRGE,Forge Global Holdings Inc,1,XNYS,USA,USD
+GEO,Geo Group Inc,1,XNYS,USA,USD
+GGG,Graco Inc,1,XNYS,USA,USD
+GIC,Global Industrial Co,1,XNYS,USA,USD
+GLW,Corning Incorporated,1,XNYS,USA,USD
+GOLF,Acushnet Holdings Corp,1,XNYS,USA,USD
+GRMN,Garmin Ltd,1,XNYS,USA,USD
+GWH-WS,GWH-WS,1,XNYS,USA,USD
+HAYW,Hayward Holdings Inc,1,XNYS,USA,USD
+PRU,Prudential Financial Inc,1,XNYS,USA,USD
+QTWO,Q2 Holdings,1,XNYS,USA,USD
+SAIC,Science Applications International Corporation Common Stock,1,XNYS,USA,USD
+SHOP,Shopify Inc,1,XNYS,USA,USD
+SOBCF,South Bow Corporation,1,XNYS,USA,USD
+SOF,Amplify ETF Trust,1,XNYS,USA,USD
+SPGI,S&P Global Inc,1,XNYS,USA,USD
+SPOT,Spotify Technology SA,1,XNYS,USA,USD
+SRE,Sempra Energy,1,XNYS,USA,USD
+SUPV,Grupo Supervielle SA,1,XNYS,USA,USD
+TALO,Talos Energy,1,XNYS,USA,USD
+TBN,Tamboran Resources Corporation,1,XNYS,USA,USD
+TG,Tredegar Corporation,1,XNYS,USA,USD
+TSE,Trinseo SA,1,XNYS,USA,USD
+UTZ,Utz Brands Inc,1,XNYS,USA,USD
+VKQ,Invesco Municipal Trust,1,XNYS,USA,USD
+VOC,VOC Energy Trust,1,XNYS,USA,USD
+VOYA,Voya Financial Inc,1,XNYS,USA,USD
+VST,Vistra Energy Corp,1,XNYS,USA,USD
+VVV,Valvoline Inc,1,XNYS,USA,USD
+HZO,MarineMax Inc,1,XNYS,USA,USD
+IIIN,Insteel Industries Inc,1,XNYS,USA,USD
+WAL,Western Alliance Bancorporation,1,XNYS,USA,USD
+WPP,WPP PLC ADR,1,XNYS,USA,USD
+WST,West Pharmaceutical Services Inc,1,XNYS,USA,USD
+ZIM,ZIM Integrated Shipping Services Ltd,1,XNYS,USA,USD
+ACHR-WS,ACHR-WS,1,XNYS,USA,USD
+ADCT,ADC Therapeutics SA,1,XNYS,USA,USD
+ALSN,Allison Transmission Holdings Inc,1,XNYS,USA,USD
+ASA,ASA Gold and Precious Metals Ltd,1,XNYS,USA,USD
+AUNA,Auna S.A.,1,XNYS,USA,USD
+BEPH,Brookfield BRP Holdings (Canada (BEPH),1,XNYS,USA,USD
+BRDG,Bridge Investment Group Holdings Inc,1,XNYS,USA,USD
+CANG,Cango Inc,1,XNYS,USA,USD
+JNPR,Juniper Networks Inc,1,XNYS,USA,USD
+KBR,KBR Inc,1,XNYS,USA,USD
+KTH,Structured Products Corp Corts Tr for Peco Energy Cap Tr III GIC,1,XNYS,USA,USD
+LAC,Lithium Americas Corp,1,XNYS,USA,USD
+LEV,Lion Electric Corp,1,XNYS,USA,USD
+LOMA,Loma Negra Compania Industrial Argentina SA ADR,1,XNYS,USA,USD
+MAV,Pioneer Municipal High Income Advantage Trust,1,XNYS,USA,USD
+MCO,Moodys Corporation,1,XNYS,USA,USD
+MEC,Mayville Engineering Co Inc,1,XNYS,USA,USD
+NEU,NewMarket Corporation,1,XNYS,USA,USD
+NFSCF,Enphys Acquisition Corp.,1,XNYS,USA,USD
+NFYS,Enphys Acquisition Corp,1,XNYS,USA,USD
+NGS,Natural Gas Services Group Inc,1,XNYS,USA,USD
+NJR,NewJersey Resources Corporation,1,XNYS,USA,USD
+NOC,Northrop Grumman Corporation,1,XNYS,USA,USD
+NPO,Enpro Industries,1,XNYS,USA,USD
+NTEST-H,NTEST-H,1,XNYS,USA,USD
+O,Realty Income Corporation,1,XNYS,USA,USD
+OOMA,Ooma Inc,1,XNYS,USA,USD
+PBH,Prestige Brand Holdings Inc,1,XNYS,USA,USD
+PMTU,PennyMac Mortgage Investment Tr,1,XNYS,USA,USD
+PRGO,Perrigo Company PLC,1,XNYS,USA,USD
+CUBI,Customers Bancorp Inc,1,XNYS,USA,USD
+CVEO,Civeo Corp,1,XNYS,USA,USD
+DBRG,Digitalbridge Group Inc,1,XNYS,USA,USD
+DHR,Danaher Corporation,1,XNYS,USA,USD
+E,Eni SpA ADR,1,XNYS,USA,USD
+EARN,Ellington Residential Mortgage,1,XNYS,USA,USD
+EOG,EOG Resources Inc,1,XNYS,USA,USD
+EVEX,Eve Holding Inc,1,XNYS,USA,USD
+FAF,First American Corporation,1,XNYS,USA,USD
+FTCHF,Farfetch Limited,1,XNYS,USA,USD
+G,Genpact Limited,1,XNYS,USA,USD
+GPN,Global Payments Inc,1,XNYS,USA,USD
+HES,Hess Corporation,1,XNYS,USA,USD
+HLI,Houlihan Lokey Inc,1,XNYS,USA,USD
+PSO,Pearson PLC ADR,1,XNYS,USA,USD
+QBTS,D-Wave Quantum Inc.,1,XNYS,USA,USD
+RGR,Sturm Ruger & Company Inc,1,XNYS,USA,USD
+SGHC,SGHC Limited,1,XNYS,USA,USD
+SLF,Sun Life Financial Inc.,1,XNYS,USA,USD
+SMG,Scotts Miracle-Gro Company,1,XNYS,USA,USD
+SRI,Stoneridge Inc,1,XNYS,USA,USD
+STAG,STAG Industrial Inc,1,XNYS,USA,USD
+STLA,Stellantis NV,1,XNYS,USA,USD
+TCOA,Trajectory Alpha Acquisition Corp,1,XNYS,USA,USD
+TDS,Telephone and Data Systems Inc,1,XNYS,USA,USD
+TOL,Toll Brothers Inc,1,XNYS,USA,USD
+IIM,Invesco Value Municipal Income Closed Fund,1,XNYS,USA,USD
+ITUB,Itau Unibanco Banco Holding SA,1,XNYS,USA,USD
+WEC,WEC Energy Group Inc,1,XNYS,USA,USD
+WH,Wyndham Hotels & Resorts Inc,1,XNYS,USA,USD
+WT,WisdomTree Inc.,1,XNYS,USA,USD
+AACT-WT,Ares Acquisition Corporation II WT,1,XNYS,USA,USD
+AI,C3 Ai Inc,1,XNYS,USA,USD
+ANVS,Annovis Bio Inc,1,XNYS,USA,USD
+ASR,Grupo Aeroportuario del Sureste SAB de CV ADR,1,XNYS,USA,USD
+AWR,American States Water Company,1,XNYS,USA,USD
+BGSF,BG Staffing Inc,1,XNYS,USA,USD
+BSIG,Brightsphere Investment Group Inc,1,XNYS,USA,USD
+CHCT,Community Healthcare Trust Inc,1,XNYS,USA,USD
+CIA,Citizens Inc,1,XNYS,USA,USD
+CLBR-WS,CLBR-WS,1,XNYS,USA,USD
+CNI,Canadian National Railway Co,1,XNYS,USA,USD
+KEN,Kenon Holdings,1,XNYS,USA,USD
+KEY,KeyCorp,1,XNYS,USA,USD
+KOF,Coca-Cola Femsa SAB de CV ADR,1,XNYS,USA,USD
+MDT,Medtronic PLC,1,XNYS,USA,USD
+MLP,Maui Land & Pineapple Company Inc,1,XNYS,USA,USD
+MOG-A,Moog Inc,1,XNYS,USA,USD
+MPLX,MPLX LP,1,XNYS,USA,USD
+MTDR,Matador Resources Company,1,XNYS,USA,USD
+NGVC,Natural Grocers by Vitamin Cottage Inc,1,XNYS,USA,USD
+NVGS,Navigator Holdings Ltd,1,XNYS,USA,USD
+NVR,NVR Inc,1,XNYS,USA,USD
+NYCB,New York Community Bancorp Inc,1,XNYS,USA,USD
+ODC,Oil-Dri Corporation Of America,1,XNYS,USA,USD
+OI,O-I Glass Inc,1,XNYS,USA,USD
+ONTF,ON24 Inc,1,XNYS,USA,USD
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,1,XNYS,USA,USD
+CSTUF,Constellation Acquisition Corp I,1,XNYS,USA,USD
+ENJ,Entergy New Orleans Inc Pref,1,XNYS,USA,USD
+EQT,EQT Corporation,1,XNYS,USA,USD
+FERG,Ferguson Plc,1,XNYS,USA,USD
+FET,Forum Energy Technologies Inc,1,XNYS,USA,USD
+FL,Foot Locker Inc,1,XNYS,USA,USD
+FRO,Frontline Ltd,1,XNYS,USA,USD
+GHG,GreenTree Hospitality Group Ltd,1,XNYS,USA,USD
+GKOS,Glaukos Corp,1,XNYS,USA,USD
+GWW,WW Grainger Inc,1,XNYS,USA,USD
+HEI-A,HEICO Corporation,1,XNYS,USA,USD
+HTGC,Hercules Capital Inc,1,XNYS,USA,USD
+RJF,Raymond James Financial Inc.,1,XNYS,USA,USD
+SAT,Saratoga Investment Corp 6.00%,1,XNYS,USA,USD
+SBXD,SilverBox Corp IV,1,XNYS,USA,USD
+SCE-PM,SCE Trust VII,1,XNYS,USA,USD
+SCM,Stellus Capital Investment,1,XNYS,USA,USD
+SKX,Skechers USA Inc,1,XNYS,USA,USD
+SKYH-WT,Sky Harbour Group Corporation WT,1,XNYS,USA,USD
+SLVM,Sylvamo Corp,1,XNYS,USA,USD
+SOC-WS,SOC-WS,1,XNYS,USA,USD
+SPH,Suburban Propane Partners LP,1,XNYS,USA,USD
+SPMC,"Sound Point Meridian Capital, Inc.",1,XNYS,USA,USD
+SPNT,Siriuspoint Ltd,1,XNYS,USA,USD
+SR,Spire Inc,1,XNYS,USA,USD
+SYF-PB,Synchrony Financial,1,XNYS,USA,USD
+TDOC,Teladoc Inc,1,XNYS,USA,USD
+TFC,Truist Financial Corp,1,XNYS,USA,USD
+TMHC,Taylor Morn Home,1,XNYS,USA,USD
+TPB,Turning Point Brands Inc,1,XNYS,USA,USD
+TPC,Tutor Perini Corporation,1,XNYS,USA,USD
+TR,Tootsie Roll Industries Inc,1,XNYS,USA,USD
+TRC,Tejon Ranch Co,1,XNYS,USA,USD
+UIS,Unisys Corporation,1,XNYS,USA,USD
+VIAOY,VIAOY,1,XNYS,USA,USD
+IBTA,"Ibotta, Inc.",1,XNYS,USA,USD
+IFN-R,IFN-R,1,XNYS,USA,USD
+WD,Walker & Dunlop Inc,1,XNYS,USA,USD
+YOU,Clear Secure Inc,1,XNYS,USA,USD
+YSG,Yatsen Holding,1,XNYS,USA,USD
+ZUO,Zuora Inc,1,XNYS,USA,USD
+AAP,Advance Auto Parts Inc,1,XNYS,USA,USD
+AGRO,Adecoagro SA,1,XNYS,USA,USD
+ASIX,AdvanSix Inc,1,XNYS,USA,USD
+BEDU,Bright Scholar Education Holdings Ltd Class A,1,XNYS,USA,USD
+BEPI,Brookfield BRP Holdings (Canada (BEPI),1,XNYS,USA,USD
+BERY,Berry Global Group Inc,1,XNYS,USA,USD
+BKN,BlackRock Investment Quality Municipal Closed Fund,1,XNYS,USA,USD
+BRC,Brady Corporation,1,XNYS,USA,USD
+BUXX,EA Series Trust,1,XNYS,USA,USD
+BXC,BlueLinx Holdings Inc,1,XNYS,USA,USD
+CAAP,Corporacion America Airports,1,XNYS,USA,USD
+CMU,MFS High Yield Municipal Closed Fund,1,XNYS,USA,USD
+CPRI,Capri Holdings Ltd,1,XNYS,USA,USD
+JNJ,Johnson & Johnson,1,XNYS,USA,USD
+JWN,Nordstrom Inc,1,XNYS,USA,USD
+KRO,Kronos Worldwide Inc,1,XNYS,USA,USD
+LAAC,Lithium Americas (Argentina) Corp.,1,XNYS,USA,USD
+LYG,Lloyds Banking Group PLC ADR,1,XNYS,USA,USD
+MGRE,"Affiliated Managers Group, Inc.",1,XNYS,USA,USD
+MSI,Motorola Solutions Inc,1,XNYS,USA,USD
+NKE,Nike Inc,1,XNYS,USA,USD
+NRG,NRG Energy Inc.,1,XNYS,USA,USD
+NSC,Norfolk Southern Corporation,1,XNYS,USA,USD
+NUS,Nu Skin Enterprises Inc,1,XNYS,USA,USD
+PRM,Perimeter Solutions SA,1,XNYS,USA,USD
+CSTM,Constellium Nv,1,XNYS,USA,USD
+CTO,CTO Realty Growth Inc,1,XNYS,USA,USD
+CVI,CVR Energy Inc,1,XNYS,USA,USD
+DLNGPRA,DLNGPRA,1,XNYS,USA,USD
+DUKB,Duke Energy Corp,1,XNYS,USA,USD
+EFX,Equifax Inc,1,XNYS,USA,USD
+EQV-U,EQV-U,1,XNYS,USA,USD
+ESE,ESCO Technologies Inc,1,XNYS,USA,USD
+ETD,Ethan Allen Interiors Inc,1,XNYS,USA,USD
+FBK,FB Financial Corp,1,XNYS,USA,USD
+FCX,Freeport-McMoran Copper & Gold Inc,1,XNYS,USA,USD
+FDX,FedEx Corporation,1,XNYS,USA,USD
+GENI,Genius Sports Ltd,1,XNYS,USA,USD
+GHI,Greystone Housing Impact Investors LP,1,XNYS,USA,USD
+GLT,Glatfelter,1,XNYS,USA,USD
+GOTU,Gaotu Techedu Inc DRC,1,XNYS,USA,USD
+PSQH,PSQ Holdings Inc.,1,XNYS,USA,USD
+ROSS-WS,ROSS-WS,1,XNYS,USA,USD
+STWD,Starwood Property Trust Inc,1,XNYS,USA,USD
+TBBB,BBB Foods Inc.,1,XNYS,USA,USD
+TBC,AT&T Inc ELKS,1,XNYS,USA,USD
+TD,Toronto Dominion Bank,1,XNYS,USA,USD
+TPR,Tapestry Inc,1,XNYS,USA,USD
+UMC,United Microelectronics,1,XNYS,USA,USD
+UNMA,Unum Group,1,XNYS,USA,USD
+VALE,Vale SA ADR,1,XNYS,USA,USD
+INVH,Invitation Homes Inc,1,XNYS,USA,USD
+JELD,Jeld-Wen Holding Inc,1,XNYS,USA,USD
+WBX,Wallbox NV,1,XNYS,USA,USD
+WRBY,Warby Parker Inc,1,XNYS,USA,USD
+ZIP,Ziprecruiter Inc,1,XNYS,USA,USD
+ACHR,Archer Aviation Inc,1,XNYS,USA,USD
+ACRE,Ares Commercial Real Estate,1,XNYS,USA,USD
+AIV,Apartment Investment and Management Co,1,XNYS,USA,USD
+AKO-A,Embotelladora Andina S.A,1,XNYS,USA,USD
+AMBP,Ardagh Metal Packaging SA,1,XNYS,USA,USD
+AMN,AMN Healthcare Services Inc,1,XNYS,USA,USD
+AMR,Alpha Metallurgical Resources Inc,1,XNYS,USA,USD
+ANF,Abercrombie & Fitch Company,1,XNYS,USA,USD
+BHK,BlackRock Core Bond Closed Fund,1,XNYS,USA,USD
+BIO-B,Bio-Rad Laboratories Inc,1,XNYS,USA,USD
+BKDT,Brookdale Senior Living Inc,1,XNYS,USA,USD
+BKSY,Blacksky Technology Inc,1,XNYS,USA,USD
+BLW,BlackRock Limited Duration Income Trust,1,XNYS,USA,USD
+BRK-A,Berkshire Hathaway Inc,1,XNYS,USA,USD
+CLF,Cleveland-Cliffs Inc,1,XNYS,USA,USD
+COF,Capital One Financial Corporation,1,XNYS,USA,USD
+CRD-A,Crawford & Company,1,XNYS,USA,USD
+KMI,Kinder Morgan Inc,1,XNYS,USA,USD
+KREF,KKR Real Estate Finance Trust Inc,1,XNYS,USA,USD
+LSPD,Lightspeed Commerce Inc,1,XNYS,USA,USD
+MCS,Marcus Corporation,1,XNYS,USA,USD
+NOAH,Noah Holdings Ltd,1,XNYS,USA,USD
+OBDC,Blue Owl Capital Corporation,1,XNYS,USA,USD
+PFE,Pfizer Inc,1,XNYS,USA,USD
+PINE,Alpine Income Property Trust Inc,1,XNYS,USA,USD
+ECCF,Eagle Point Credit Company Inc.,1,XNYS,USA,USD
+ENFN,Enfusion Inc,1,XNYS,USA,USD
+ESRT,Empire State Realty Trust Inc,1,XNYS,USA,USD
+EXP,Eagle Materials Inc,1,XNYS,USA,USD
+FMC,FMC Corporation,1,XNYS,USA,USD
+FR,First Industrial Realty Trust Inc,1,XNYS,USA,USD
+FTK,Flotek Industries Inc,1,XNYS,USA,USD
+GEL,Genesis Energy LP,1,XNYS,USA,USD
+GPK,Graphic Packaging Holding Company,1,XNYS,USA,USD
+GPMT,Granite Point Mortgage Trust Inc,1,XNYS,USA,USD
+GSK,GlaxoSmithKline PLC ADR,1,XNYS,USA,USD
+GTLS,Chart Industries Inc,1,XNYS,USA,USD
+GUG,Guggenheim Active Allocation Fund,1,XNYS,USA,USD
+HAFN,Hafnia Limited,1,XNYS,USA,USD
+HBB,Hamilton Beach Brands Holding Co Class A,1,XNYS,USA,USD
+SIG,Signet Jewelers Ltd,1,XNYS,USA,USD
+SITE,SiteOne Landscape Supply Inc,1,XNYS,USA,USD
+SSD,Simpson Manufacturing Company Inc,1,XNYS,USA,USD
+STEL,"Stellar Bancorp, Inc.",1,XNYS,USA,USD
+SUP,Superior Industries International,1,XNYS,USA,USD
+SYF,Synchrony Financial,1,XNYS,USA,USD
+TEL,TE Connectivity Ltd,1,XNYS,USA,USD
+THC,Tenet Healthcare Corporation,1,XNYS,USA,USD
+TSM,Taiwan Semiconductor Manufacturing,1,XNYS,USA,USD
+TUPBQ,Tupperware Brands Corporation,1,XNYS,USA,USD
+TWO,Two Harbors Investments Corp,1,XNYS,USA,USD
+UAN,CVR Partners LP,1,XNYS,USA,USD
+UPHL,UpHealth Inc,1,XNYS,USA,USD
+UZD,United States Cellular Corporat,1,XNYS,USA,USD
+VLRS,Volaris,1,XNYS,USA,USD
+VTS,Vitesse Energy Inc,1,XNYS,USA,USD
+IBM,International Business Machines,1,XNYS,USA,USD
+IR,Ingersoll Rand Inc,1,XNYS,USA,USD
+WHR,Whirlpool Corporation,1,XNYS,USA,USD
+ABEV,Ambev SA ADR,1,XNYS,USA,USD
+AC,Associated Capital Group Inc,1,XNYS,USA,USD
+AEG,Aegon NV ADR,1,XNYS,USA,USD
+AEM,Agnico Eagle Mines Limited,1,XNYS,USA,USD
+BMO,Bank of Montreal,1,XNYS,USA,USD
+BMTX-WT,BM Technologies Inc. WT,1,XNYS,USA,USD
+BODI,Beachbody Company Inc,1,XNYS,USA,USD
+BSTZ,BlackRock Science and Technology Trust II,1,XNYS,USA,USD
+BSX,Boston Scientific Corp,1,XNYS,USA,USD
+BTE,Baytex Energy Corp,1,XNYS,USA,USD
+CBRE,CBRE Group Inc Class A,1,XNYS,USA,USD
+CHWY,Chewy Inc,1,XNYS,USA,USD
+CLBR,Colombier Acquisition Corp. II,1,XNYS,USA,USD
+KBH,KB Home,1,XNYS,USA,USD
+MAN,ManpowerGroup Inc,1,XNYS,USA,USD
+MCK,McKesson Corporation,1,XNYS,USA,USD
+MDV,Modiv Inc,1,XNYS,USA,USD
+MG,Mistras Group Inc,1,XNYS,USA,USD
+MMCP,Morningstar US Mid Cap PR USD,1,XNYS,USA,USD
+MO,Altria Group,1,XNYS,USA,USD
+NGG,National Grid PLC ADR,1,XNYS,USA,USD
+NPK,National Presto Industries Inc,1,XNYS,USA,USD
+NSS,NuStar Logistics 7.625% Fixed To Floating Rate Subordinated Notes Exp 15 Jan 2043,1,XNYS,USA,USD
+NXU,Nxu Inc.,1,XNYS,USA,USD
+OCFT,Oneconnect Financial Technology Co,1,XNYS,USA,USD
+PDS,Precision Drilling Corporation,1,XNYS,USA,USD
+PMNT,Perfect Moment Ltd. Common Stock,1,XNYS,USA,USD
+CWT,California Water Service Group,1,XNYS,USA,USD
+DBI,Designer Brands Inc,1,XNYS,USA,USD
+DINO,HF Sinclair Corp,1,XNYS,USA,USD
+EFT,Eaton Vance Floating Rate Income Closed Fund,1,XNYS,USA,USD
+EHI-R-W,EHI-R-W,1,XNYS,USA,USD
+ELIQ,Electriq Power Holdings Inc.,1,XNYS,USA,USD
+ERJ,Embraer SA ADR,1,XNYS,USA,USD
+GAQ,Generation Asia I Acquisition Limited Class A Ordinary Shares,1,XNYS,USA,USD
+GD,General Dynamics Corporation,1,XNYS,USA,USD
+GETR,Getaround Inc,1,XNYS,USA,USD
+GME,GameStop Corp,1,XNYS,USA,USD
+GNW,Genworth Financial Inc,1,XNYS,USA,USD
+HAE,Haemonetics Corporation,1,XNYS,USA,USD
+HSBC,HSBC Holdings PLC ADR,1,XNYS,USA,USD
+RBC,RBC Bearings Incorporated,1,XNYS,USA,USD
+REVG,Rev Group Inc,1,XNYS,USA,USD
+RSKD,Riskified Ltd,1,XNYS,USA,USD
+SARO,"StandardAero, Inc.",1,XNYS,USA,USD
+SF,Stifel Financial Corporation,1,XNYS,USA,USD
+SFL,SFL Corporation Ltd,1,XNYS,USA,USD
+SJW,SJW Corporation,1,XNYS,USA,USD
+SMRT,SmartRent Inc,1,XNYS,USA,USD
+STE,STERIS plc,1,XNYS,USA,USD
+TGS,Transportadora de Gas del Sur SA ADR,1,XNYS,USA,USD
+TPVG,Triplepoint Venture Growth BDC Corp,1,XNYS,USA,USD
+TTE,TotalEnergies SE ADR,1,XNYS,USA,USD
+USPH,US Physicalrapy Inc,1,XNYS,USA,USD
+VTMX,"CorporaciÃ³n Inmobiliaria Vesta, S.A.B de C.V.",1,XNYS,USA,USD
+IFS,Intercorp Financial Services Inc,1,XNYS,USA,USD
+INGR,Ingredion Incorporated,1,XNYS,USA,USD
+JEF,Jefferies Financial Group Inc,1,XNYS,USA,USD
+W,Wayfair Inc,1,XNYS,USA,USD
+ALB,Albemarle Corp,1,XNYS,USA,USD
+ALEX,Alexander & Baldwin Holdings Inc,1,XNYS,USA,USD
+AMPS,Altus Power Inc,1,XNYS,USA,USD
+ARCO,Arcos Dorados Holdings Inc,1,XNYS,USA,USD
+ATHS,Athene Holding Ltd. 7.250% Fixed,1,XNYS,USA,USD
+BANC-PF,Banc of California Inc.,1,XNYS,USA,USD
+BBAR,BBVA Banco Frances SA ADR,1,XNYS,USA,USD
+BDN,Brandywine Realty Trust,1,XNYS,USA,USD
+BGR,BlackRock Energy and Resources Closed Fund,1,XNYS,USA,USD
+BKKT-WT,Bakkt Holdings Inc. Warrant,1,XNYS,USA,USD
+BKSY-WT,BKSY-WT,1,XNYS,USA,USD
+BNL,Broadstone Net Lease Inc,1,XNYS,USA,USD
+BTCM,BIT Mining Ltd,1,XNYS,USA,USD
+BTI,British American Tobacco p.l.c.,1,XNYS,USA,USD
+CMCM,Cheetah Mobile Inc,1,XNYS,USA,USD
+CON,"Concentra Group Holdings Parent, Inc.",1,XNYS,USA,USD
+CPT,Camden Property Trust,1,XNYS,USA,USD
+JOE,St Joe Company,1,XNYS,USA,USD
+KNF,Knife River Corporation,1,XNYS,USA,USD
+LCII,LCI Industries,1,XNYS,USA,USD
+LEN,Lennar Corporation,1,XNYS,USA,USD
+LOCL,Local Bounti Corp,1,XNYS,USA,USD
+MCI,Barings Corporate Investors,1,XNYS,USA,USD
+MEGI,MainStay CBRE Global Infrastructure Megatrends Fund,1,XNYS,USA,USD
+MP,MP Materials Corp,1,XNYS,USA,USD
+NOW,ServiceNow Inc,1,XNYS,USA,USD
+O-P,Realty Income Corporation,1,XNYS,USA,USD
+OPY,Oppenheimer Holdings Inc,1,XNYS,USA,USD
+PHIN,PHINIA Inc.,1,XNYS,USA,USD
+DCI,Donaldson Company Inc,1,XNYS,USA,USD
+DE,Deere & Company,1,XNYS,USA,USD
+DEI,Douglas Emmett Inc,1,XNYS,USA,USD
+DPZ,Domino’s Pizza Inc,1,XNYS,USA,USD
+DRD,DRDGOLD Limited ADR,1,XNYS,USA,USD
+DX,Dynex Capital Inc,1,XNYS,USA,USD
+EL,Estee Lauder Companies Inc,1,XNYS,USA,USD
+ENLC,EnLink Midstream LLC,1,XNYS,USA,USD
+EVA,Enviva Partners LP,1,XNYS,USA,USD
+EVC,Entravision Communications,1,XNYS,USA,USD
+FDS,FactSet Research Systems Inc,1,XNYS,USA,USD
+FICO,Fair Isaac Corporation,1,XNYS,USA,USD
+GCI,Gannett Co Inc,1,XNYS,USA,USD
+GFR,Greenfire Resources Ltd.,1,XNYS,USA,USD
+GLP,Global Partners LP,1,XNYS,USA,USD
+GNL,"Global Net Lease, Inc.",1,XNYS,USA,USD
+GPRK,GeoPark Ltd,1,XNYS,USA,USD
+HL,Hecla Mining Company,1,XNYS,USA,USD
+RBLX,Roblox Corp,1,XNYS,USA,USD
+RCFA-UN,RCF Acquisition Corp.,1,XNYS,USA,USD
+RFL,Rafael Holdings Inc Class B,1,XNYS,USA,USD
+SAZ,Saratoga Investment Corp 8.50%,1,XNYS,USA,USD
+SB,Safe Bulkers Inc,1,XNYS,USA,USD
+SNOW,Snowflake Inc.,1,XNYS,USA,USD
+SQSP,Squarespace Inc,1,XNYS,USA,USD
+STG,Sunlands Technology Group,1,XNYS,USA,USD
+SUN,Sunoco LP,1,XNYS,USA,USD
+SXT,Sensient Technologies Corporation,1,XNYS,USA,USD
+TAL,TAL Education Group,1,XNYS,USA,USD
+TXNM,"TXNM Energy, Inc.",1,XNYS,USA,USD
+ULS,UL Solutions Inc.,1,XNYS,USA,USD
+UMH,UMH Properties Inc,1,XNYS,USA,USD
+UNH,UnitedHealth Group Incorporated,1,XNYS,USA,USD
+UNP,Union Pacific Corporation,1,XNYS,USA,USD
+UZE,United States Cellular Preferred 5.500% due 2070,1,XNYS,USA,USD
+VGM,Invesco Trust For Inv Grade Munis,1,XNYS,USA,USD
+VPG,Vishay Precision Group Inc,1,XNYS,USA,USD
+INFA,Informatica Inc,1,XNYS,USA,USD
+WAB,Westinghouse Air Brake Technologies Corp,1,XNYS,USA,USD
+WDH,Waterdrop Inc ADR,1,XNYS,USA,USD
+WEL-UN,Integrated Wellness Acquisition Corp,1,XNYS,USA,USD
+WSM,Williams-Sonoma Inc,1,XNYS,USA,USD
+YUMC,Yum China Holdings Inc,1,XNYS,USA,USD
+ZKH,ZKH Group Limited,1,XNYS,USA,USD
+ACI,Albertsons Companies,1,XNYS,USA,USD
+AGI,Alamos Gold Inc,1,XNYS,USA,USD
+AN,AutoNation Inc,1,XNYS,USA,USD
+ATIP,ATI Physical Therapy Inc,1,XNYS,USA,USD
+BCE,BCE Inc,1,XNYS,USA,USD
+BH,Biglari Holdings Inc,1,XNYS,USA,USD
+BHVN,Biohaven Pharmaceutical Holding Co Ltd,1,XNYS,USA,USD
+BIPI,BIP Bermuda Holdings I Limited,1,XNYS,USA,USD
+BMEZ,BlackRock Health Sciences Trust II,1,XNYS,USA,USD
+BNS,Bank of Nova Scotia,1,XNYS,USA,USD
+BUI,BlackRock Utility & Infrastructure Trust,1,XNYS,USA,USD
+CBDBY,CBDBY,1,XNYS,USA,USD
+CCK,Crown Holdings Inc,1,XNYS,USA,USD
+CEPU,Central Puerto S.A.,1,XNYS,USA,USD
+CFG,"Citizens Financial Group, Inc.",1,XNYS,USA,USD
+CM,Canadian Imperial Bank Of Commerce,1,XNYS,USA,USD
+CMSD,CMS Energy Corp,1,XNYS,USA,USD
+CPA,Copa Holdings SA,1,XNYS,USA,USD
+JPM,JPMorgan Chase & Co,1,XNYS,USA,USD
+K,Kellanova,1,XNYS,USA,USD
+KN,Knowles Cor,1,XNYS,USA,USD
+KR,Kroger Company,1,XNYS,USA,USD
+LBRT,Liberty Oilfield Services Inc,1,XNYS,USA,USD
+LOB,Live Oak Bancshares Inc,1,XNYS,USA,USD
+MFA,MFA Financial Inc,1,XNYS,USA,USD
+MITN,AG Mortgage Investment Trust Inc,1,XNYS,USA,USD
+MMC,Marsh & McLennan Companies Inc,1,XNYS,USA,USD
+MRC,MRC Global Inc,1,XNYS,USA,USD
+NBXG,Neuberger Berman Next Generation Connectivity Fund Inc,1,XNYS,USA,USD
+NFYS-UN,Enphys Acquisition Corp.,1,XNYS,USA,USD
+NLOP,Net Lease Office Properties,1,XNYS,USA,USD
+NRUC,National Rural Utilities Cooperative Finance Corp,1,XNYS,USA,USD
+NTEST-I,NTEST-I,1,XNYS,USA,USD
+NXRT,Nexpoint Residential Trust Inc,1,XNYS,USA,USD
+NYC,New York City REIT Inc,1,XNYS,USA,USD
+ODV,Osisko Development Corp.,1,XNYS,USA,USD
+OIS,Oil States International Inc,1,XNYS,USA,USD
+ONL,Orion Office Reit Inc,1,XNYS,USA,USD
+PAXS,PIMCO Access Income Fund,1,XNYS,USA,USD
+PB,Prosperity Bancshares Inc,1,XNYS,USA,USD
+PDCC,Pearl Diver Credit Company Inc.,1,XNYS,USA,USD
+PGRE,Paramount Group Inc,1,XNYS,USA,USD
+PNR,Pentair PLC,1,XNYS,USA,USD
+PNW,Pinnacle West Capital Corp,1,XNYS,USA,USD
+PPG,PPG Industries Inc,1,XNYS,USA,USD
+PRMW,Primo Water Corp,1,XNYS,USA,USD
+PRT,PermRock Royalty Trust,1,XNYS,USA,USD
+CTBB,Qwest Corp. NT,1,XNYS,USA,USD
+CTDD,Qwest Corp 6 75 Notes Expiry 2057,1,XNYS,USA,USD
+CUBB,Customers Bancorp Inc,1,XNYS,USA,USD
+CWEN,Clearway Energy Inc Class C,1,XNYS,USA,USD
+CWEN-A,Clearway Energy Inc,1,XNYS,USA,USD
+DAC,Danaos Corporation,1,XNYS,USA,USD
+DOC,Healthpeak Properties Inc,1,XNYS,USA,USD
+DXC,DXC Technology Co,1,XNYS,USA,USD
+EBS,Emergent Biosolutions Inc,1,XNYS,USA,USD
+ECL,Ecolab Inc,1,XNYS,USA,USD
+EDR,Endeavor Group Holdings Inc,1,XNYS,USA,USD
+EFC,Ellington Financial Inc.,1,XNYS,USA,USD
+ELV,Elevance Health Inc,1,XNYS,USA,USD
+ENB,Enbridge Inc,1,XNYS,USA,USD
+EPC,Edgewell Personal Care Co,1,XNYS,USA,USD
+FIHL,Fidelis Insurance Holdings Limited,1,XNYS,USA,USD
+FLR,Fluor Corporation,1,XNYS,USA,USD
+FN,Fabrinet,1,XNYS,USA,USD
+GATO,Gatos Silver Inc,1,XNYS,USA,USD
+GBTG,Global Business Travel Group Inc,1,XNYS,USA,USD
+GHLD,Guild Holdings Co,1,XNYS,USA,USD
+GNRC,Generac Holdings Inc,1,XNYS,USA,USD
+GOLD,Barrick Gold Corp,1,XNYS,USA,USD
+HG,"Hamilton Insurance Group, Ltd.",1,XNYS,USA,USD
+HUN,Huntsman Corporation,1,XNYS,USA,USD
+PSX,Phillips 66,1,XNYS,USA,USD
+RACE,Ferrari NV,1,XNYS,USA,USD
+RC,Ready Capital Corp,1,XNYS,USA,USD
+RYI,Ryerson Holding Corp,1,XNYS,USA,USD
+SAY,Saratoga Investment Corp 8.125%,1,XNYS,USA,USD
+SBBA,Scorpio Tankers Inc. 7.00% Seni,1,XNYS,USA,USD
+SBXD-U,SBXD-U,1,XNYS,USA,USD
+SCS,Steelcase Inc,1,XNYS,USA,USD
+SHO,Sunstone Hotel Investors Inc,1,XNYS,USA,USD
+SITC,Site Centers Corp,1,XNYS,USA,USD
+SLB,Schlumberger NV,1,XNYS,USA,USD
+SOLV,Solventum Corp.,1,XNYS,USA,USD
+SQNS,Sequans Communications SA,1,XNYS,USA,USD
+STM,STMicroelectronics NV ADR,1,XNYS,USA,USD
+TEN,Tsakos Energy Navigation Ltd,1,XNYS,USA,USD
+TEX,Terex Corporation,1,XNYS,USA,USD
+TRI,Thomson Reuters Corp,1,XNYS,USA,USD
+UL,Unilever PLC ADR,1,XNYS,USA,USD
+UNFI,United Natural Foods Inc,1,XNYS,USA,USD
+USF,US Solar Fund Ord,1,XNYS,USA,USD
+VMC,Vulcan Materials Company,1,XNYS,USA,USD
+VRE,Veris Residential Inc,1,XNYS,USA,USD
+VYX,NCR Voyix Corporation,1,XNYS,USA,USD
+IGI,Western Asset Investment Grade Defined Opportunity Closed Fund,1,XNYS,USA,USD
+IONQ,IONQ Inc,1,XNYS,USA,USD
+JBT,John Bean Technologies Corporation,1,XNYS,USA,USD
+WNC,Wabash National Corporation,1,XNYS,USA,USD
+WNS,WNS Holdings Ltd,1,XNYS,USA,USD
+YELP,Yelp Inc,1,XNYS,USA,USD
+A,Agilent Technologies Inc,1,XNYS,USA,USD
+ACEL,Accel Entertainment Inc,1,XNYS,USA,USD
+AGL,agilon health Inc,1,XNYS,USA,USD
+ALLE,Allegion PLC,1,XNYS,USA,USD
+AMTM,Amentum Holdings Inc.,1,XNYS,USA,USD
+ARIS,Aris Water Solutions Inc,1,XNYS,USA,USD
+AROC,Archrock Inc,1,XNYS,USA,USD
+ASGN,ASGN Inc,1,XNYS,USA,USD
+AVY,Avery Dennison Corp,1,XNYS,USA,USD
+BANC,"Banc of California, Inc.",1,XNYS,USA,USD
+BBWI,Bath & Body Works Inc.,1,XNYS,USA,USD
+BHE,Benchmark Electronics Inc,1,XNYS,USA,USD
+BKH,Black Hills Corporation,1,XNYS,USA,USD
+BRT,BRT Realty Trust,1,XNYS,USA,USD
+BXMT,Blackstone Mortgage Trust Inc,1,XNYS,USA,USD
+BXP,Boston Properties Inc,1,XNYS,USA,USD
+CAG,ConAgra Foods Inc,1,XNYS,USA,USD
+COMP,Compass Inc,1,XNYS,USA,USD
+CRT,Cross Timbers Royalty Trust,1,XNYS,USA,USD
+KLC,"KinderCare Learning Companies, Inc.",1,XNYS,USA,USD
+KOP,Koppers Holdings Inc,1,XNYS,USA,USD
+LCW-UN,Learn CW Investment Corp,1,XNYS,USA,USD
+LII,Lennox International Inc,1,XNYS,USA,USD
+MIN,MFS Intermediate Income Trust,1,XNYS,USA,USD
+MOGA,MOGA,1,XNYS,USA,USD
+NOVA,Sunnova Energy International Inc,1,XNYS,USA,USD
+NPFD,Nuveen Variable Rate Preferred & Income Fund,1,XNYS,USA,USD
+NRDY,Nerdy Inc,1,XNYS,USA,USD
+ORN,Orion Group Holdings Inc,1,XNYS,USA,USD
+OUST-WT,Ouster Inc.,1,XNYS,USA,USD
+PMT,PennyMac Mortgage Investment Trust,1,XNYS,USA,USD
+PORT,Southport Acquisition Corp,1,XNYS,USA,USD
+CUZ,Cousins Properties Incorporated,1,XNYS,USA,USD
+DD,Dupont De Nemours Inc,1,XNYS,USA,USD
+DSX-WS,DSX-WS,1,XNYS,USA,USD
+ELP,Companhia Paranaense de Energia Pref ADR,1,XNYS,USA,USD
+FGN,F&G Annuities & Life Inc. 7.95,1,XNYS,USA,USD
+FLYX,"flyExclusive, Inc.",1,XNYS,USA,USD
+FOUR,Shift4 Payments Inc,1,XNYS,USA,USD
+FUBO,Fubotv Inc,1,XNYS,USA,USD
+GAP,"The Gap, Inc.",1,XNYS,USA,USD
+GES,Guess? Inc.,1,XNYS,USA,USD
+GPC,Genuine Parts Co,1,XNYS,USA,USD
+GRND-WT,Grindr Inc. Warrant,1,XNYS,USA,USD
+GTES,Gates Industrial Corporation plc,1,XNYS,USA,USD
+PUMP,ProPetro Holding Corp,1,XNYS,USA,USD
+QVCD,QVC Inc. 6.375% Senior Secured Notes due 2067,1,XNYS,USA,USD
+RBOT-WT,Vicarious Surgical Inc. WT,1,XNYS,USA,USD
+RBTC,"Rubicon Technologies, Inc.",1,XNYS,USA,USD
+RCL,Royal Caribbean Cruises Ltd,1,XNYS,USA,USD
+RMM,RiverNorth Managed Duration Municipal Income Fund Inc,1,XNYS,USA,USD
+RNR,Renaissancere Holdings Ltd,1,XNYS,USA,USD
+RWTO,"Redwood Trust, Inc. 9.00% Senio",1,XNYS,USA,USD
+SAM,Boston Beer Company Inc,1,XNYS,USA,USD
+SBR,Sabine Royalty Trust,1,XNYS,USA,USD
+STNG,Scorpio Tankers Inc,1,XNYS,USA,USD
+STXM,EA Series Trust,1,XNYS,USA,USD
+TCI,Transcontinental Realty Investors,1,XNYS,USA,USD
+TDC,Teradata Corp,1,XNYS,USA,USD
+TDW,Tidewater Inc,1,XNYS,USA,USD
+TDW-WT,Tidewater Inc,1,XNYS,USA,USD
+TRTX,TPG RE Finance Trust Inc,1,XNYS,USA,USD
+TXO,"MorningStar Partners, L.P.",1,XNYS,USA,USD
+VAL,Valaris Ltd,1,XNYS,USA,USD
+VSCO,Victoria's Secret & Co,1,XNYS,USA,USD
+VTR,Ventas Inc,1,XNYS,USA,USD
+IT,Gartner Inc,1,XNYS,USA,USD
+WES,Western Midstream Partners LP,1,XNYS,USA,USD
+XPER,Xperi Corp,1,XNYS,USA,USD
+ZVIA,Zevia Pbc,1,XNYS,USA,USD
+AMBC,Ambac Financial Group Inc,1,XNYS,USA,USD
+AMP,Ameriprise Financial Inc,1,XNYS,USA,USD
+ASH,Ashland Global Holdings Inc,1,XNYS,USA,USD
+BAH,Booz Allen Hamilton Holding,1,XNYS,USA,USD
+BBY,Best Buy Co. Inc,1,XNYS,USA,USD
+BC,Brunswick Corporation,1,XNYS,USA,USD
+BG,Bunge Limited,1,XNYS,USA,USD
+BMA,Banco Macro SA B ADR,1,XNYS,USA,USD
+BOH-PB,Bank of Hawaii Corp,1,XNYS,USA,USD
+BWSN,"Babcock & Wilcox Enterprises, Inc",1,XNYS,USA,USD
+CEIX,Consol Energy Inc,1,XNYS,USA,USD
+CIG,Companhia Energetica de Minas Gerais CEMIG Pref ADR,1,XNYS,USA,USD
+CLB,Core Laboratories NV,1,XNYS,USA,USD
+CRI,Carter’s Inc,1,XNYS,USA,USD
+KFRC,Kforce Inc.,1,XNYS,USA,USD
+KRG,Kite Realty Group Trust,1,XNYS,USA,USD
+KT,KT Corporation,1,XNYS,USA,USD
+LCW,Learn CW Investment Corporation Class A Ordinary Shares,1,XNYS,USA,USD
+LGF-B,Lions Gate Entertainment Corp,1,XNYS,USA,USD
+LTM,LATAM Airlines Group S.A.,1,XNYS,USA,USD
+MEG,Montrose Environmental Grp,1,XNYS,USA,USD
+MPLNW,Multiplan Corp,1,XNYS,USA,USD
+MTAL,Metals Acquisition Limited,1,XNYS,USA,USD
+MTH,Meritage Corporation,1,XNYS,USA,USD
+NOG,Northern Oil & Gas Inc,1,XNYS,USA,USD
+NX,Quanex Building Products,1,XNYS,USA,USD
+OGE,OGE Energy Corporation,1,XNYS,USA,USD
+ONTO,Onto Innovation Inc,1,XNYS,USA,USD
+PL,Planet Labs PBC,1,XNYS,USA,USD
+CSTWF,Constellation Acquisition Corp I,1,XNYS,USA,USD
+CVE,Cenovus Energy Inc,1,XNYS,USA,USD
+CVIIW,Churchill Capital Corp VII Warrants,1,XNYS,USA,USD
+DGX,Quest Diagnostics Incorporated,1,XNYS,USA,USD
+EB,Eventbrite Inc Class A,1,XNYS,USA,USD
+ECC,Eagle Point Credit Company Inc.,1,XNYS,USA,USD
+EDU,New Oriental Education & Technology,1,XNYS,USA,USD
+EG,Everest Group Ltd,1,XNYS,USA,USD
+EMR,Emerson Electric Company,1,XNYS,USA,USD
+EPAM,EPAM Systems Inc,1,XNYS,USA,USD
+EQV,EQV Ventures Acquisition Corp.,1,XNYS,USA,USD
+ETN,Eaton Corporation PLC,1,XNYS,USA,USD
+EVH,Evolent Health Inc,1,XNYS,USA,USD
+F,Ford Motor Company,1,XNYS,USA,USD
+FCRX,First Eagle Alternative Capital BDC Inc,1,XNYS,USA,USD
+FEDU,Four Seasons Education Cayman,1,XNYS,USA,USD
+FIGS,Figs Inc,1,XNYS,USA,USD
+HOG,Harley-Davidson Inc,1,XNYS,USA,USD
+HPE,Hewlett Packard Enterprise Co,1,XNYS,USA,USD
+HSHP,Himalaya Shipping Ltd.,1,XNYS,USA,USD
+PSFE-WT,Paysafe Ltd. Wt,1,XNYS,USA,USD
+PWSC,Powerschool Holdings Inc,1,XNYS,USA,USD
+QS,Quantumscape Corp,1,XNYS,USA,USD
+RDW,Redwire Corp,1,XNYS,USA,USD
+SAND,Sandstorm Gold Ltd N,1,XNYS,USA,USD
+SOL,Emeren Group Ltd,1,XNYS,USA,USD
+TCS,Container Store Group Inc,1,XNYS,USA,USD
+TDG,Transdigm Group Incorporated,1,XNYS,USA,USD
+TFSA,"Terra Income Fund 6, LLC 7.00%",1,XNYS,USA,USD
+THIR,THOR Financial Technologies Trust,1,XNYS,USA,USD
+TPH,TRI Pointe Homes Inc,1,XNYS,USA,USD
+TSLX,Sixth Street Specialty Lending Inc,1,XNYS,USA,USD
+USDP,USD Partners LP,1,XNYS,USA,USD
+IPG,Interpublic Group of Companies Inc,1,XNYS,USA,USD
+WSO-B,Watsco Inc,1,XNYS,USA,USD
+AES,The AES Corporation,1,XNYS,USA,USD
+AEVA-WT,"Aeva Technologies, Inc. WT",1,XNYS,USA,USD
+AFG,American Financial Group Inc,1,XNYS,USA,USD
+AOMR,Angel Oak Mortgage Inc,1,XNYS,USA,USD
+APH,Amphenol Corporation,1,XNYS,USA,USD
+ARC,ARC Document Solutions Inc,1,XNYS,USA,USD
+ASX,ASE Industrial Holding Co Ltd ADR,1,XNYS,USA,USD
+ATI,Allegheny Technologies Incorporated,1,XNYS,USA,USD
+AVAL,Grupo Aval,1,XNYS,USA,USD
+BBDC,Barings BDC Inc,1,XNYS,USA,USD
+BEPC,Brookfield Renewable Corp,1,XNYS,USA,USD
+BFH,Bread Financial Holdings Inc,1,XNYS,USA,USD
+BIPH,Safeplus International Holdings Limited,1,XNYS,USA,USD
+BKD,Brookdale Senior Living Inc,1,XNYS,USA,USD
+BNH,NASDAQ DM Ex US Industrials Ind,1,XNYS,USA,USD
+BOH,Bank of Hawaii Corporation,1,XNYS,USA,USD
+BRBR,Bellring Brands LLC,1,XNYS,USA,USD
+BTU,Peabody Energy Corp,1,XNYS,USA,USD
+BY,Byline Bancorp Inc,1,XNYS,USA,USD
+CBNA,"Chain Bridge Bancorp, Inc.",1,XNYS,USA,USD
+CCU,Compania Cervecerias Unidas SA ADR,1,XNYS,USA,USD
+CMS,CMS Energy Corporation,1,XNYS,USA,USD
+CNF,CNFinance Holdings Ltd,1,XNYS,USA,USD
+KMT,Kennametal Inc,1,XNYS,USA,USD
+KNSL,Kinsale Capital Group Inc,1,XNYS,USA,USD
+LAZ,Lazard Ltd,1,XNYS,USA,USD
+LDI,Loandepot Inc,1,XNYS,USA,USD
+LDOS,Leidos Holdings Inc,1,XNYS,USA,USD
+LU,Lufax Holding Ltd,1,XNYS,USA,USD
+MBI,MBIA Inc,1,XNYS,USA,USD
+MFM,MFS Municipal Income Trust,1,XNYS,USA,USD
+MHK,Mohawk Industries Inc,1,XNYS,USA,USD
+MLI,Mueller Industries Inc,1,XNYS,USA,USD
+MRO,Marathon Oil Corporation,1,XNYS,USA,USD
+MTBLY,Moatable Inc,1,XNYS,USA,USD
+MYTE,MYT Netherlands Parent BV,1,XNYS,USA,USD
+NEEPRR,NextEra Energy Inc Unit,1,XNYS,USA,USD
+NI,NiSource Inc,1,XNYS,USA,USD
+NINE,Nine Energy Service Inc,1,XNYS,USA,USD
+NOTE,FiscalNote Holdings Inc.,1,XNYS,USA,USD
+NUE,Nucor Corp,1,XNYS,USA,USD
+OKLO,Oklo Inc.,1,XNYS,USA,USD
+PAM,Pampa Energia SA ADR,1,XNYS,USA,USD
+PHT,Pioneer High Income Closed Fund,1,XNYS,USA,USD
+PKG,Packaging Corp of America,1,XNYS,USA,USD
+CVS,CVS Health Corp,1,XNYS,USA,USD
+CVX,Chevron Corp,1,XNYS,USA,USD
+EFC-PE,Ellington Financial Inc.,1,XNYS,USA,USD
+ENO,Entergy New Orleans LLC Pref,1,XNYS,USA,USD
+EPAC,Enerpac Tool Group Corp,1,XNYS,USA,USD
+EQV-WS,EQV-WS,1,XNYS,USA,USD
+FLO,Flowers Foods Inc,1,XNYS,USA,USD
+FMS,Fresenius Medical Care Corporation,1,XNYS,USA,USD
+FPI,Farmland Partners Inc,1,XNYS,USA,USD
+FTS,Fortis Inc,1,XNYS,USA,USD
+FUN,Six Flags Entertainment Corporation,1,XNYS,USA,USD
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,1,XNYS,USA,USD
+GBCI,Glacier Bancorp Inc,1,XNYS,USA,USD
+GEV-W,GEV-W,1,XNYS,USA,USD
+GHC,Graham Holdings Co,1,XNYS,USA,USD
+HESM,Hess Midstream Partners LP,1,XNYS,USA,USD
+HLLY,Holley Inc,1,XNYS,USA,USD
+HTFB,Horizon Technology Finance Corporation,1,XNYS,USA,USD
+RAMP,Liveramp Holdings Inc,1,XNYS,USA,USD
+RELX,Relx PLC ADR,1,XNYS,USA,USD
+RHP,Ryman Hospitality Properties Inc,1,XNYS,USA,USD
+RYN,Rayonier Inc,1,XNYS,USA,USD
+SBXC,SilverBox Corp III,1,XNYS,USA,USD
+SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,1,XNYS,USA,USD
+SHCO,Soho House & Co Inc.,1,XNYS,USA,USD
+SKIL,Skillsoft Corp.,1,XNYS,USA,USD
+SKM,SK Telecom Co Ltd ADR,1,XNYS,USA,USD
+SLGN,Silgan Holdings Inc,1,XNYS,USA,USD
+SNAP,Snap Inc,1,XNYS,USA,USD
+SNDR,Schneider National Inc,1,XNYS,USA,USD
+SPRU,Spruce Power Holding Corp,1,XNYS,USA,USD
+ST,Sensata Technologies Holding NV,1,XNYS,USA,USD
+STEM,Stem Inc,1,XNYS,USA,USD
+TIXT,TELUS International,1,XNYS,USA,USD
+TRP,TC Energy Corp,1,XNYS,USA,USD
+TYL,Tyler Technologies Inc,1,XNYS,USA,USD
+UA,Under Armour Inc C,1,XNYS,USA,USD
+UGI,UGI Corporation,1,XNYS,USA,USD
+VNT,Vontier Corp,1,XNYS,USA,USD
+IRS,IRSA Inversiones Y Representaciones,1,XNYS,USA,USD
+ITGR,Integer Holdings Corp,1,XNYS,USA,USD
+ITT,ITT Inc,1,XNYS,USA,USD
+IVT,Inventrust Properties Corp,1,XNYS,USA,USD
+WCN,Waste Connections Inc,1,XNYS,USA,USD
+WRB,W. R. Berkley Corp,1,XNYS,USA,USD
+X,United States Steel Corporation,1,XNYS,USA,USD
+YUM,Yum! Brands Inc,1,XNYS,USA,USD
+ZBH,Zimmer Biomet Holdings Inc,1,XNYS,USA,USD

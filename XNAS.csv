@@ -1,0 +1,4206 @@
+ticker,name,is_active,exchange_code,country_code,currency_code
+AACG,ATA Creativity Global,1,XNAS,USA,USD
+ACHL,Achilles Therapeutics PLC ADR,1,XNAS,USA,USD
+ACNT,Synalloy Corporation,1,XNAS,USA,USD
+ADMA,ADMA Biologics Inc,1,XNAS,USA,USD
+ADP,Automatic Data Processing Inc,1,XNAS,USA,USD
+ADSEW,ADS-TEC ENERGY PLC Warrant,1,XNAS,USA,USD
+AEHL,Antelope Enterprise Holdings Ltd,1,XNAS,USA,USD
+AGEN,Agenus Inc,1,XNAS,USA,USD
+AIEV,"Thunder Power Holdings, Inc.",1,XNAS,USA,USD
+AIRG,Airgain Inc,1,XNAS,USA,USD
+ALVO,Alvotech,1,XNAS,USA,USD
+ALZN,Alzamend Neuro Inc,1,XNAS,USA,USD
+ARKO,Arko Corp,1,XNAS,USA,USD
+ATRA,Atara Biotherapeutics Inc,1,XNAS,USA,USD
+AVBP,"ArriVent BioPharma, Inc. Common Stock",1,XNAS,USA,USD
+AZPN,Aspen Technology Inc,1,XNAS,USA,USD
+BCAB,Bioatla Inc,1,XNAS,USA,USD
+BCAL,Southern California Bancorp Common Stock,1,XNAS,USA,USD
+BEAT,Heartbeam Inc,1,XNAS,USA,USD
+BFRG,"Bullfrog AI Holdings, Inc. Common Stock",1,XNAS,USA,USD
+BLPH,Bellerophon Therapeutics Inc,1,XNAS,USA,USD
+BNAIW,Brand Engagement Network Inc,1,XNAS,USA,USD
+BOKF,BOK Financial Corporation,1,XNAS,USA,USD
+KPTI,Karyopharm Therapeutics Inc,1,XNAS,USA,USD
+KTOS,Kratos Defense & Security Solutions,1,XNAS,USA,USD
+KVACW,Keen Vision Acquisition Corporation Warrant,1,XNAS,USA,USD
+KZR,Kezar Life Sciences Inc,1,XNAS,USA,USD
+LEDS,SemiLEDS Corporation,1,XNAS,USA,USD
+LEGH,Legacy Housing Corp,1,XNAS,USA,USD
+LIF,"Life360, Inc. Common Stock",1,XNAS,USA,USD
+LIN,Linde plc Ordinary Shares,1,XNAS,USA,USD
+LIXT,Lixte Biotechnology Holdings Inc,1,XNAS,USA,USD
+LMNR,Limoneira Co,1,XNAS,USA,USD
+MEDS,Trxade Group Inc,1,XNAS,USA,USD
+MNST,Monster Beverage Corp,1,XNAS,USA,USD
+MOBQ,Mobiquity Technologies Inc,1,XNAS,USA,USD
+MRCC,Monroe Capital Corp,1,XNAS,USA,USD
+MREO,Mereo BioPharma Group PLC ADR,1,XNAS,USA,USD
+MSSAW,Metal Sky Star Acquisition Corporation Warrant,1,XNAS,USA,USD
+MYGN,Myriad Genetics Inc,1,XNAS,USA,USD
+NCNCW,noco-noco Inc. Warrant,1,XNAS,USA,USD
+BYNOW,byNordic Acquisition Corporation Warrant,1,XNAS,USA,USD
+BZFD,BuzzFeed Inc,1,XNAS,USA,USD
+CBAT,CBAK Energy Technology Inc,1,XNAS,USA,USD
+CDMO,Avid Bioservices Inc,1,XNAS,USA,USD
+CGNT,Cognyte Software Ltd,1,XNAS,USA,USD
+CITE,Cartica Acquisition Corp,1,XNAS,USA,USD
+CIZN,Citizens Holding Company,1,XNAS,USA,USD
+CLMB,Climb Global Solutions,1,XNAS,USA,USD
+CLVR,Clever Leaves Holdings Inc,1,XNAS,USA,USD
+CLVRW,Clever Leaves Holdings Inc,1,XNAS,USA,USD
+CNSP,Cns Pharmaceuticals Inc,1,XNAS,USA,USD
+COEP,Coeptis Therapeutics Inc,1,XNAS,USA,USD
+CYN,Cyngn Inc,1,XNAS,USA,USD
+DORM,Dorman Products Inc,1,XNAS,USA,USD
+DPCSW,DP Cap Acquisition Corp I Warrants,1,XNAS,USA,USD
+DSGX,Descartes Systems Group Inc,1,XNAS,USA,USD
+DZSI,DZS Inc,1,XNAS,USA,USD
+NUZE,Nuzee Inc,1,XNAS,USA,USD
+NXTC,NextCure  Inc,1,XNAS,USA,USD
+OSUR,OraSure Technologies Inc,1,XNAS,USA,USD
+PBBK,PB Bankshares Inc,1,XNAS,USA,USD
+PEBK,Peoples Bancorp of North Carolina,1,XNAS,USA,USD
+PFX,Phenixfin Corporation,1,XNAS,USA,USD
+PGNY,Progyny Inc,1,XNAS,USA,USD
+PRFT,Perficient Inc,1,XNAS,USA,USD
+PUCK,Goal Acquisitions Corp,1,XNAS,USA,USD
+REFR,Research Frontiers Incorporated,1,XNAS,USA,USD
+RENEW,Cartesian Growth Corporation II Warrant,1,XNAS,USA,USD
+RMBI,Richmond Mutual Bancorporation Inc,1,XNAS,USA,USD
+RMNI,Rimini Street Inc,1,XNAS,USA,USD
+RNAC,Cartesian Therapeutics Inc.,1,XNAS,USA,USD
+ROKU,Roku Inc,1,XNAS,USA,USD
+RPRX,Royalty Pharma Plc,1,XNAS,USA,USD
+RSSS,Research Solutions Inc,1,XNAS,USA,USD
+EGRX,Eagle Pharmaceuticals Inc,1,XNAS,USA,USD
+ENLT,Enlight Renewable Energy Ltd. Ordinary Shares,1,XNAS,USA,USD
+ENSC,Ensysce Biosciences Inc,1,XNAS,USA,USD
+ESGL,ESGL Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+FCNCA,First Citizens BancShares Inc,1,XNAS,USA,USD
+FOSLL,Fossil Group Inc. 7% Senior Notes due 2026,1,XNAS,USA,USD
+GBNY,Generations Bancorp NY Inc,1,XNAS,USA,USD
+GDS,GDS Holdings Ltd,1,XNAS,USA,USD
+GGAL,Grupo Financiero Galicia SA ADR,1,XNAS,USA,USD
+GNLN,Greenlane Holdings Inc,1,XNAS,USA,USD
+GRRRW,Gorilla Technology Group Inc.,1,XNAS,USA,USD
+GTBP,GT Biopharma Inc,1,XNAS,USA,USD
+GXAI,Gaxos.ai Inc,1,XNAS,USA,USD
+HAS,Hasbro Inc,1,XNAS,USA,USD
+HBANL,Huntington Bancshares Incorporated,1,XNAS,USA,USD
+SHLS,Shoals Technologies Group Inc,1,XNAS,USA,USD
+SHOTW,Safety Shot Inc,1,XNAS,USA,USD
+SMBC,Southern Missouri Bancorp Inc,1,XNAS,USA,USD
+SMCI,Super Micro Computer Inc,1,XNAS,USA,USD
+SPHL,Springview Holdings Ltd Class A Ordinary Shares,1,XNAS,USA,USD
+SPKLU,Spark I Acquisition Corp. Unit,1,XNAS,USA,USD
+SUNWQ,Sunworks Inc,1,XNAS,USA,USD
+TCX,Tucows Inc.,1,XNAS,USA,USD
+TERN,Terns Pharmaceuticals Inc,1,XNAS,USA,USD
+TGL,Treasure Global Inc.,1,XNAS,USA,USD
+TRVN,Trevena Inc,1,XNAS,USA,USD
+TSHA,Taysha Gene Therapies Inc,1,XNAS,USA,USD
+HNNAZ,Hennessy Advisors Inc. 4.875% Notes due 2026,1,XNAS,USA,USD
+HOLX,Hologic Inc,1,XNAS,USA,USD
+INSE,Inspired Entertainment Inc,1,XNAS,USA,USD
+IOVA,Iovance Biotherapeutics Inc,1,XNAS,USA,USD
+ITRM,Iterum Therapeutics PLC,1,XNAS,USA,USD
+JANX,Janux Therapeutics Inc,1,XNAS,USA,USD
+JVA,Coffee Holding Co Inc,1,XNAS,USA,USD
+KALV,Kalvista Pharmaceuticals Inc,1,XNAS,USA,USD
+KGEI,Kolibri Global Energy Inc. Common stock,1,XNAS,USA,USD
+KINS,Kingstone Companies Inc,1,XNAS,USA,USD
+USSH,WisdomTree 1-3 Year Laddered Treasury Fund,1,XNAS,USA,USD
+WATT,Energous Corporation,1,XNAS,USA,USD
+WKSP,Worksport Ltd,1,XNAS,USA,USD
+XCUR,Exicure Inc,1,XNAS,USA,USD
+XLO,Xilio Development Inc,1,XNAS,USA,USD
+XMTR,Xometry Inc,1,XNAS,USA,USD
+XOSWW,Xos Equity Warrants,1,XNAS,USA,USD
+YHNAU,YHN Acquisition I Limited Unit,1,XNAS,USA,USD
+ABVE,Above Food Ingredients Inc. Common Stock,1,XNAS,USA,USD
+ADGM,"Adagio Medical Holdings, Inc Common Stock",1,XNAS,USA,USD
+AGBA,AGBA Acquisition Ltd,1,XNAS,USA,USD
+ALBT,Avalon GloboCare Corp.,1,XNAS,USA,USD
+ALCY,Alchemy Investments Acquisition Corp 1 Class A Ordinary Shares,1,XNAS,USA,USD
+ALF,Centurion Acquisition Corp.,1,XNAS,USA,USD
+ALSAW,Alpha Star Acquisition Corporation Warrants,1,XNAS,USA,USD
+ALYAF,Alithya Group Inc,1,XNAS,USA,USD
+AMIX,"Autonomix Medical, Inc. Common Stock",1,XNAS,USA,USD
+ANEB,Anebulo Pharmaceuticals Inc,1,XNAS,USA,USD
+APWC,Asia Pacific Wire & Cable Corp Ltd,1,XNAS,USA,USD
+ATXS,Astria Therapeutics Inc,1,XNAS,USA,USD
+AXDX,Accelerate Diagnostics Inc,1,XNAS,USA,USD
+AYRO,AYRO Inc,1,XNAS,USA,USD
+BAND,Bandwidth Inc,1,XNAS,USA,USD
+BCTXW,BriaCell Therapeutics Corp,1,XNAS,USA,USD
+BIAFW,bioAffinity Technologies Inc. Warrant,1,XNAS,USA,USD
+BJDX,Bluejay Diagnostics Inc,1,XNAS,USA,USD
+BLACR,Bellevue Life Sciences Acquisition Corp. Rights,1,XNAS,USA,USD
+BPTH,Bio Path Holdings Inc,1,XNAS,USA,USD
+KPRX,Kiora Pharmaceuticals Inc,1,XNAS,USA,USD
+KVACU,Keen Vision Acquisition Corporation Units,1,XNAS,USA,USD
+LBTYB,Liberty Global PLC Class B,1,XNAS,USA,USD
+LCFY,Locafy Ltd,1,XNAS,USA,USD
+LCFYW,Locafy Limited,1,XNAS,USA,USD
+LILA,Liberty Latin America Ltd,1,XNAS,USA,USD
+LILAK,Liberty Latin America Ltd Class C,1,XNAS,USA,USD
+LSB,"LakeShore Biopharma Co., Ltd",1,XNAS,USA,USD
+MANH,Manhattan Associates Inc,1,XNAS,USA,USD
+MCOM,Micromobility.com Inc.,1,XNAS,USA,USD
+MDLZ,Mondelez International Inc,1,XNAS,USA,USD
+MLYS,"Mineralys Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+MRCY,Mercury Systems Inc,1,XNAS,USA,USD
+MRKR,Marker Therapeutics Inc,1,XNAS,USA,USD
+MSGM,Motorsport Gaming Us LLC,1,XNAS,USA,USD
+MXCT,MaxCyte Inc,1,XNAS,USA,USD
+NA,Nano Labs Ltd,1,XNAS,USA,USD
+NMTC,Neuroone Medical Technologies Corp,1,XNAS,USA,USD
+NOGWQ,Nogin Inc,1,XNAS,USA,USD
+NSPR,InspireMD Inc,1,XNAS,USA,USD
+BTTX,Better Therapeutics Inc,1,XNAS,USA,USD
+BWFG,Bankwell Financial Group Inc,1,XNAS,USA,USD
+CADL,Candel Therapeutics Inc,1,XNAS,USA,USD
+CAN,Canaan Inc,1,XNAS,USA,USD
+CAR,Avis Budget Group Inc,1,XNAS,USA,USD
+CHTR,Charter Communications Inc,1,XNAS,USA,USD
+CLFD,Clearfield Inc,1,XNAS,USA,USD
+CLIR,ClearSign Combustion Corporation,1,XNAS,USA,USD
+CRDMX,CRDMX,1,XNAS,USA,USD
+CRGE,Charge Enterprises Inc,1,XNAS,USA,USD
+CSWI,CSW Industrials Inc,1,XNAS,USA,USD
+CTCXW,Carmell Therapeutics Corporation,1,XNAS,USA,USD
+CTHR,Charles & Colvard Ltd,1,XNAS,USA,USD
+DNLI,Denali Therapeutics Inc,1,XNAS,USA,USD
+DUET,DUET Acquisition Corp,1,XNAS,USA,USD
+DYN,Dyne Therapeutics Inc,1,XNAS,USA,USD
+NVAC,Northview Acquisition Corp,1,XNAS,USA,USD
+NXST,Nexstar Broadcasting Group Inc,1,XNAS,USA,USD
+ONEW,Onewater Marine,1,XNAS,USA,USD
+ONYX,Onyx Acquisition I Co,1,XNAS,USA,USD
+PARA,Paramount Global Class B,1,XNAS,USA,USD
+PDFS,PDF Solutions Inc,1,XNAS,USA,USD
+PEBO,Peoples Bancorp Inc,1,XNAS,USA,USD
+PERI,Perion Network,1,XNAS,USA,USD
+PLMJW,Plum Acquisition Corp. III,1,XNAS,USA,USD
+RCKTW,"Rocket Pharmaceuticals, Inc. Warrant",1,XNAS,USA,USD
+RCRTW,Recruiter.com Group Inc. Warrant,1,XNAS,USA,USD
+RDUS,Schnitzer Steel Industries Inc,1,XNAS,USA,USD
+RLYB,Rallybio Corp,1,XNAS,USA,USD
+RMGCF,RMG Acquisition Corp. III,1,XNAS,USA,USD
+EOLS,Evolus Inc,1,XNAS,USA,USD
+EVER,EverQuote Inc Class A,1,XNAS,USA,USD
+EZFL,EzFill Holdings Inc,1,XNAS,USA,USD
+FATE,Fate Therapeutics Inc,1,XNAS,USA,USD
+FITB,Fifth Third Bancorp,1,XNAS,USA,USD
+FLX,BingEx Ltd,1,XNAS,USA,USD
+FUTU,Futu Holdings Ltd,1,XNAS,USA,USD
+FXNC,First National Corp,1,XNAS,USA,USD
+GBBK,Global Blockchain Acquisition Corp. Common Stock,1,XNAS,USA,USD
+GERN,Geron Corporation,1,XNAS,USA,USD
+GOVXW,GeoVax Labs Inc,1,XNAS,USA,USD
+GRDIW,GRIID Infrastructure Inc. Warrant,1,XNAS,USA,USD
+GRTS,Gritstone Oncology Inc,1,XNAS,USA,USD
+SBIGW,SpringBig Holdings Inc.,1,XNAS,USA,USD
+SCNX,"Scienture Holdings, Inc.",1,XNAS,USA,USD
+SHPW,"Shapeways Holdings, Inc. Common Stock",1,XNAS,USA,USD
+SIMA,SIM Acquisition Corp. I Class A Ordinary Shares,1,XNAS,USA,USD
+SRNE,Sorrento Therape,1,XNAS,USA,USD
+SSB,SouthState Corporation,1,XNAS,USA,USD
+SWIM,Latham Group Inc,1,XNAS,USA,USD
+TIL,Instil Bio Inc.,1,XNAS,USA,USD
+TLSIW,TriSalus Life Sciences Inc.,1,XNAS,USA,USD
+TMDX,TransMedics Group Inc,1,XNAS,USA,USD
+TOYO,"TOYO Co., Ltd Ordinary Shares",1,XNAS,USA,USD
+TRS,TriMas Corporation,1,XNAS,USA,USD
+TRVG,Trivago NV,1,XNAS,USA,USD
+TTMI,TTM Technologies Inc,1,XNAS,USA,USD
+HGBL,Heritage Global Inc,1,XNAS,USA,USD
+HTCO,Caravelle International Group,1,XNAS,USA,USD
+HTCR,HeartCore Enterprises Inc,1,XNAS,USA,USD
+IMTXW,immatics biotechnologies GmbH,1,XNAS,USA,USD
+INFN,Infinera Corporation,1,XNAS,USA,USD
+INZY,Inozyme Pharma Inc,1,XNAS,USA,USD
+IRBT,iRobot Corporation,1,XNAS,USA,USD
+JFBR,Jeffs' Brands Ltd,1,XNAS,USA,USD
+JRSH,Jerash Holdings US Inc,1,XNAS,USA,USD
+KIDS,Orthopediatrics Corp,1,XNAS,USA,USD
+URBN,Urban Outfitters Inc,1,XNAS,USA,USD
+VOXX,VOXX International Corporation,1,XNAS,USA,USD
+VRSK,Verisk Analytics Inc,1,XNAS,USA,USD
+VXRT,Vaxart Inc,1,XNAS,USA,USD
+WALDW,Waldencast Acquisition Corp,1,XNAS,USA,USD
+WKHS,Workhorse Group Inc,1,XNAS,USA,USD
+WW,WW International Inc,1,XNAS,USA,USD
+ZIVOW,Zivo Bioscience Inc. Warrants,1,XNAS,USA,USD
+ZXZZT,NASDAQ TEST STOCK,1,XNAS,USA,USD
+AEHR,Aehr Test Systems,1,XNAS,USA,USD
+AEYE,AudioEye Inc,1,XNAS,USA,USD
+AKAN,Akanda Corp,1,XNAS,USA,USD
+ALNY,Alnylam Pharmaceuticals Inc,1,XNAS,USA,USD
+ALRN,Aileron Therapeutics Inc,1,XNAS,USA,USD
+ANGO,AngioDynamics Inc,1,XNAS,USA,USD
+ARLP,Alliance Resource Partners LP,1,XNAS,USA,USD
+ARTL,Artelo Biosciences Inc,1,XNAS,USA,USD
+BLAC,Bellevue Life Sciences Acquisition Corp. Common Stock,1,XNAS,USA,USD
+BSBK,Bogota Financial Corp,1,XNAS,USA,USD
+KSPI,Joint Stock Company Kaspi.kz American Depository Shares,1,XNAS,USA,USD
+LCAPW,Lionheart Acquisition Corporation II,1,XNAS,USA,USD
+LDTC,LeddarTech Holdings Inc,1,XNAS,USA,USD
+LGCL,Lucas GC Limited Ordinary Shares,1,XNAS,USA,USD
+LILMW,Lilium Equity Warrants,1,XNAS,USA,USD
+LITE,Lumentum Holdings Inc,1,XNAS,USA,USD
+LPTH,LightPath Technologies Inc,1,XNAS,USA,USD
+MAR,Marriott International Inc,1,XNAS,USA,USD
+MAT,Mattel Inc,1,XNAS,USA,USD
+METC,Ramaco Resources Inc,1,XNAS,USA,USD
+MGEE,MGE Energy Inc,1,XNAS,USA,USD
+MPB,Mid Penn Bancorp,1,XNAS,USA,USD
+MQ,Marqeta Inc,1,XNAS,USA,USD
+NCNO,nCino Inc,1,XNAS,USA,USD
+NECB,Northeast Community Bancorp Inc,1,XNAS,USA,USD
+NEO,NeoGenomics Inc,1,XNAS,USA,USD
+NRSN,Neurosense Therapeutics Ltd,1,XNAS,USA,USD
+CAKE,The Cheesecake Factory,1,XNAS,USA,USD
+CARV,Carver Bancorp Inc,1,XNAS,USA,USD
+CASI,CASI Pharmaceuticals Inc,1,XNAS,USA,USD
+CCSI,Consensus Cloud Solutions Inc,1,XNAS,USA,USD
+CDTTW,Conduit Pharmaceuticals Inc.,1,XNAS,USA,USD
+CELH,Celsius Holdings Inc,1,XNAS,USA,USD
+CFBK,CF Bankshares Inc,1,XNAS,USA,USD
+CGBD,Carlyle Secured Lending Inc,1,XNAS,USA,USD
+CGTX,Cognition Therapeutics Inc,1,XNAS,USA,USD
+CLSD,Clearside Biomedical Inc,1,XNAS,USA,USD
+CMPX,Compass Therapeutics Inc.,1,XNAS,USA,USD
+COMSW,COMSovereign Holding Corp,1,XNAS,USA,USD
+CRBU,Caribou Biosciences Inc,1,XNAS,USA,USD
+CRGOW,Freightos Limited Warrants,1,XNAS,USA,USD
+CRGX,"CARGO Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+CRML,Critical Metals Corp. Ordinary Shares,1,XNAS,USA,USD
+CRUS,Cirrus Logic Inc,1,XNAS,USA,USD
+CSLR,"Complete Solaria, Inc. Common Stock",1,XNAS,USA,USD
+CVRX,CVRx Inc,1,XNAS,USA,USD
+DCFC,Tritium Dcfc Ltd,1,XNAS,USA,USD
+DCTH,Delcath Systems Inc,1,XNAS,USA,USD
+DRIO,DarioHealth Corp,1,XNAS,USA,USD
+DRTS,Alpha Tau Medical Ltd,1,XNAS,USA,USD
+NVACR,NorthView Acquisition Corporation Rights,1,XNAS,USA,USD
+NVDD,Direxion Daily NVDA Bear 1X Shares,1,XNAS,USA,USD
+NVNI,Nvni Group Limited Ordinary Shares,1,XNAS,USA,USD
+OCFC,OceanFirst Financial Corp,1,XNAS,USA,USD
+OXLCZ,Oxford Lane Capital Corp. 5.00% Notes due 2027,1,XNAS,USA,USD
+OXSQG,Oxford Square Capital Corp. 5.50% Notes due 2028,1,XNAS,USA,USD
+PBFS,Pioneer Bancorp Inc,1,XNAS,USA,USD
+PEP,PepsiCo Inc,1,XNAS,USA,USD
+PETVW,PetVivo Holdings Inc. Warrant,1,XNAS,USA,USD
+PGEN,Precigen Inc,1,XNAS,USA,USD
+PRENW,Prenetics Holding Company Limited,1,XNAS,USA,USD
+PULM,Pulmatrix Inc,1,XNAS,USA,USD
+RCKY,Rocky Brands Inc,1,XNAS,USA,USD
+REGCP,Regency Centers Corporation 6.25% Series A Cumulative Redeemable Preferred Stock,1,XNAS,USA,USD
+RELY,Remitly Global Inc,1,XNAS,USA,USD
+RKLB,Rocket Lab USA Inc.,1,XNAS,USA,USD
+RMCF,Rocky Mountain Chocolate Factory,1,XNAS,USA,USD
+RNAZ,Transcode Therapeutics Inc,1,XNAS,USA,USD
+ELAB,"Elevai Labs, Inc. Common Stock",1,XNAS,USA,USD
+EXC,Exelon Corporation,1,XNAS,USA,USD
+EXLS,ExlService Holdings Inc,1,XNAS,USA,USD
+FAIR,Fair Oaks Income 2021 Ord,1,XNAS,USA,USD
+FBRX,Forte Biosciences Inc,1,XNAS,USA,USD
+FLDDU,FTAC Emerald Acquisition Corp.,1,XNAS,USA,USD
+FLDDW,FTAC Emerald Acquisition Corp.,1,XNAS,USA,USD
+FLL,Full House Resorts Inc,1,XNAS,USA,USD
+FTEK,Fuel Tech Inc,1,XNAS,USA,USD
+GABC,German American Bancorp Inc,1,XNAS,USA,USD
+GATE,Marblegate Acquisition Corp,1,XNAS,USA,USD
+GDSTR,Goldenstone Acquisition Limited Rights,1,XNAS,USA,USD
+GEG,Great Elm Group Inc,1,XNAS,USA,USD
+GFAIW,Guardforce AI Co. Limited Warrant,1,XNAS,USA,USD
+GLSI,Greenwich Lifesciences Inc,1,XNAS,USA,USD
+GP,GreenPower Motor Company Inc,1,XNAS,USA,USD
+GPAT,GP-Act III Acquisition Corp. Class A Ordinary Share,1,XNAS,USA,USD
+GRTX,Galera Therapeutics Inc,1,XNAS,USA,USD
+HCDPQ,Harbor Custom Development Inc,1,XNAS,USA,USD
+RWAYZ,Runway Growth Finance Corp. 8.00% Notes due 2027,1,XNAS,USA,USD
+SBIG,SpringBig Holdings Inc.,1,XNAS,USA,USD
+SBT,Sterling Bancorp Inc,1,XNAS,USA,USD
+SGMO,Sangamo Therapeutics Inc,1,XNAS,USA,USD
+SHLT,SHL Telemedicine Ltd American Depositary Shares,1,XNAS,USA,USD
+SHOT,Safety Shot Inc,1,XNAS,USA,USD
+SIDU,Sidus Space Inc,1,XNAS,USA,USD
+SKYT,Skywater Technology Inc,1,XNAS,USA,USD
+SLRX,Salarius Pharmaceuticals Inc,1,XNAS,USA,USD
+SMFL,"Smart for Life, Inc. Common Stock",1,XNAS,USA,USD
+SMLR,Semler Scientific Inc,1,XNAS,USA,USD
+SPFI,South Plains Financial Inc,1,XNAS,USA,USD
+SPI,SPI Energy Co Ltd,1,XNAS,USA,USD
+SPKLW,Spark I Acquisition Corp. Warrant,1,XNAS,USA,USD
+SPTN,SpartanNash Co,1,XNAS,USA,USD
+SRPT,Sarepta Therapeutics Inc,1,XNAS,USA,USD
+STAF,Staffing 360 Solutions Inc,1,XNAS,USA,USD
+SYBT,Stock Yards Bancorp Inc,1,XNAS,USA,USD
+TDW-WT,Tidewater Inc,1,XNAS,USA,USD
+THTX,Theratechnologies Inc.,1,XNAS,USA,USD
+TRIN,Trinity Capital Inc,1,XNAS,USA,USD
+HCTI,Healthcare Triangle Inc,1,XNAS,USA,USD
+HPAI,Helport AI Limited Ordinary Shares,1,XNAS,USA,USD
+HPKEW,HighPeak Energy Inc,1,XNAS,USA,USD
+HTBI,HomeTrust Bancshares Inc,1,XNAS,USA,USD
+IDCC,InterDigital Inc,1,XNAS,USA,USD
+ILLR,ILLR,1,XNAS,USA,USD
+ILLRW,ILLRW,1,XNAS,USA,USD
+IOSP,Innospec Inc,1,XNAS,USA,USD
+ISUNQ,"iSun, Inc.",1,XNAS,USA,USD
+IXQUF,IXQUF,1,XNAS,USA,USD
+JRVR,James River Group Holdings Ltd,1,XNAS,USA,USD
+JWEL,Jowell Global Ltd.,1,XNAS,USA,USD
+KA,Kineta Inc.,1,XNAS,USA,USD
+UEIC,Universal Electronics Inc,1,XNAS,USA,USD
+UFPT,UFP Technologies Inc,1,XNAS,USA,USD
+ULY,Urgent.ly Inc. Common Stock,1,XNAS,USA,USD
+USIO,Usio Inc,1,XNAS,USA,USD
+UTSI,UTStarcom Holdings Corp,1,XNAS,USA,USD
+WORX,Scworx Corp,1,XNAS,USA,USD
+XAIR,Beyond Air Inc,1,XNAS,USA,USD
+ZLSWU,Zalatoris II Acquisition Corp.,1,XNAS,USA,USD
+ZOOZ,ZOOZ Power Ltd. Ordinary Shares,1,XNAS,USA,USD
+ABVX,Abivax SA American Depositary Shares,1,XNAS,USA,USD
+ACET,Adicet Bio Inc,1,XNAS,USA,USD
+ADSE,Ads Tec Energy PLC,1,XNAS,USA,USD
+AENTW,Alliance Entertainment Holding Corporation Warrants,1,XNAS,USA,USD
+AMLI,American Lithium Corp. Common Stock,1,XNAS,USA,USD
+AOSL,Alpha and Omega Semiconductor Ltd,1,XNAS,USA,USD
+APM,Aptorum Group Ltd Class A,1,XNAS,USA,USD
+ARAY,Accuray Incorporated,1,XNAS,USA,USD
+ARBE,Arbe Robotics Ltd,1,XNAS,USA,USD
+ASNS,Actelis Networks Inc.,1,XNAS,USA,USD
+ASST,Asset Entities Inc. Class B Common Stock,1,XNAS,USA,USD
+ATHE,Alterity Therapeutics Ltd,1,XNAS,USA,USD
+ATNF,180 Life Sciences Corp,1,XNAS,USA,USD
+ATXG,Addentax Group Corp,1,XNAS,USA,USD
+AUGX,Augmedix Inc,1,XNAS,USA,USD
+BHAT,Blue Hat Interactive Entertainment ,1,XNAS,USA,USD
+BHF,Brighthouse Financial Inc,1,XNAS,USA,USD
+BHRB,Burke & Herbert Financial Services Corp. Common Stock,1,XNAS,USA,USD
+BNGO,Bionano Genomics Inc,1,XNAS,USA,USD
+BNIX,Bannix Acquisition Corp,1,XNAS,USA,USD
+BTCS,BTCS Inc,1,XNAS,USA,USD
+KRNY,Kearny Financial Corp,1,XNAS,USA,USD
+LCNB,LCNB Corporation,1,XNAS,USA,USD
+LCUT,Lifetime Brands Inc,1,XNAS,USA,USD
+LGHLW,Lion Financial Group Limited,1,XNAS,USA,USD
+LIVE,Live Ventures Inc,1,XNAS,USA,USD
+LMAT,LeMaitre Vascular Inc,1,XNAS,USA,USD
+LNSR,LENSAR Inc,1,XNAS,USA,USD
+LOCO,El Pollo Loco Holdings Inc,1,XNAS,USA,USD
+LOTWW,Lotus Technology Inc. Warrants,1,XNAS,USA,USD
+LSEAW,Landsea Homes Corporation,1,XNAS,USA,USD
+LTRN,Lantern Pharma Inc,1,XNAS,USA,USD
+MESA,Mesa Air Group Inc,1,XNAS,USA,USD
+MIST,Milestone Pharmaceuticals Inc,1,XNAS,USA,USD
+MLECW,Moolec Science SA Warrant,1,XNAS,USA,USD
+MMLP,Martin Midstream Partners LP,1,XNAS,USA,USD
+MOFG,MidWestOne Financial Group Inc,1,XNAS,USA,USD
+MRNOW,Murano Global Investments PLC Warrants,1,XNAS,USA,USD
+MSFT,Microsoft Corporation,1,XNAS,USA,USD
+MURA,Mural Oncology plc,1,XNAS,USA,USD
+NEPH,Nephros Inc,1,XNAS,USA,USD
+NSYS,Nortech Systems Incorporated,1,XNAS,USA,USD
+BYNO,Bynordic Acquisition Corp,1,XNAS,USA,USD
+CBSH,Commerce Bancshares Inc,1,XNAS,USA,USD
+CENN,Cenntro Electric Group Ltd,1,XNAS,USA,USD
+CRCT,Cricut Inc,1,XNAS,USA,USD
+CRKN,Crown Electrokinetics Corp.,1,XNAS,USA,USD
+CSLMR,Consilium Acquisition Corp I Ltd. Right,1,XNAS,USA,USD
+CTKB,Cytek Biosciences Inc,1,XNAS,USA,USD
+CZR,Caesars Entertainment Corporation,1,XNAS,USA,USD
+DKNG,DraftKings Inc,1,XNAS,USA,USD
+DOMO,Domo Inc,1,XNAS,USA,USD
+DOYU,DouYu International Holdings,1,XNAS,USA,USD
+NVFY,Nova Lifestyle I,1,XNAS,USA,USD
+OLED,Universal Display,1,XNAS,USA,USD
+ONFO,Onfolio Holdings Inc,1,XNAS,USA,USD
+OPTN,OptiNose,1,XNAS,USA,USD
+PAYOW,Payoneer Global Inc. Warrant,1,XNAS,USA,USD
+PEGY,Pineapple Holdings Inc,1,XNAS,USA,USD
+PGYWW,Pagaya Technologies Ltd. Warrants,1,XNAS,USA,USD
+PLAOW,Patria Latin American Opportunity Acquisition Corp.,1,XNAS,USA,USD
+PLMJU,Plum Acquisition Corp. III,1,XNAS,USA,USD
+PROC,Procaps Group SA,1,XNAS,USA,USD
+PSMT,PriceSmart Inc,1,XNAS,USA,USD
+QETA,Quetta Acquisition Corporation Common Stock,1,XNAS,USA,USD
+RCEL,Avita Medical Ltd,1,XNAS,USA,USD
+RGP,Resources Connection Inc,1,XNAS,USA,USD
+RGTIW,Rigetti Computing Inc. Warrants,1,XNAS,USA,USD
+RILYN,B. Riley Financial Inc,1,XNAS,USA,USD
+ROCLW,Roth CH Acquisition V Co. Warrant,1,XNAS,USA,USD
+ROSS-UN,Ross Acquisition II Corp,1,XNAS,USA,USD
+ECXWW,ECARX Holdings Inc. Warrants,1,XNAS,USA,USD
+EPOW,Sunrise New Energy Co. Ltd,1,XNAS,USA,USD
+ETSY,Etsy Inc,1,XNAS,USA,USD
+FANG,Diamondback Energy Inc,1,XNAS,USA,USD
+FBYDW,"Falcon's Beyond Global, Inc. Warrants",1,XNAS,USA,USD
+FFIV,F5 Networks Inc,1,XNAS,USA,USD
+FHTX,Foghorn Therapeutics Inc,1,XNAS,USA,USD
+FIP,FTAI Infrastructure Inc.,1,XNAS,USA,USD
+FIVN,Five9 Inc,1,XNAS,USA,USD
+FLGC,Flora Growth Corp,1,XNAS,USA,USD
+GIFI,Gulf Island Fabrication Inc,1,XNAS,USA,USD
+GIPR,Generation Income Properties Inc,1,XNAS,USA,USD
+GOCO,GoHealth Inc.,1,XNAS,USA,USD
+GROMW,Grom Social Enterprises Inc. Warrants,1,XNAS,USA,USD
+GRVY,Gravity Co Ltd,1,XNAS,USA,USD
+GSIT,GSI Technology Inc,1,XNAS,USA,USD
+GT,Goodyear Tire & Rubber Co,1,XNAS,USA,USD
+GV,Visionary Education Technology Holdings Group Inc.,1,XNAS,USA,USD
+SFRT,Appreciate Holdings Inc.,1,XNAS,USA,USD
+SGBX,SG Blocks Inc,1,XNAS,USA,USD
+SIRI,Sirius XM Holding Inc,1,XNAS,USA,USD
+SKGR,SK Growth Opportunities Corporation,1,XNAS,USA,USD
+SLGL,Sol Gel Technologies Ltd,1,XNAS,USA,USD
+SLXN,Biomotion Sciences Ordinary Shares,1,XNAS,USA,USD
+SNOA,Sonoma Pharmaceuticals Inc,1,XNAS,USA,USD
+SPCB,Supercom Ltd,1,XNAS,USA,USD
+SPRY,Silverback Therapeutics Inc,1,XNAS,USA,USD
+STWWF,STWWF,1,XNAS,USA,USD
+SUNS,"Sunrise Realty Trust, Inc.",1,XNAS,USA,USD
+TER,Teradyne Inc,1,XNAS,USA,USD
+TGAAW,Target Global Acquisition I Corp. Warrant,1,XNAS,USA,USD
+TSAT,Telesat Corp,1,XNAS,USA,USD
+TVGNW,Tevogen Bio Holdings Inc,1,XNAS,USA,USD
+HDSN,Hudson Technologies Inc,1,XNAS,USA,USD
+IMNN,Imunon Inc,1,XNAS,USA,USD
+IMRN,Immuron Ltd ADR,1,XNAS,USA,USD
+TWIN,Twin Disc Incorporated,1,XNAS,USA,USD
+TYRA,Tyra Biosciences Inc,1,XNAS,USA,USD
+TZOO,Travelzoo,1,XNAS,USA,USD
+UAL,United Airlines Holdings Inc,1,XNAS,USA,USD
+UNCY,Unicycive Therapeutics Inc,1,XNAS,USA,USD
+UONEK,Urban One Inc Class D,1,XNAS,USA,USD
+URGN,UroGen Pharma Ltd,1,XNAS,USA,USD
+USIN,WisdomTree 7-10 Year Laddered Treasury Fund,1,XNAS,USA,USD
+UTRS,Minerva Surgical Inc,1,XNAS,USA,USD
+VITL,Vital Farms Inc,1,XNAS,USA,USD
+WGS,GeneDx Holdings Corp.,1,XNAS,USA,USD
+YGMZ,Mingzhu Logistics Holdings Ltd,1,XNAS,USA,USD
+ZEOWW,Zeo Energy Corp,1,XNAS,USA,USD
+ZLAB,Zai Lab Ltd,1,XNAS,USA,USD
+ACAC,Acri Capital Acquisition Corporation,1,XNAS,USA,USD
+ALSAR,Alpha Star Acquisition Corporation Rights,1,XNAS,USA,USD
+ALTS,ALT5 Sigma Corporation,1,XNAS,USA,USD
+ANIP,ANI Pharmaceuticals Inc,1,XNAS,USA,USD
+APDN,Applied DNA Sciences Inc,1,XNAS,USA,USD
+AQMS,Aqua Metals Inc,1,XNAS,USA,USD
+ARKR,Ark Restaurants Corp,1,XNAS,USA,USD
+ARQ,Arq Inc,1,XNAS,USA,USD
+ATOS,Atossa Genetics Inc,1,XNAS,USA,USD
+AUVIQ,"Applied UV, Inc.",1,XNAS,USA,USD
+BAERW,"Bridger Aerospace Group Holdings, Inc. Warrant",1,XNAS,USA,USD
+BENF,Beneficient Class A Common Stock,1,XNAS,USA,USD
+BLFS,BioLife Solutions Inc,1,XNAS,USA,USD
+BNAI,Brand Engagement Network Inc,1,XNAS,USA,USD
+BOLD,"Boundless Bio, Inc. Common Stock",1,XNAS,USA,USD
+BOTJ,Bank of the James Financial Group,1,XNAS,USA,USD
+BPMC,Blueprint Medicines Corp,1,XNAS,USA,USD
+BRFH,Barfresh Food Group Inc,1,XNAS,USA,USD
+BROGW,Brooge Energy Limited,1,XNAS,USA,USD
+LIDRW,AEye Inc,1,XNAS,USA,USD
+LQR,LQR House Inc. Common Stock,1,XNAS,USA,USD
+LSH,Lakeside Holding Limited Common Stock,1,XNAS,USA,USD
+MATH,Metalpha Technology Holding Limited,1,XNAS,USA,USD
+MCAGR,Mountain Crest Acquisition Corp. V Right,1,XNAS,USA,USD
+MDRR,Medalist Diversified Reit Inc,1,XNAS,USA,USD
+MDVLQ,MedAvail Holdings Inc,1,XNAS,USA,USD
+METU,Direxion Daily META Bull 2X Shares,1,XNAS,USA,USD
+MHUA,Meihua International Medical Technologies Co Ltd,1,XNAS,USA,USD
+MIDD,Middleby Corp,1,XNAS,USA,USD
+MITAW,Coliseum Acquisition Corp. Warrant,1,XNAS,USA,USD
+MLKN,MillerKnoll Inc,1,XNAS,USA,USD
+MMAT,Meta Materials Inc,1,XNAS,USA,USD
+MNPR,Monopar Therapeutics Inc,1,XNAS,USA,USD
+MNSB,Mainstreet Bank,1,XNAS,USA,USD
+MOBBW,Mobilicom Limited Warrants,1,XNAS,USA,USD
+MOVE,Movano Inc,1,XNAS,USA,USD
+MRNO,Murano Global Investments PLC Ordinary Shares,1,XNAS,USA,USD
+MSSAR,Metal Sky Star Acquisition Corporation Right,1,XNAS,USA,USD
+MYNZ,Mainz Biomed BV,1,XNAS,USA,USD
+NATH,Nathans Famous Inc,1,XNAS,USA,USD
+NBTB,NBT Bancorp Inc,1,XNAS,USA,USD
+NIVF,NewGenIvf Group Limited Class A Ordinary Shares,1,XNAS,USA,USD
+NKTR,Nektar Therapeutics,1,XNAS,USA,USD
+NMRD,Nemaura Medical Inc,1,XNAS,USA,USD
+BYND,Beyond Meat Inc,1,XNAS,USA,USD
+CCNE,CNB Financial Corporation,1,XNAS,USA,USD
+CENT,Central Garden & Pet Company,1,XNAS,USA,USD
+CEROW,CERo Therapeutics Holdings Inc,1,XNAS,USA,USD
+CHDN,Churchill Downs Incorporated,1,XNAS,USA,USD
+CHSN,Chanson International Holding Class A Ordinary Shares,1,XNAS,USA,USD
+CNOB,ConnectOne Bancorp Inc,1,XNAS,USA,USD
+COOP,Mr. Cooper Group Inc,1,XNAS,USA,USD
+CPHC,Canterbury Park Holding Corporation,1,XNAS,USA,USD
+CPSI,Computer Programs and Systems Inc,1,XNAS,USA,USD
+CSSEQ,"Chicken Soup for the Soul Entertainment, Inc.",1,XNAS,USA,USD
+CTCX,Carmell Therapeutics Corporation,1,XNAS,USA,USD
+CWST,Casella Waste Systems Inc,1,XNAS,USA,USD
+CYRX,Cryoport Inc,1,XNAS,USA,USD
+DHC,Diversified Healthcare Trust,1,XNAS,USA,USD
+DOX,Amdocs Ltd,1,XNAS,USA,USD
+DYCQ,DT Cloud Acquisition Corporation Ordinary Shares,1,XNAS,USA,USD
+NUVOQ,Holdco Nuvo Group D.G Ltd,1,XNAS,USA,USD
+NVACW,NorthView Acquisition Corporation Warrant,1,XNAS,USA,USD
+NVAWW,Nova Minerals Limited Warrant,1,XNAS,USA,USD
+NVCR,Novocure Ltd,1,XNAS,USA,USD
+NVVEW,Nuvve Holding Corp,1,XNAS,USA,USD
+NXGLW,NexGel Inc Warrant,1,XNAS,USA,USD
+OBLG,Oblong Inc,1,XNAS,USA,USD
+OCAXW,OCA Acquisition Corp,1,XNAS,USA,USD
+OFLX,Omega Flex Inc,1,XNAS,USA,USD
+ONMD,OneMedNet Corp.,1,XNAS,USA,USD
+OPTX,Syntec Optics Holdings Inc.,1,XNAS,USA,USD
+PC,Premium Catering (Holdings) Limited,1,XNAS,USA,USD
+PCSA,Processa Pharmaceuticals Inc,1,XNAS,USA,USD
+PI,Impinj Inc,1,XNAS,USA,USD
+PLAO,Patria Latin American Opportunity,1,XNAS,USA,USD
+PRPL,Purple Innovation Inc,1,XNAS,USA,USD
+PYPL,PayPal Holdings Inc,1,XNAS,USA,USD
+QCILPX,CREF Inflation-Linked Bond Account - R2,1,XNAS,USA,USD
+QNCX,Cortexyme Inc,1,XNAS,USA,USD
+RNW,Renew Energy Global PLC,1,XNAS,USA,USD
+RSVR,Reservoir Media Inc,1,XNAS,USA,USD
+EBAY,eBay Inc,1,XNAS,USA,USD
+EDUC,Educational Development Corporation,1,XNAS,USA,USD
+EGOXF,Next.e.GO N.V.,1,XNAS,USA,USD
+EML,Eastern Co,1,XNAS,USA,USD
+ENTX,Entera Bio Ltd,1,XNAS,USA,USD
+EOSEW,Eos Energy Enterprises Inc,1,XNAS,USA,USD
+ERNA,Eterna Therapeutics Inc,1,XNAS,USA,USD
+ESTA,Establishment Labs Holdings Inc,1,XNAS,USA,USD
+FCFS,FirstCash Inc,1,XNAS,USA,USD
+FTAIP,Fortress Transportation and Preferred Series A,1,XNAS,USA,USD
+GAINL,Gladstone Investment Corporation 8.00% Notes due 2028,1,XNAS,USA,USD
+GALT,Galectin Therapeutics Inc,1,XNAS,USA,USD
+GGROW,Gogoro Equity Warrant Exp 4th April 2027,1,XNAS,USA,USD
+GIPRW,Generation Income Properties Inc Warrant,1,XNAS,USA,USD
+GLUE,Monte Rosa Therapeutics Inc,1,XNAS,USA,USD
+GNFT,Genfit,1,XNAS,USA,USD
+GNSS,Genasys Inc,1,XNAS,USA,USD
+GPCR,Structure Therapeutics Inc. American Depositary Shares,1,XNAS,USA,USD
+GTHX,G1 Therapeutics Inc,1,XNAS,USA,USD
+GTI,Graphjet Technology,1,XNAS,USA,USD
+HA,Hawaiian Holdings Inc,1,XNAS,USA,USD
+HCAT,Health Catalyst Inc,1,XNAS,USA,USD
+RZLT,Rezolute Inc,1,XNAS,USA,USD
+SOFI,SoFi Technologies Inc.,1,XNAS,USA,USD
+SONO,Sonos Inc,1,XNAS,USA,USD
+SPNS,Sapiens International Corporation NV,1,XNAS,USA,USD
+SRAD,Sportradar Group AG,1,XNAS,USA,USD
+SRCL,Stericycle Inc,1,XNAS,USA,USD
+TFFP,Tff Pharmaceuticals Inc,1,XNAS,USA,USD
+TIOG,Tingo Group Inc,1,XNAS,USA,USD
+TOP,Zhong Yang Financial Group Limited Ordinary Shares,1,XNAS,USA,USD
+TRIS-UN,Tristar Acquisition I Corp.,1,XNAS,USA,USD
+TTWO,Take-Two Interactive Software Inc,1,XNAS,USA,USD
+HCVI,Hennessy Capital Investment Corp VI,1,XNAS,USA,USD
+HROW,Harrow Health Inc,1,XNAS,USA,USD
+HUDAR,Hudson Acquisition I Corp. Right,1,XNAS,USA,USD
+HWC,Hancock Whitney Corp,1,XNAS,USA,USD
+ICCM,Icecure Medical,1,XNAS,USA,USD
+IMMP,Immutep Ltd ADR,1,XNAS,USA,USD
+IMMR,Immersion Corporation,1,XNAS,USA,USD
+INTG,The Intergroup Corporation,1,XNAS,USA,USD
+IRON,Disc Medicine Inc.,1,XNAS,USA,USD
+IVCP,Swiftmerge Acquisition Corp,1,XNAS,USA,USD
+JZXN,Jiuzi Holdings Inc,1,XNAS,USA,USD
+UBSI,United Bankshares Inc,1,XNAS,USA,USD
+UONE,Urban One,1,XNAS,USA,USD
+UPB,UPB,1,XNAS,USA,USD
+VYNE,Vyne Therapeutics Inc,1,XNAS,USA,USD
+WBD,Warner Bros Discovery Inc,1,XNAS,USA,USD
+WHLRL,Wheeler Real Estate Investment Trust Inc. 7.00% Senior Subordinated Convertible Notes Due 2031,1,XNAS,USA,USD
+WTW,Willis Towers Watson PLC,1,XNAS,USA,USD
+XP,Xp Inc,1,XNAS,USA,USD
+XYLO,Xylo Technologies Ltd.,1,XNAS,USA,USD
+YI,111 Inc,1,XNAS,USA,USD
+YY,YY Inc Class A,1,XNAS,USA,USD
+ZENA,ZenaTech Inc.,1,XNAS,USA,USD
+ZIONL,Zions Bancorporation N.A. - 6.9,1,XNAS,USA,USD
+AAME,Atlantic American Corporation,1,XNAS,USA,USD
+ABOS,Acumen Pharmaceuticals Inc,1,XNAS,USA,USD
+ABVC,ABVC Biopharma Inc,1,XNAS,USA,USD
+ADPT,Adaptive Biotechnologies Corp,1,XNAS,USA,USD
+ADSK,Autodesk Inc,1,XNAS,USA,USD
+AENT,Alliance Entertainment Holding Corporation Class A Common Stock,1,XNAS,USA,USD
+AFRM,Affirm Holdings Inc,1,XNAS,USA,USD
+AQB,AquaBounty Technologies Inc,1,XNAS,USA,USD
+ARVN,Arvinas Inc,1,XNAS,USA,USD
+ASTH,Astrana Health Inc,1,XNAS,USA,USD
+ASTL,Algoma Steel Group Inc,1,XNAS,USA,USD
+ATGL,Alpha Technology Group Limited Ordinary Shares,1,XNAS,USA,USD
+ATOM,Atomera Inc,1,XNAS,USA,USD
+AUUD,Auddia Inc,1,XNAS,USA,USD
+AVTE,Aerovate Therapeutics Inc,1,XNAS,USA,USD
+BIGC,Bigcommerce Holdings Inc,1,XNAS,USA,USD
+BNIXR,Bannix Acquisition Corp. Right,1,XNAS,USA,USD
+BNOX,Bionomics Ltd ADR,1,XNAS,USA,USD
+BOF,BranchOut Food Inc. Common Stock,1,XNAS,USA,USD
+BPRN,Bank Of Princeton,1,XNAS,USA,USD
+BRID,Bridgford Foods Corporation,1,XNAS,USA,USD
+BSVN,Bank7 Corp,1,XNAS,USA,USD
+LIDR,Aeye Inc,1,XNAS,USA,USD
+LIEN,"Chicago Atlantic BDC, Inc.",1,XNAS,USA,USD
+LPAAU,Launch One Acquisition Corp. Unit,1,XNAS,USA,USD
+LWAY,Lifeway Foods Inc,1,XNAS,USA,USD
+MCBS,MetroCity Bankshares,1,XNAS,USA,USD
+MGRC,McGrath RentCorp,1,XNAS,USA,USD
+MHLD,Maiden Holdings Ltd,1,XNAS,USA,USD
+MOTS,Motus GI Holdings Inc,1,XNAS,USA,USD
+MRAM,Everspin Technologies Inc,1,XNAS,USA,USD
+MRBK,Meridian Bank,1,XNAS,USA,USD
+NEWTZ,Newtek Business Services Corp. 5.50% Notes Due 2026,1,XNAS,USA,USD
+NEXN,Nexxen International Ltd,1,XNAS,USA,USD
+NIOBW,NioCorp Developments Ltd. Warrant,1,XNAS,USA,USD
+NSSC,NAPCO Security Technologies Inc,1,XNAS,USA,USD
+NSTGQ,NanoString Technologies Inc,1,XNAS,USA,USD
+CAMP,CAMP4 THERAPEUTICS CORPORATION,1,XNAS,USA,USD
+CAPR,Capricor Therapeutics Inc,1,XNAS,USA,USD
+CBRG,Chain Bridge I,1,XNAS,USA,USD
+CCAP,Crescent Capital BDC Inc,1,XNAS,USA,USD
+CDW,CDW Corp,1,XNAS,USA,USD
+CHMG,Chemung Financial Corp,1,XNAS,USA,USD
+CLRB,Cellectar Biosciences Inc,1,XNAS,USA,USD
+CNDT,Conduent Inc,1,XNAS,USA,USD
+CODA,Coda Octopus Group Inc,1,XNAS,USA,USD
+COO,"The Cooper Companies, Inc. Common Stock",1,XNAS,USA,USD
+CPTN,Cepton Inc,1,XNAS,USA,USD
+CRDL,Cardiol Therapeutics Inc Class A,1,XNAS,USA,USD
+CRVL,CorVel Corp,1,XNAS,USA,USD
+CYBR,CyberArk Software Ltd,1,XNAS,USA,USD
+DDOG,Datadog Inc,1,XNAS,USA,USD
+DECA,Denali Capital Acquisition Corp. Class A Ordinary Shares,1,XNAS,USA,USD
+DRTSW,Alpha Tau Medical Ltd. Warrant,1,XNAS,USA,USD
+DXYN,The Dixie Group Inc,1,XNAS,USA,USD
+NYAX,Nayax Ltd,1,XNAS,USA,USD
+OCAXU,OCA Acquisition Corp,1,XNAS,USA,USD
+OKYO,OKYO Pharma Ltd ADR,1,XNAS,USA,USD
+OST,Ostin Technology Group Co Ltd,1,XNAS,USA,USD
+PFMT,Performant Financial Corporation,1,XNAS,USA,USD
+PIIIW,P3 Health Partners Inc,1,XNAS,USA,USD
+PLBY,Plby Group Inc,1,XNAS,USA,USD
+PMNT,Perfect Moment Ltd.,1,XNAS,USA,USD
+POOL,Pool Corporation,1,XNAS,USA,USD
+PPYA,Papaya Growth Opportunity Corp I,1,XNAS,USA,USD
+PRSO,Peraso Inc,1,XNAS,USA,USD
+QLGN,Qualigen Therapeutics Inc,1,XNAS,USA,USD
+RECT,Rectitude Holdings Ltd Ordinary Shares,1,XNAS,USA,USD
+RGCO,RGC Resources Inc,1,XNAS,USA,USD
+EJH,E-Home Household Service Holdings Ltd,1,XNAS,USA,USD
+ELOX,Eloxx Pharmaceuticals Inc,1,XNAS,USA,USD
+EMCGR,Embrace Change Acquisition Corp Rights,1,XNAS,USA,USD
+EURK,Eureka Acquisition Corp Class A Ordinary Share,1,XNAS,USA,USD
+EVGO,Evgo Inc,1,XNAS,USA,USD
+EWCZ,European Wax Center Inc,1,XNAS,USA,USD
+EXAS,EXACT Sciences Corporation,1,XNAS,USA,USD
+FEAM,5E Advanced Materials Inc,1,XNAS,USA,USD
+FFIN,First Financial Bankshares Inc,1,XNAS,USA,USD
+FIACW,Focus Impact Acquisition Corp. Warrant,1,XNAS,USA,USD
+FNVTW,Finnovate Acquisition Corp. Warrants,1,XNAS,USA,USD
+FSFG,First Savings Financial Group Inc,1,XNAS,USA,USD
+FSHPR,Flag Ship Acquisition Corp. Right,1,XNAS,USA,USD
+FSV,FirstService Corp,1,XNAS,USA,USD
+GAIN,Gladstone Investment Corporation,1,XNAS,USA,USD
+GBBKW,Global Blockchain Acquisition Corp. Warrant,1,XNAS,USA,USD
+GDTC,CytoMed Therapeutics Limited Ordinary Shares,1,XNAS,USA,USD
+GHIX,Gores Holdings IX Inc,1,XNAS,USA,USD
+GLMD,Galmed Pharmaceuticals Ltd,1,XNAS,USA,USD
+GMAB,Genmab AS,1,XNAS,USA,USD
+GNLX,Genelux Corporation Common Stock,1,XNAS,USA,USD
+GOEV,Canoo Inc,1,XNAS,USA,USD
+GRNQ,GreenPro Capital Corp,1,XNAS,USA,USD
+HAYN,Haynes International Inc,1,XNAS,USA,USD
+HBNC,Horizon Bancorp,1,XNAS,USA,USD
+RVSB,Riverview Bancorp Inc,1,XNAS,USA,USD
+SHOO,Steven Madden Ltd,1,XNAS,USA,USD
+SILC,Silicom,1,XNAS,USA,USD
+SIMAU,SIM Acquisition Corp. I Unit,1,XNAS,USA,USD
+SJ,Scienjoy Holding Corp,1,XNAS,USA,USD
+SLNA,Selina Hospitality PLC Ordinary Shares,1,XNAS,USA,USD
+SPGC,"Sacks Parente Golf, Inc. Common Stock",1,XNAS,USA,USD
+SRZNW,Surrozen Inc. Warrant,1,XNAS,USA,USD
+SSRM,SSR Mining Inc,1,XNAS,USA,USD
+STKH,Steakholder Foods Ltd,1,XNAS,USA,USD
+TACT,TransAct Technologies Incorporated,1,XNAS,USA,USD
+TAIT,Taitron Components Incorporated,1,XNAS,USA,USD
+TBRG,TruBridge Inc.,1,XNAS,USA,USD
+THRY,Thryv Holdings Inc,1,XNAS,USA,USD
+TMCWW,TMC the metals company Inc. Warrants,1,XNAS,USA,USD
+TMTCR,TMT Acquisition Corp Rights,1,XNAS,USA,USD
+TMUS,T-Mobile US Inc,1,XNAS,USA,USD
+HEPA,Hepion Pharmaceuticals Inc,1,XNAS,USA,USD
+HHS,Harte Hanks Inc,1,XNAS,USA,USD
+HIMX,Himax Technologies Inc,1,XNAS,USA,USD
+HTHT,Huazhu Group Ltd,1,XNAS,USA,USD
+HYPR,Hyperfine Inc,1,XNAS,USA,USD
+IBG,Innovation Beverage Group Limited,1,XNAS,USA,USD
+ICUI,ICU Medical Inc,1,XNAS,USA,USD
+IIIV,i3 Verticals Inc,1,XNAS,USA,USD
+IMTX,Immatics NV,1,XNAS,USA,USD
+INAB,In8bio Inc,1,XNAS,USA,USD
+INBS,Intelligent Bio Solutions Inc.,1,XNAS,USA,USD
+INDI,indie Semiconductor Inc,1,XNAS,USA,USD
+INMB,INmune Bio Inc,1,XNAS,USA,USD
+IPDN,Professional Diversity Network Inc,1,XNAS,USA,USD
+ITRN,Ituran Location and Control Ltd,1,XNAS,USA,USD
+JAGX,Jaguar Animal Health Inc,1,XNAS,USA,USD
+KDLY,"Kindly MD, Inc. Common Stock",1,XNAS,USA,USD
+KDLYW,"Kindly MD, Inc. Warrants",1,XNAS,USA,USD
+KLAC,KLA-Tencor Corporation,1,XNAS,USA,USD
+TXG,10X Genomics Inc,1,XNAS,USA,USD
+UMBF,UMB Financial Corporation,1,XNAS,USA,USD
+VERA,Vera Therapeutics Inc,1,XNAS,USA,USD
+VS,Versus Systems Inc,1,XNAS,USA,USD
+WINV,WinVest Acquisition Corp,1,XNAS,USA,USD
+WVE,Wave Life Sciences Ltd,1,XNAS,USA,USD
+XERS,Xeris Pharmaceuticals Inc,1,XNAS,USA,USD
+XWEL,XWELL Inc.,1,XNAS,USA,USD
+ZD,Ziff Davis Inc,1,XNAS,USA,USD
+ZIMV,ZimVie Inc,1,XNAS,USA,USD
+ZJYL,JIN MEDICAL INTERNATIONAL LTD. Ordinary Shares,1,XNAS,USA,USD
+ZJZZT,NASDAQ TEST STOCK,1,XNAS,USA,USD
+AAON,AAON Inc,1,XNAS,USA,USD
+ABUS,Arbutus Biopharma Corp,1,XNAS,USA,USD
+ACAB,Atlantic Coastal Acquisition Corp II,1,XNAS,USA,USD
+ACXP,Acurx Pharmaceuticals LLC,1,XNAS,USA,USD
+ADV,Advantage Solutions Inc,1,XNAS,USA,USD
+AEP,American Electric Power Co Inc,1,XNAS,USA,USD
+AIRJW,Montana Technologies Corporation,1,XNAS,USA,USD
+ALDX,Aldeyra The,1,XNAS,USA,USD
+AONCW,American Oncology Network Inc,1,XNAS,USA,USD
+APPF,Appfolio Inc,1,XNAS,USA,USD
+ARRY,Array Technologies Inc,1,XNAS,USA,USD
+ARTW,Arts-Way Manufacturing Co Inc,1,XNAS,USA,USD
+ASO,Academy Sports Outdoors Inc,1,XNAS,USA,USD
+ASRT,Assertio Therapeutics Inc,1,XNAS,USA,USD
+ASUR,Asure Software Inc,1,XNAS,USA,USD
+ATHA,Athira Pharma Inc,1,XNAS,USA,USD
+AUID,authID Inc.,1,XNAS,USA,USD
+AUR,Aurora Innovation Inc,1,XNAS,USA,USD
+AVT,Avnet Inc,1,XNAS,USA,USD
+BCSAW,Blockchain Coinvestors Acquisition Corp. I Warrant,1,XNAS,USA,USD
+BFC,Bank First National Corp,1,XNAS,USA,USD
+BRSHF,Bruush Oral Care Inc.,1,XNAS,USA,USD
+KRKR,36Kr Holdings Inc,1,XNAS,USA,USD
+LWLG,Lightwave Logic Inc,1,XNAS,USA,USD
+MARPS,Marine Petroleum Trust,1,XNAS,USA,USD
+MARXR,Mars Acquisition Corp. Rights,1,XNAS,USA,USD
+MESO,Mesoblast Ltd,1,XNAS,USA,USD
+MMYT,MakeMyTrip Limited,1,XNAS,USA,USD
+MOND,Mondee Holdings Inc.,1,XNAS,USA,USD
+MU,Micron Technology Inc,1,XNAS,USA,USD
+NAVI,Navient Corp,1,XNAS,USA,USD
+NTAP,NetApp Inc,1,XNAS,USA,USD
+CASH,Meta Financial Group Inc,1,XNAS,USA,USD
+CDAQ,Compass Digital Acquisition Corp,1,XNAS,USA,USD
+CDNA,Caredx Inc,1,XNAS,USA,USD
+CIVB,Civista Bancshares Inc,1,XNAS,USA,USD
+CLEU,China Liberal Education Holdings,1,XNAS,USA,USD
+CMPR,Cimpress NV,1,XNAS,USA,USD
+CNFRZ,Conifer Holdings Inc. 9.75% Senior Unsecured Notes due 2028,1,XNAS,USA,USD
+CPZ,Calamos LongShort Equity & Dynamic Income Trust,1,XNAS,USA,USD
+CRMD,CorMedix Inc,1,XNAS,USA,USD
+CRWS,Crown Crafts Inc,1,XNAS,USA,USD
+CTRN,Citi Trends Inc,1,XNAS,USA,USD
+CVAC,CureVac NV,1,XNAS,USA,USD
+CYTT,Cyteir Therapeutics Inc,1,XNAS,USA,USD
+DSGR,Distribution Solutions Group Inc,1,XNAS,USA,USD
+DSYWW,Big Tree Cloud Holdings Limited Warrants,1,XNAS,USA,USD
+DXPE,DXP Enterprises Inc,1,XNAS,USA,USD
+DYCQR,DT Cloud Acquisition Corporation Right,1,XNAS,USA,USD
+NUVWQ,Holdco Nuvo Group D.G Ltd,1,XNAS,USA,USD
+NXT,Nextracker Inc. Class A Common Stock,1,XNAS,USA,USD
+ODFL,Old Dominion Freight Line Inc,1,XNAS,USA,USD
+OKTA,Okta Inc,1,XNAS,USA,USD
+OPK,Opko Health Inc,1,XNAS,USA,USD
+OXSQZ,Oxford Square Capital Corp. - 6.25% Notes due 2026 ,1,XNAS,USA,USD
+PARAA,Paramount Global Class A,1,XNAS,USA,USD
+PETZ,TDH Holdings Inc,1,XNAS,USA,USD
+PFG,Principal Financial Group Inc,1,XNAS,USA,USD
+PHVS,Pharvaris BV,1,XNAS,USA,USD
+PNRG,PrimeEnergy Corporation,1,XNAS,USA,USD
+POWW,Ammo Inc,1,XNAS,USA,USD
+PRAA,PRA Group Inc,1,XNAS,USA,USD
+PRQR,ProQR Therapeutics BV,1,XNAS,USA,USD
+PSTV,Plus Therapeutics Inc,1,XNAS,USA,USD
+PSTX,Poseida Therapeutics Inc,1,XNAS,USA,USD
+PTCT,PTC Therapeutics Inc,1,XNAS,USA,USD
+QSG,QuantaSing Group Limited American Depositary Shares,1,XNAS,USA,USD
+QURE,Uniqure NV,1,XNAS,USA,USD
+RELI,Reliance Global Group Inc,1,XNAS,USA,USD
+RILYM,"B. Riley Financial, Inc. 6.375% Senior Notes due 2025",1,XNAS,USA,USD
+RILYZ,B. Riley Financial Inc. 5.25% Senior Notes due 2028,1,XNAS,USA,USD
+EEIQ,Elite Education Group International Ltd,1,XNAS,USA,USD
+EGOX,Next.e.GO N.V. Ordinary Shares,1,XNAS,USA,USD
+ELYM,Eliem Therapeutics Inc,1,XNAS,USA,USD
+ENTG,Entegris Inc,1,XNAS,USA,USD
+EVGR,Evergreen Corp,1,XNAS,USA,USD
+EVO,Evotec SE ADR,1,XNAS,USA,USD
+FBIO,Fortress Biotech Inc,1,XNAS,USA,USD
+FEIM,Frequency Electronics Inc,1,XNAS,USA,USD
+FLNC,Fluence Energy Inc,1,XNAS,USA,USD
+FOLD,Amicus Therapeutics Inc,1,XNAS,USA,USD
+FROG,Jfrog Ltd,1,XNAS,USA,USD
+FTII,Futuretech II Acquisition Corp,1,XNAS,USA,USD
+FTLF,"FitLife Brands, Inc. Common Stock",1,XNAS,USA,USD
+GAN,Gan Ltd,1,XNAS,USA,USD
+GLLIR,Globalink Investment Inc. Rights,1,XNAS,USA,USD
+GO,Grocery Outlet Holding Corp,1,XNAS,USA,USD
+RVPHW,Reviva Pharmaceuticals Holdings Inc,1,XNAS,USA,USD
+SAMG,Silvercrest Asset Management Group Inc,1,XNAS,USA,USD
+SANG,Sangoma Technologies Corp,1,XNAS,USA,USD
+SBCF,Seacoast Banking Corporation of Florida,1,XNAS,USA,USD
+SCPH,Scpharmaceuticals Inc,1,XNAS,USA,USD
+SGML,Sigma Lithium Resources Corp,1,XNAS,USA,USD
+SHCRW,Sharecare Inc,1,XNAS,USA,USD
+SLAMW,Slam Corp,1,XNAS,USA,USD
+SLDB,Solid Biosciences LLC,1,XNAS,USA,USD
+SLN,Silence Therapeutics PLC,1,XNAS,USA,USD
+SNPS,Synopsys Inc,1,XNAS,USA,USD
+SRDX,SurModics Inc,1,XNAS,USA,USD
+SWVLW,Swvl Holdings Corp Warrant,1,XNAS,USA,USD
+SYT,"SYLA Technologies Co., Ltd. American Depositary Shares",1,XNAS,USA,USD
+TBLA,Taboola,1,XNAS,USA,USD
+TBLD,Thornburg Income Builder Opportunities Trust Common Stock,1,XNAS,USA,USD
+TFIN,Triumph Financial Inc,1,XNAS,USA,USD
+TGAA,Target Global Acquisition I Corp,1,XNAS,USA,USD
+TNONW,"Tenon Medical, Inc. Warrant",1,XNAS,USA,USD
+TURN,180 Degree Capital Corp,1,XNAS,USA,USD
+HIFS,Hingham Institution for Savings,1,XNAS,USA,USD
+HLMN,Hillman Solutions Corp,1,XNAS,USA,USD
+HPCO,"Hempacco Co., Inc.",1,XNAS,USA,USD
+HSIC,Henry Schein Inc,1,XNAS,USA,USD
+IHRT,iHeartMedia Inc Class A,1,XNAS,USA,USD
+IMNM,Immunome Inc,1,XNAS,USA,USD
+IMUX,Immunic Inc,1,XNAS,USA,USD
+INBK,First Internet Bancorp,1,XNAS,USA,USD
+INNV,InnovAge Holding Corp,1,XNAS,USA,USD
+INTJ,Intelligent Group Limited Ordinary Shares,1,XNAS,USA,USD
+JAKK,JAKKS Pacific Inc,1,XNAS,USA,USD
+JBHT,JB Hunt Transport Services Inc,1,XNAS,USA,USD
+JBSS,John B Sanfilippo & Son Inc,1,XNAS,USA,USD
+JSM,Navient Corporation SR NT 6% 121543,1,XNAS,USA,USD
+JTAI,Jet.AI Inc.,1,XNAS,USA,USD
+JVSAR,JV SPAC Acquisition Corp. Right,1,XNAS,USA,USD
+JWSM-UN,Jaws Mustang Acquisition Corp,1,XNAS,USA,USD
+KCODX,KCODX,1,XNAS,USA,USD
+KE,Kimball Electronics,1,XNAS,USA,USD
+VLGEA,Village Super Market Inc,1,XNAS,USA,USD
+VLN-WT,Valens Semiconductor Ltd.,1,XNAS,USA,USD
+VOR,Vor Biopharma Inc,1,XNAS,USA,USD
+VRPX,Virpax Pharmaceuticals Inc,1,XNAS,USA,USD
+VSTEW,Vast Renewables Limited Warrants,1,XNAS,USA,USD
+VVPR,VivoPower International PLC,1,XNAS,USA,USD
+WAFU,Wah Fu Education Group Ltd,1,XNAS,USA,USD
+WNW,Meiwu Technology Co Ltd,1,XNAS,USA,USD
+AFBI,Affinity Bancshares Inc,1,XNAS,USA,USD
+ALOT,AstroNova Inc,1,XNAS,USA,USD
+ALVR,Allovir Inc,1,XNAS,USA,USD
+AMPL,Amplitude Inc,1,XNAS,USA,USD
+AMWD,American Woodmark Corporation,1,XNAS,USA,USD
+AOGO,Arogo Capital Acquisition Corp,1,XNAS,USA,USD
+APLS,Apellis Pharmaceuticals Inc,1,XNAS,USA,USD
+APLT,Applied Therapeutics Inc,1,XNAS,USA,USD
+APRE,Aprea Therapeutics Inc,1,XNAS,USA,USD
+ARBK,Argo Blockchain PLC ADR,1,XNAS,USA,USD
+ASMB,Assembly Biosciences Inc,1,XNAS,USA,USD
+ATEC,Alphatec Holdings Inc,1,XNAS,USA,USD
+BAER,"Bridger Aerospace Group Holdings, Inc. Common Stock",1,XNAS,USA,USD
+BFI,Burgerfi International Inc,1,XNAS,USA,USD
+BIIB,Biogen Inc,1,XNAS,USA,USD
+BLRX,BioLineRx Ltd,1,XNAS,USA,USD
+BNRG,Brenmiller Energy Ltd Ordinary Shares,1,XNAS,USA,USD
+BNTC,Benitec Biopharma Ltd ADR,1,XNAS,USA,USD
+BPTSY,Biophytis S.A.,1,XNAS,USA,USD
+BRNS,Barinthus Biotherapeutics plc,1,XNAS,USA,USD
+BRY,Berry Petroleum Corp,1,XNAS,USA,USD
+BTCTW,BTC Digital Ltd.,1,XNAS,USA,USD
+KRNT,Kornit Digital Ltd,1,XNAS,USA,USD
+KTCC,Key Tronic Corporation,1,XNAS,USA,USD
+LAUR,Laureate Education Inc,1,XNAS,USA,USD
+LDTCW,LeddarTech Holdings Inc,1,XNAS,USA,USD
+LGCB,Linkage Global Inc Ordinary Shares,1,XNAS,USA,USD
+LRHC,La Rosa Holdings Corp. Common Stock,1,XNAS,USA,USD
+LSCC,Lattice Semiconductor Corporation,1,XNAS,USA,USD
+MAPSW,WM Technology Inc,1,XNAS,USA,USD
+MOBXW,Mobix Labs Inc,1,XNAS,USA,USD
+MOLN,Molecular Partners AG ADR,1,XNAS,USA,USD
+MOMO,Hello Group Inc,1,XNAS,USA,USD
+MTEM,Molecular Templates Inc,1,XNAS,USA,USD
+MTTR,Matterport Inc,1,XNAS,USA,USD
+MYNA,Mynaric AG ADR,1,XNAS,USA,USD
+NCPL,Netcapital Inc,1,XNAS,USA,USD
+NFLX,Netflix Inc,1,XNAS,USA,USD
+NRIM,Northrim BanCorp Inc,1,XNAS,USA,USD
+NTCT,NetScout Systems Inc,1,XNAS,USA,USD
+BZ,Kanzhun Ltd ADR,1,XNAS,USA,USD
+CBLL,CBLL,1,XNAS,USA,USD
+CBRL,Cracker Barrel Old Country Store,1,XNAS,USA,USD
+CCB,Coastal Financial Corp,1,XNAS,USA,USD
+CELU,Celularity Inc,1,XNAS,USA,USD
+CELZ,Creative Medical Technology Holdings Inc,1,XNAS,USA,USD
+CLNN,Clene Inc.,1,XNAS,USA,USD
+CNTM,"ConnectM Technology Solutions, Inc.",1,XNAS,USA,USD
+CNXC,Concentrix Corporation,1,XNAS,USA,USD
+COGT,Cogent Biosciences Inc,1,XNAS,USA,USD
+CORZW,"Core Scientific, Inc. Tranche 1 Warrants",1,XNAS,USA,USD
+CPTNW,Cepton Inc,1,XNAS,USA,USD
+CRESW,Cresud S.A.C.I.F. y A. Warrant,1,XNAS,USA,USD
+CSWCZ,Capital Southwest Corporation 7.75% Notes due 2028,1,XNAS,USA,USD
+CWBR,CohBar Inc,1,XNAS,USA,USD
+CWCO,Consolidated Water Co Ltd,1,XNAS,USA,USD
+CYTHW,Cyclo Therapeutics Inc,1,XNAS,USA,USD
+DCOM,Dime Community Bancshares Inc,1,XNAS,USA,USD
+DHAIW,"DIH Holding US, Inc. Warrants",1,XNAS,USA,USD
+DIBS,1Stdibs.Com Inc,1,XNAS,USA,USD
+DIST,Distoken Acquisition Corporation Ordinary Shares,1,XNAS,USA,USD
+DJTWW,Trump Media & Technology Group Corp.,1,XNAS,USA,USD
+DLTR,Dollar Tree Inc,1,XNAS,USA,USD
+DYNT,Dynatronics Corporation,1,XNAS,USA,USD
+NVX,Novonix Ltd ADR,1,XNAS,USA,USD
+NXPI,NXP Semiconductors NV,1,XNAS,USA,USD
+NXTP,Nextplay Technologies Inc,1,XNAS,USA,USD
+OAKU,Oak Woods Acquisition Corporation Class A Ordinary Shares,1,XNAS,USA,USD
+OPCH,Option Care Health Inc,1,XNAS,USA,USD
+OPRA,Opera Ltd,1,XNAS,USA,USD
+OPRX,OPTIMIZERx Corp,1,XNAS,USA,USD
+ORGN,Origin Materials Inc,1,XNAS,USA,USD
+PEGA,Pegasystems Inc,1,XNAS,USA,USD
+PFC,Premier Financial Corp,1,XNAS,USA,USD
+PLAY,Dave & Buster’s Entertainment,1,XNAS,USA,USD
+POWL,Powell Industries Inc,1,XNAS,USA,USD
+PRCH,Porch Group Inc,1,XNAS,USA,USD
+PTC,PTC Inc,1,XNAS,USA,USD
+QCRH,QCR Holdings Inc,1,XNAS,USA,USD
+QMID,WisdomTree U.S. MidCap Quality Growth Fund,1,XNAS,USA,USD
+RIOT,Riot Blockchain Inc,1,XNAS,USA,USD
+RIVN,Rivian Automotive Inc,1,XNAS,USA,USD
+RNXT,RenovoRx Inc,1,XNAS,USA,USD
+EDSA,Edesa Biotech Inc,1,XNAS,USA,USD
+ESPR,Esperion Therapeutics Inc,1,XNAS,USA,USD
+EURKR,Eureka Acquisition Corp Right,1,XNAS,USA,USD
+EXTR,Extreme Networks Inc,1,XNAS,USA,USD
+FARM,Farmer Bros. Co,1,XNAS,USA,USD
+FFBC,First Financial Bancorp,1,XNAS,USA,USD
+FMNB,Farmers National Banc Corp,1,XNAS,USA,USD
+FTAIN,Fortress Transportation and Preferred Series C,1,XNAS,USA,USD
+FTFT,Future Fintech Group Inc,1,XNAS,USA,USD
+GBIO,Generation Bio Co,1,XNAS,USA,USD
+GDEN,Golden Entertainment Inc,1,XNAS,USA,USD
+GIA,GigCapital 5 Inc. Common Stock,1,XNAS,USA,USD
+GOOD,Gladstone Commercial Corporation,1,XNAS,USA,USD
+HALL,Hallmark Financial Services Inc,1,XNAS,USA,USD
+SEATW,Vivid Seats Inc. Warrant,1,XNAS,USA,USD
+SOFO,Sonic Foundry Inc,1,XNAS,USA,USD
+SPAI,Safe Pro Group Inc. Common Stock,1,XNAS,USA,USD
+STOK,Stoke Therapeutics Inc,1,XNAS,USA,USD
+SWTX,SpringWorks Therapeutics Inc,1,XNAS,USA,USD
+SWVL,Swvl Holdings Corp,1,XNAS,USA,USD
+SYPR,Sypris Solutions Inc,1,XNAS,USA,USD
+TBMC,Trailblazer Merger Corporation I Class A Common Stock,1,XNAS,USA,USD
+TETEW,Technology & Telecommunication Acquisition Corporation Warrant,1,XNAS,USA,USD
+TRINL,TRINL,1,XNAS,USA,USD
+TSMX,TSMX,1,XNAS,USA,USD
+TUSK,Mammoth Energy Services Inc,1,XNAS,USA,USD
+HEAR,Turtle Beach Corp,1,XNAS,USA,USD
+HOPE,Hope Bancorp Inc,1,XNAS,USA,USD
+HOVR,New Horizon Aircraft Ltd,1,XNAS,USA,USD
+HTZWW,Hertz Global Hldgs New Equity Warrants,1,XNAS,USA,USD
+IGTAR,Inception Growth Acquisition Limited Rights,1,XNAS,USA,USD
+IMAB,I-Mab,1,XNAS,USA,USD
+IMAQ,International Media Acquisition Corp,1,XNAS,USA,USD
+INO,Inovio Pharmaceuticals Inc,1,XNAS,USA,USD
+JMHI,J.P. Morgan Exchange-Traded Fund Trust,1,XNAS,USA,USD
+KACLR,Kairous Acquisition Corp. Limited Rights,1,XNAS,USA,USD
+KERN,Akerna Corp,1,XNAS,USA,USD
+UCB,"United Community Banks, Inc.",1,XNAS,USA,USD
+UVSP,Univest Corporation Pennsylvania,1,XNAS,USA,USD
+VECO,Veeco Instruments Inc,1,XNAS,USA,USD
+VTNR,Vertex Energy Inc,1,XNAS,USA,USD
+WLDSW,Wearable Devices Ltd.,1,XNAS,USA,USD
+WOK,WORK Medical Technology Group LTD Ordinary Shares,1,XNAS,USA,USD
+WSFS,WSFS Financial Corporation,1,XNAS,USA,USD
+YJ,Yunji Inc,1,XNAS,USA,USD
+YYAI,Connexa Sports Technologies Inc.,1,XNAS,USA,USD
+ZS,Zscaler Inc,1,XNAS,USA,USD
+ACORQ,Acorda Therapeutics Inc,1,XNAS,USA,USD
+ANSCW,Agriculture & Natural Solutions Acquisition Corporation Warrant,1,XNAS,USA,USD
+AROW,Arrow Financial Corporation,1,XNAS,USA,USD
+AVAV,AeroVironment Inc,1,XNAS,USA,USD
+AVPT,Avepoint Inc,1,XNAS,USA,USD
+AY,Atlantica Sustainable Infrastructure PLC,1,XNAS,USA,USD
+BCAN,BYND Cannasoft Enterprises Inc.,1,XNAS,USA,USD
+BKNG,Booking Holdings Inc,1,XNAS,USA,USD
+KWE,KWESST Micro Systems Inc. Common Stock,1,XNAS,USA,USD
+LAES,SEALSQ Corp,1,XNAS,USA,USD
+LAMR,Lamar Advertising Company,1,XNAS,USA,USD
+LARK,Landmark Bancorp Inc,1,XNAS,USA,USD
+LGND,Ligand Pharmaceuticals Incorporated,1,XNAS,USA,USD
+LIFW,MSP Recovery Inc.,1,XNAS,USA,USD
+LKCO,Luokung Technology Corp,1,XNAS,USA,USD
+LPCN,Lipocine Inc,1,XNAS,USA,USD
+LRE,"Lead Real Estate Co., Ltd American Depositary Shares",1,XNAS,USA,USD
+LUNRW,Intuitive Machines Inc.,1,XNAS,USA,USD
+LXRX,Lexicon Pharmaceuticals Inc,1,XNAS,USA,USD
+MCRB,Seres Therapeutics Inc,1,XNAS,USA,USD
+MGNI,Magnite Inc,1,XNAS,USA,USD
+MGTX,MeiraGTx Holdings PLC,1,XNAS,USA,USD
+MITK,Mitek Systems Inc,1,XNAS,USA,USD
+MNTX,Manitex International Inc,1,XNAS,USA,USD
+MSVB,Mid-Southern Bancorp Inc,1,XNAS,USA,USD
+MTEX,Mannatech Incorporated,1,XNAS,USA,USD
+NAAS,Naas Technology Inc ADR,1,XNAS,USA,USD
+NARI,Inari Medical Inc,1,XNAS,USA,USD
+NCPLW,Netcapital Inc,1,XNAS,USA,USD
+NKTX,Nkarta Inc,1,XNAS,USA,USD
+NLSP,NLS Pharmaceutics AG,1,XNAS,USA,USD
+NRXP,NRX Pharmaceuticals Inc,1,XNAS,USA,USD
+NRXPW,NRx Pharmaceuticals Inc,1,XNAS,USA,USD
+NTBL,Notable Labs Inc.,1,XNAS,USA,USD
+CAC,Camden National Corporation,1,XNAS,USA,USD
+CARG,CarGurus,1,XNAS,USA,USD
+CASS,Cass Information Systems Inc,1,XNAS,USA,USD
+CETY,"Clean Energy Technologies, Inc. Common Stock",1,XNAS,USA,USD
+CGON,"CG Oncology, Inc. Common stock",1,XNAS,USA,USD
+CHUY,Chuy's Holdings Inc,1,XNAS,USA,USD
+CISS,C3is Inc.,1,XNAS,USA,USD
+CJJD,China Jo-Jo Drugstores Inc,1,XNAS,USA,USD
+CMCAW,Capitalworks Emerging Markets Acquisition Corp Warrant,1,XNAS,USA,USD
+COLM,Columbia Sportswear Company,1,XNAS,USA,USD
+CRSR,Corsair Gaming Inc,1,XNAS,USA,USD
+CTXR,Citius Pharmaceuticals Inc,1,XNAS,USA,USD
+CVGI,Commercial Vehicle Group Inc,1,XNAS,USA,USD
+CVLG,"Covenant Logistics Group, Inc.",1,XNAS,USA,USD
+CXAIW,CXApp Inc.,1,XNAS,USA,USD
+DAWN,Day One Biopharmaceuticals Inc,1,XNAS,USA,USD
+DGLY,Digital Ally Inc,1,XNAS,USA,USD
+DLPN,Dolphin Entertainment Inc,1,XNAS,USA,USD
+DMAC,DiaMedica Therapeutics Inc,1,XNAS,USA,USD
+DRUG,Bright Minds Biosciences Inc,1,XNAS,USA,USD
+DSP,Viant Technology Inc,1,XNAS,USA,USD
+DWTX,"Dogwood Therapeutics, Inc.",1,XNAS,USA,USD
+DXLG,Destination XL Group Inc,1,XNAS,USA,USD
+NVAX,Novavax Inc,1,XNAS,USA,USD
+NWL,Newell Brands Inc,1,XNAS,USA,USD
+NYMTI,"New York Mortgage Trust, Inc. 9.125% Senior Notes Due 2029",1,XNAS,USA,USD
+OPBK,OP Bancorp,1,XNAS,USA,USD
+OPOF,Old Point Financial Corporation,1,XNAS,USA,USD
+ORKA,"Oruka Therapeutics, Inc.",1,XNAS,USA,USD
+OTTR,Otter Tail Corporation,1,XNAS,USA,USD
+PAYS,Paysign Inc,1,XNAS,USA,USD
+PCRX,"Pacira BioSciences, Inc.",1,XNAS,USA,USD
+PDYN,Palladyne AI Corp,1,XNAS,USA,USD
+PETWW,Wag! Group Co,1,XNAS,USA,USD
+PMVP,Pmv Pharmaceuticals Inc,1,XNAS,USA,USD
+PRTA,Prothena Corporation plc,1,XNAS,USA,USD
+PTVE,Pactiv Evergreen Inc,1,XNAS,USA,USD
+QH,Quhuo Ltd,1,XNAS,USA,USD
+RCAT,Red Cat Holdings Inc,1,XNAS,USA,USD
+RDFN,Redfin Corp,1,XNAS,USA,USD
+REKR,Rekor Systems Inc,1,XNAS,USA,USD
+REVB,Revelation Biosciences Inc,1,XNAS,USA,USD
+RFACR,RF Acquisition Corp.,1,XNAS,USA,USD
+RFIL,RF Industries Ltd,1,XNAS,USA,USD
+ECX,ECARX Holdings Inc. Class A Ordinary shares,1,XNAS,USA,USD
+ENTO,"Entero Therapeutics, Inc.",1,XNAS,USA,USD
+EUDA,EUDA Health Holdings Limited,1,XNAS,USA,USD
+EXPD,"Expeditors International of Washington, Inc.",1,XNAS,USA,USD
+FELE,Franklin Electric Co Inc,1,XNAS,USA,USD
+FOXXW,FOXXW,1,XNAS,USA,USD
+FPAY,FlexShopper Inc,1,XNAS,USA,USD
+FRBK,Republic First Bancorp Inc,1,XNAS,USA,USD
+FTHM,Fathom Holdings Inc,1,XNAS,USA,USD
+FUNC,First United Corporation,1,XNAS,USA,USD
+GBBKR,Global Blockchain Acquisition Corp. Right,1,XNAS,USA,USD
+GDRX,Goodrx Holdings Inc,1,XNAS,USA,USD
+GECCM,Great Elm Capital Corp. - 6.75%,1,XNAS,USA,USD
+GHRS,GH Research PLC,1,XNAS,USA,USD
+GLPG,Galapagos NV ADR,1,XNAS,USA,USD
+GLYC,GlycoMimetics Inc,1,XNAS,USA,USD
+GRABW,Grab Holdings Limited Warrant,1,XNAS,USA,USD
+GTX,Garrett Motion Inc,1,XNAS,USA,USD
+GYRE,Gyre Therapeutics Inc.,1,XNAS,USA,USD
+RYAAY,Ryanair Holdings PLC ADR,1,XNAS,USA,USD
+RZLVW,Rezolve AI Limited Warrants,1,XNAS,USA,USD
+SBAC,SBA Communications Corp,1,XNAS,USA,USD
+SBC,SBC Communications Inc.,1,XNAS,USA,USD
+SIGI,Selective Insurance Group Inc,1,XNAS,USA,USD
+SNCR,Synchronoss Technologies Inc,1,XNAS,USA,USD
+STIXF,STIXF,1,XNAS,USA,USD
+SVIIR,Spring Valley Acquisition Corp. II Rights,1,XNAS,USA,USD
+SWSS,Springwater Special Situations Corp,1,XNAS,USA,USD
+TBLT,Toughbuilt Industries Inc,1,XNAS,USA,USD
+TBPH,Theravance Biopharma Inc,1,XNAS,USA,USD
+TCBX,Third Coast Bancshares Inc,1,XNAS,USA,USD
+TCRX,Tscan Therapeutics Inc,1,XNAS,USA,USD
+TPG,TPG Inc,1,XNAS,USA,USD
+TRMD,Torm PLC Class A,1,XNAS,USA,USD
+TROW,T. Rowe Price Group Inc,1,XNAS,USA,USD
+HIHO,Highway Holdings Limited,1,XNAS,USA,USD
+HLTHQ,Cue Health Inc.,1,XNAS,USA,USD
+HOUR,Hour Loop Inc,1,XNAS,USA,USD
+HRYU,"Hanryu Holdings, Inc. Common Stock",1,XNAS,USA,USD
+HSDT,Helius Medical Technologies Inc Class A,1,XNAS,USA,USD
+HYMCW,Hycroft Mining Holding Corporation,1,XNAS,USA,USD
+HYZNW,HYZON Motors Inc,1,XNAS,USA,USD
+IBEX,IBEX Ltd,1,XNAS,USA,USD
+IMTE,Integrated Media Technology Ltd,1,XNAS,USA,USD
+INDP,Indaptus Therapeutics Inc,1,XNAS,USA,USD
+INHD,Inno Holdings Inc. Common Stock,1,XNAS,USA,USD
+INSG,Inseego Corp,1,XNAS,USA,USD
+IVCPW,Swiftmerge Acquisition Corp. Warrants,1,XNAS,USA,USD
+JEWL,Adamas One Corp. Common Stock,1,XNAS,USA,USD
+TXN,Texas Instruments Incorporated,1,XNAS,USA,USD
+VERU,Veru Inc,1,XNAS,USA,USD
+VOD,Vodafone Group PLC ADR,1,XNAS,USA,USD
+WBUY,WEBUY GLOBAL LTD. Ordinary Shares,1,XNAS,USA,USD
+WHF,WhiteHorse Finance,1,XNAS,USA,USD
+WMPN,William Penn Bancorp Inc,1,XNAS,USA,USD
+XBP,XBP Europe Holdings Inc,1,XNAS,USA,USD
+XPEL,Xpel Inc,1,XNAS,USA,USD
+ZION,Zions Bancorporation,1,XNAS,USA,USD
+ADAP,Adaptimmune Therapeutics Plc,1,XNAS,USA,USD
+AEYGQ,ADDvantage Technologies Group Inc,1,XNAS,USA,USD
+AFAR,Aura FAT Projects Acquisition Corp Class A Ordinary Shares,1,XNAS,USA,USD
+ALTI,Alvarium Tiedemann Holdings Inc.,1,XNAS,USA,USD
+ANTE,Airnet Technology Inc,1,XNAS,USA,USD
+APCXW,AppTech Payments Corp. Warrant,1,XNAS,USA,USD
+APLMW,Apollomics Inc. Warrant,1,XNAS,USA,USD
+APOG,Apogee Enterprises Inc,1,XNAS,USA,USD
+ARBB,ARB IOT Group Limited Ordinary Shares,1,XNAS,USA,USD
+ASRV,AmeriServ Financial Inc,1,XNAS,USA,USD
+AVIR,Atea Pharmaceuticals Inc,1,XNAS,USA,USD
+AYTU,Aytu BioScience Inc,1,XNAS,USA,USD
+BBGI,Beasley Broadcast Group Inc,1,XNAS,USA,USD
+BBSI,Barrett Business Services Inc,1,XNAS,USA,USD
+BCRX,BioCryst Pharmaceuticals Inc,1,XNAS,USA,USD
+BDTX,Black Diamond Therapeutics Inc,1,XNAS,USA,USD
+BKYI,BIO-Key International Inc,1,XNAS,USA,USD
+BLEUR,bleuacacia ltd Rights,1,XNAS,USA,USD
+BMBL,Bumble Inc,1,XNAS,USA,USD
+BRACR,Broad Capital Acquisition Corp Rights,1,XNAS,USA,USD
+BTMD,biote Corp,1,XNAS,USA,USD
+KPLTW,Katapult Holdings Equity Warrants Exp 09 June 2026,1,XNAS,USA,USD
+KRBP,Kiromic Biopharma Inc,1,XNAS,USA,USD
+KRON,Kronos Bio Inc,1,XNAS,USA,USD
+LBRDA,Liberty Broadband Srs A,1,XNAS,USA,USD
+LESL,Leslies Inc,1,XNAS,USA,USD
+LINC,Lincoln Educational Services,1,XNAS,USA,USD
+LLYVK,Liberty Media Corporation Series C Liberty Live Common Stock,1,XNAS,USA,USD
+LTRPA,Liberty Tri,1,XNAS,USA,USD
+LUXH,LuxUrban Hotels Inc.,1,XNAS,USA,USD
+LUXHP,LuxUrban Hotels Inc. 13.00% Series A Cumulative Redeemable Preferred Stock,1,XNAS,USA,USD
+LVO,LiveOne Inc,1,XNAS,USA,USD
+LYEL,Lyell Immunopharma Inc,1,XNAS,USA,USD
+MBIO,Mustang Bio Inc,1,XNAS,USA,USD
+MCAAW,Mountain & Co. I Acquisition Corp. Warrant,1,XNAS,USA,USD
+MCRI,Monarch Casino & Resort Inc,1,XNAS,USA,USD
+MDBH,"MDB Capital Holdings, LLC Class A common",1,XNAS,USA,USD
+MGIH,Millennium Group International Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+NDRA,ENDRA Life Sciences Inc,1,XNAS,USA,USD
+NETDW,Nabors Energy Transition Corp. II Warrant,1,XNAS,USA,USD
+NIPG,NIP Group Inc. American Depositary Shares,1,XNAS,USA,USD
+NKSH,National Bankshares Inc,1,XNAS,USA,USD
+NPABW,New Providence Acquisition Corp. II Warrant,1,XNAS,USA,USD
+BUSE,First Busey Corp,1,XNAS,USA,USD
+CAPT,Captivision Inc. Ordinary Shares,1,XNAS,USA,USD
+CATY,Cathay General Bancorp,1,XNAS,USA,USD
+CBUS,Cibus Global LLC,1,XNAS,USA,USD
+CCIXW,Churchill Capital Corp IX Warrant,1,XNAS,USA,USD
+CCTG,CCSC Technology International Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+CHKP,Check Point Software Technologies Ltd,1,XNAS,USA,USD
+CKPT,Checkpoint Therapeutics Inc,1,XNAS,USA,USD
+CLNNW,Clene Inc,1,XNAS,USA,USD
+COCH,Envoy Medical Inc.,1,XNAS,USA,USD
+CODX,Co-Diagnostics Inc,1,XNAS,USA,USD
+COMM,CommScope Holding Co Inc,1,XNAS,USA,USD
+CPRX,Catalyst Pharmaceuticals Inc,1,XNAS,USA,USD
+CRGO,Freightos Limited Ordinary shares,1,XNAS,USA,USD
+CSGP,CoStar Group Inc,1,XNAS,USA,USD
+CSLM,Consilium Acquisition I Ltd Corp,1,XNAS,USA,USD
+CZWI,Citizens Community Bancorp Inc,1,XNAS,USA,USD
+DCBO,Docebo Inc,1,XNAS,USA,USD
+DISTW,Distoken Acquisition Corporation Warrant,1,XNAS,USA,USD
+DTSQR,DT Cloud Star Acquisition Corporation Right,1,XNAS,USA,USD
+NUVL,Nuvalent Inc,1,XNAS,USA,USD
+OCS,Oculis Holding AG Ordinary shares,1,XNAS,USA,USD
+OCX,OncoCyte Corp,1,XNAS,USA,USD
+OPEN,Opendoor Technologies Inc,1,XNAS,USA,USD
+OPGN,OpGen Inc,1,XNAS,USA,USD
+OPTXW,Syntec Optics Holdings Inc.,1,XNAS,USA,USD
+ORGO,Organogenesis Holdings Inc,1,XNAS,USA,USD
+OXLCI,Oxford Lane Capital Corp. 8.75% Notes due 2030,1,XNAS,USA,USD
+POWI,Power Integrations Inc,1,XNAS,USA,USD
+PRPH,ProPhase Labs Inc,1,XNAS,USA,USD
+PRTG,Portage Biotech Inc,1,XNAS,USA,USD
+PTGX,Protagonist Therapeutics Inc,1,XNAS,USA,USD
+PTHL,Pheton Holdings Ltd Class A Ordinary Shares,1,XNAS,USA,USD
+QTI,QT Imaging Holdings Inc. Common Stock,1,XNAS,USA,USD
+RDZNW,Roadzen Inc,1,XNAS,USA,USD
+RFAC,RF Acquisition Corp,1,XNAS,USA,USD
+RILYK,B. Riley Financial Inc. 5.50% Senior Notes Due 2026,1,XNAS,USA,USD
+RPHM,Reneo Pharmaceuticals Inc,1,XNAS,USA,USD
+RSLS,ReShape Lifesciences Inc,1,XNAS,USA,USD
+ECBK,ECB Bancorp Inc.,1,XNAS,USA,USD
+EFTRW,eFFECTOR Therapeutics Inc,1,XNAS,USA,USD
+EMBC,Embecta Corp,1,XNAS,USA,USD
+EXEL,Exelixis Inc,1,XNAS,USA,USD
+FBLG,"FibroBiologics, Inc. Common Stock",1,XNAS,USA,USD
+FHB,First Hawaiian Inc,1,XNAS,USA,USD
+FMBH,First Mid Illinois Bancshares Inc,1,XNAS,USA,USD
+GLSTU,Global Star Acquisition Inc.,1,XNAS,USA,USD
+GNPX,Genprex Inc,1,XNAS,USA,USD
+GPAK,Gamer Pakistan Inc. Common Stock,1,XNAS,USA,USD
+GSM,Ferroglobe PLC,1,XNAS,USA,USD
+GYRO,Gyrodyne Company of America Inc,1,XNAS,USA,USD
+SBRA,Sabra Healthcare REIT Inc,1,XNAS,USA,USD
+SDAWW,SunCar Technology Group Inc.,1,XNAS,USA,USD
+SFNC,Simmons First National Corporation,1,XNAS,USA,USD
+SHFS,SHF Holdings Inc,1,XNAS,USA,USD
+SHFSW,SHF Holdings Inc,1,XNAS,USA,USD
+SIGA,SIGA Technologies Inc,1,XNAS,USA,USD
+SLAB,Silicon Laboratories Inc,1,XNAS,USA,USD
+SNAX,Stryve Foods Inc,1,XNAS,USA,USD
+SNDX,Syndax Pharmaceuticals Inc,1,XNAS,USA,USD
+SPRB,Spruce Biosciences Inc,1,XNAS,USA,USD
+SQFT,Presidio Property Trust,1,XNAS,USA,USD
+SRM,"SRM Entertainment, Inc. Common Stock",1,XNAS,USA,USD
+SSSSL,SuRo Capital Corp. 6.00% Notes due 2026,1,XNAS,USA,USD
+STLD,Steel Dynamics Inc,1,XNAS,USA,USD
+SVII,Spring Valley Acquisition Corp. II Class A Ordinary Shares,1,XNAS,USA,USD
+TBIO,Telesis Bio Inc.,1,XNAS,USA,USD
+TCBPW,TC BioPharm (Holdings) plc Warrants,1,XNAS,USA,USD
+TENB,Tenable Holdings Inc,1,XNAS,USA,USD
+TIGO,Millicom International Cellular SA,1,XNAS,USA,USD
+TRML,Tourmaline Bio Inc.,1,XNAS,USA,USD
+HMST,HomeStreet Inc,1,XNAS,USA,USD
+HOOK,Hookipa Pharma Inc,1,XNAS,USA,USD
+HROWL,Harrow Health Inc. 8.625% Senior Notes due 2026,1,XNAS,USA,USD
+HST,Host Hotels & Resorts Inc,1,XNAS,USA,USD
+IAS,Integral Ad Science Holding LLC,1,XNAS,USA,USD
+ICG,Intchains Group Limited American Depositary Shares,1,XNAS,USA,USD
+ICU,LMF Acquisition Opportunities Inc,1,XNAS,USA,USD
+ISPC,iSpecimen Inc,1,XNAS,USA,USD
+ISRL,Israel Acquisitions Corp Class A Ordinary Shares,1,XNAS,USA,USD
+ISTR,Investar Holding Corp,1,XNAS,USA,USD
+KBNT,Kubient Inc,1,XNAS,USA,USD
+TWOU,2U Inc,1,XNAS,USA,USD
+UBFO,United Security Bancshares,1,XNAS,USA,USD
+UPLD,Upland Software Inc,1,XNAS,USA,USD
+VC,Visteon Corp,1,XNAS,USA,USD
+VIAV,Viavi Solutions Inc,1,XNAS,USA,USD
+VIRI,Virios Therapeutics Llc,1,XNAS,USA,USD
+VLY,Valley National Bancorp,1,XNAS,USA,USD
+WKEY,Wisekey International Holding AG,1,XNAS,USA,USD
+WRAP,Wrap Technologies Inc,1,XNAS,USA,USD
+ABVEW,Above Food Ingredients Inc. Warrants,1,XNAS,USA,USD
+ACB,Aurora Cannabis Inc,1,XNAS,USA,USD
+ACLX,Arcellx Inc,1,XNAS,USA,USD
+ACON,Aclarion Inc,1,XNAS,USA,USD
+AEAE,Altenergy Acquisition Corp,1,XNAS,USA,USD
+AFIB,Acutus Medical Inc,1,XNAS,USA,USD
+AFRIW,Forafric Global PLC Warrants,1,XNAS,USA,USD
+AMAL,Amalgamated Bank,1,XNAS,USA,USD
+AMCX,AMC Networks Inc,1,XNAS,USA,USD
+AMRN,Amarin Corporation PLC,1,XNAS,USA,USD
+ANY,Sphere 3D Corp,1,XNAS,USA,USD
+ARCB,ArcBest Corp,1,XNAS,USA,USD
+ATEX,Anterix Inc,1,XNAS,USA,USD
+AVAH,Aveanna Healthcare Holdings Inc,1,XNAS,USA,USD
+BBLGW,Bone Biologics Corp Warrants,1,XNAS,USA,USD
+BCYC,Bicycle Therapeutics Ltd,1,XNAS,USA,USD
+BLNK,Blink Charging Co,1,XNAS,USA,USD
+BRACU,Broad Capital Acquisition Corp Unit,1,XNAS,USA,USD
+KOSS,Koss Corporation,1,XNAS,USA,USD
+KROS,Keros Therapeutics Inc,1,XNAS,USA,USD
+KTRA,Kintara Therapeutics Inc,1,XNAS,USA,USD
+KYMR,Kymera Therapeutics Inc,1,XNAS,USA,USD
+LDWY,Lendway Inc.,1,XNAS,USA,USD
+LECO,Lincoln Electric Holdings Inc,1,XNAS,USA,USD
+LFMD,LifeMD Inc,1,XNAS,USA,USD
+LGVN,Longeveron LLC,1,XNAS,USA,USD
+LILM,Lilium NV,1,XNAS,USA,USD
+LINE,"Lineage, Inc. Common Stock",1,XNAS,USA,USD
+LLYVA,Liberty Media Corporation Series A Liberty Live Common Stock,1,XNAS,USA,USD
+MBAV,M3-Brigade Acquisition V Corp. Class A Ordinary shares,1,XNAS,USA,USD
+MCVT,Mill City Ventures III Ltd,1,XNAS,USA,USD
+MDNAF,Medicenna Therapeutics Corp,1,XNAS,USA,USD
+MEGL,Magic Empire Global Limited,1,XNAS,USA,USD
+MIRA,"MIRA Pharmaceuticals, Inc. Common Stock",1,XNAS,USA,USD
+MOGO,Mogo Inc,1,XNAS,USA,USD
+MTEKW,Maris-Tech Ltd. Warrants,1,XNAS,USA,USD
+NAMSW,NewAmsterdam Pharma Company N.V. Warrant,1,XNAS,USA,USD
+NEXT,Nextdecade Corp,1,XNAS,USA,USD
+NMRA,"Neumora Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+NRSNW,NeuroSense Therapeutics Ltd. Warrant,1,XNAS,USA,USD
+CAAS,China Automotive Systems Inc,1,XNAS,USA,USD
+CCEP,Coca-Cola European Partners PLC,1,XNAS,USA,USD
+CDIO,Cardio Diagnostics Holdings Inc,1,XNAS,USA,USD
+CEG,Constellation Energy Corp,1,XNAS,USA,USD
+CISO,Cerberus Cyber Sentinel Corp,1,XNAS,USA,USD
+CLIK,CLIK,1,XNAS,USA,USD
+CMCT,Creative Media & Community Trust Corporation,1,XNAS,USA,USD
+CVCO,Cavco Industries Inc,1,XNAS,USA,USD
+DH,Definitive Healthcare Corp,1,XNAS,USA,USD
+NXL,Nexalin Technology Inc.,1,XNAS,USA,USD
+OLLI,Ollie's Bargain Outlet Hldg,1,XNAS,USA,USD
+PACB,Pacific Biosciences of California,1,XNAS,USA,USD
+PBLA,Panbela Therapeutics Inc,1,XNAS,USA,USD
+PDLB,Ponce Financial Group Inc,1,XNAS,USA,USD
+PDSB,PDS Biotechnology Corp,1,XNAS,USA,USD
+PFTAW,Portage Fintech Acquisition Corporation Warrant,1,XNAS,USA,USD
+PFXNZ,PhenixFIN Corporation  5.25% Notes due 2028,1,XNAS,USA,USD
+PITA,Heramba Electric plc Ordinary Shares,1,XNAS,USA,USD
+PLAB,Photronics Inc,1,XNAS,USA,USD
+PLTK,Playtika Holding Corp,1,XNAS,USA,USD
+PODC,"Courtside Group, Inc. Common Stock",1,XNAS,USA,USD
+PWP,Perella Weinberg Partners,1,XNAS,USA,USD
+QIPT,Quipt Home Medical Corp,1,XNAS,USA,USD
+RAPP,"Rapport Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+REBN,Reborn Coffee Inc,1,XNAS,USA,USD
+RLMD,Relmada Therapeutics Inc,1,XNAS,USA,USD
+RMR,RMR Group Inc,1,XNAS,USA,USD
+RNLX,Renalytix AI,1,XNAS,USA,USD
+ROST,Ross Stores Inc,1,XNAS,USA,USD
+RPID,Rapid Micro Biosystems Inc,1,XNAS,USA,USD
+RUM,Rumble Inc.,1,XNAS,USA,USD
+EGBN,Eagle Bancorp Inc,1,XNAS,USA,USD
+ELVA,Electrovaya Inc. Common Shares,1,XNAS,USA,USD
+ENTA,Enanta Pharmaceuticals Inc,1,XNAS,USA,USD
+ESSA,ESSA Bancorp Inc,1,XNAS,USA,USD
+EWTX,Edgewise Therapeutics Inc,1,XNAS,USA,USD
+FDMT,4D Molecular Therapeutics Inc,1,XNAS,USA,USD
+FLIC,First of Long Island Corp,1,XNAS,USA,USD
+FNVT,Finnovate Acquisition Corp,1,XNAS,USA,USD
+FUVV,"Arcimoto, Inc.",1,XNAS,USA,USD
+FWRD,Forward Air Corporation,1,XNAS,USA,USD
+GBDC,Golub Capital BDC Inc,1,XNAS,USA,USD
+GDC,GD Culture Group Limited,1,XNAS,USA,USD
+GEVO,Gevo Inc,1,XNAS,USA,USD
+GFS,Globalfoundries Inc,1,XNAS,USA,USD
+GIII,G-III Apparel Group Ltd,1,XNAS,USA,USD
+GLBZ,Glen Burnie Bancorp,1,XNAS,USA,USD
+GLSTR,"Global Star Acquisition, Inc. Right",1,XNAS,USA,USD
+GOOG,Alphabet Inc Class C,1,XNAS,USA,USD
+GTACW,Global Technology Acquisition Corp. I Warrant,1,XNAS,USA,USD
+HBAN,Huntington Bancshares Incorporated,1,XNAS,USA,USD
+SALM,Salem Media Group Inc,1,XNAS,USA,USD
+SATL,Satellogic V Inc,1,XNAS,USA,USD
+SBFMW,Sunshine Biopharma Inc. Warrant,1,XNAS,USA,USD
+SCKT,Socket Mobile Inc,1,XNAS,USA,USD
+SDST,Stardust Power Inc.,1,XNAS,USA,USD
+SEEL,Seelos Therapeutics Inc,1,XNAS,USA,USD
+SFIX,Stitch Fix,1,XNAS,USA,USD
+SMPL,Simply Good Foods Co,1,XNAS,USA,USD
+SOHOB,Sotherly Hotels Inc Series B Pref,1,XNAS,USA,USD
+SSKN,STRATA Skin Sciences Inc,1,XNAS,USA,USD
+SUNSV,"Sunrise Realty Trust, Inc. Common Stock When-Issued",1,XNAS,USA,USD
+SWIN,Solowin Holdings Ordinary Share,1,XNAS,USA,USD
+SYBX,Synlogic Inc,1,XNAS,USA,USD
+TCBC,TC Bancshares Inc,1,XNAS,USA,USD
+TEAM,Atlassian Corp Plc,1,XNAS,USA,USD
+TGTX,TG Therapeutics Inc,1,XNAS,USA,USD
+THRM,Gentherm Inc,1,XNAS,USA,USD
+TOWN,Towne Bank,1,XNAS,USA,USD
+TRKA,Troika Media Group Inc,1,XNAS,USA,USD
+HKIT,Hitek Global Inc. Ordinary Share,1,XNAS,USA,USD
+HUGE,FSD Pharma Inc Class B,1,XNAS,USA,USD
+HUMAW,Humacyte Inc,1,XNAS,USA,USD
+HWKN,Hawkins Inc,1,XNAS,USA,USD
+HYMC,Hycroft Mining Holding Corporation,1,XNAS,USA,USD
+IINN,Inspira Technologies Oxy BHN Ltd,1,XNAS,USA,USD
+IMCI,"Infinite Group, Inc. Common Stock",1,XNAS,USA,USD
+INGN,Inogen Inc,1,XNAS,USA,USD
+INM,InMed Pharmaceuticals Inc,1,XNAS,USA,USD
+IRAAW,Iris Acquisition Corp,1,XNAS,USA,USD
+ISPO,Inspirato Inc,1,XNAS,USA,USD
+JNVR,Janover Inc. Common Stock,1,XNAS,USA,USD
+UBX,Unity Biotechnology Inc,1,XNAS,USA,USD
+VALU,Value Line Inc,1,XNAS,USA,USD
+VRNS,Varonis Systems,1,XNAS,USA,USD
+WABC,Westamerica Bancorporation,1,XNAS,USA,USD
+WAVS,Western Acquisition Ventures Corp,1,XNAS,USA,USD
+WDFC,WD-40 Company,1,XNAS,USA,USD
+WHLM,Wilhelmina,1,XNAS,USA,USD
+XAXCX,XAXCX,1,XNAS,USA,USD
+XCH,XCHG Limited American Depositary Share,1,XNAS,USA,USD
+XELB,Xcel Brands Inc,1,XNAS,USA,USD
+XFIN,ExcelFin Acquisition Corp,1,XNAS,USA,USD
+XRAY,Dentsply Sirona Inc,1,XNAS,USA,USD
+ZENV,Zenvia Inc,1,XNAS,USA,USD
+ZWZZT,NASDAQ TEST STOCK,1,XNAS,USA,USD
+ADTX,Aditxt Inc. ,1,XNAS,USA,USD
+AFYA,Afya Ltd,1,XNAS,USA,USD
+AKYA,Akoya Biosciences Inc,1,XNAS,USA,USD
+ALPP,Alpine 4 Holdings Inc,1,XNAS,USA,USD
+ALVOW,Alvotech Warrant,1,XNAS,USA,USD
+APYX,Apyx Medical Inc,1,XNAS,USA,USD
+AQST,Aquestive Therapeutics Inc,1,XNAS,USA,USD
+AQU,Aquaron Acquisition Corp. Common Stock,1,XNAS,USA,USD
+ARCC,Ares Capital Corporation,1,XNAS,USA,USD
+ARM,Arm Holdings plc American Depositary Shares,1,XNAS,USA,USD
+ASND,Ascendis Pharma AS,1,XNAS,USA,USD
+ASTC,Astrotech Corp,1,XNAS,USA,USD
+AXGN,Axogen Inc,1,XNAS,USA,USD
+BANR,Banner Corporation,1,XNAS,USA,USD
+BCLI,Brainstorm Cell Therapeutics Inc,1,XNAS,USA,USD
+BLDP,Ballard Power Systems Inc,1,XNAS,USA,USD
+KNDI,Kandi Technologies Group Inc,1,XNAS,USA,USD
+KTTAW,Pasithea Therapeutics Corp. Warrant,1,XNAS,USA,USD
+LBRDK,Liberty Broadband Srs C,1,XNAS,USA,USD
+LFST,Lifestance Health Group Inc,1,XNAS,USA,USD
+LGHL,Lion Group Holding Ltd,1,XNAS,USA,USD
+LMFA,LM Funding America Inc,1,XNAS,USA,USD
+LPSN,LivePerson Inc,1,XNAS,USA,USD
+LTRX,Lantronix Inc,1,XNAS,USA,USD
+LVLU,Lulu's Fashion Lounge Holdings Inc,1,XNAS,USA,USD
+LVTX,LAVA Therapeutics NV,1,XNAS,USA,USD
+MGYR,Magyar Bancorp Inc,1,XNAS,USA,USD
+MLCO,Melco Resorts & Entertainment Ltd,1,XNAS,USA,USD
+MRTN,Marten Transport Ltd,1,XNAS,USA,USD
+MTEN,Mingteng International Corporation Inc. Ordinary Shares,1,XNAS,USA,USD
+NETD,Nabors Energy Transition Corp. II Class A Ordinary Shares,1,XNAS,USA,USD
+NEWTG,"NewtekOne, Inc. 8.50% Fixed Rate Senior Notes due 2029",1,XNAS,USA,USD
+NIXX,"Nixxy, Inc.",1,XNAS,USA,USD
+NRDS,Nerdwallet Inc,1,XNAS,USA,USD
+BWMN,Bowman Consulting Group Ltd,1,XNAS,USA,USD
+CARM,Carisma Therapeutics Inc.,1,XNAS,USA,USD
+CART,Maplebear Inc. Common Stock,1,XNAS,USA,USD
+CCIX,CCIX,1,XNAS,USA,USD
+CDTX,Cidara Therapeutics Inc,1,XNAS,USA,USD
+CEAD,CEA Industries Inc,1,XNAS,USA,USD
+CENTA,Central Garden & Pet Company A,1,XNAS,USA,USD
+CHR,Cheer Holding Inc.,1,XNAS,USA,USD
+CHRS,Coherus BioSciences Inc,1,XNAS,USA,USD
+CNFR,Conifer Holding Inc,1,XNAS,USA,USD
+COCHW,Envoy Medical Inc.,1,XNAS,USA,USD
+CTNT,Cheetah Net Supply Chain Service Inc. Class A Common Stock,1,XNAS,USA,USD
+CUE,Cue Biopharma,1,XNAS,USA,USD
+DATS,DatChat Inc,1,XNAS,USA,USD
+DGICB,Donegal Group B Inc,1,XNAS,USA,USD
+DTCK,Davis Commodities Limited Ordinary Shares,1,XNAS,USA,USD
+DYAI,Dyadic International Inc,1,XNAS,USA,USD
+NVDA,NVIDIA Corporation,1,XNAS,USA,USD
+NWSA,News Corp A,1,XNAS,USA,USD
+OCAX,OCA Acquisition Corp,1,XNAS,USA,USD
+OCSL,Oaktree Specialty Lending Corp,1,XNAS,USA,USD
+OTLY,Oatly Group AB  ADR,1,XNAS,USA,USD
+PASG,Passage Bio Inc,1,XNAS,USA,USD
+PLRX,Pliant Therapeutics Inc,1,XNAS,USA,USD
+PLUS,ePlus inc,1,XNAS,USA,USD
+PMAX,Powell Max Limited Class A Ordinary Shares,1,XNAS,USA,USD
+PRLH,Pearl Holdings Acquisition Corp,1,XNAS,USA,USD
+PXMD,PaxMedica Inc. Common Stock,1,XNAS,USA,USD
+QXO,"QXO, Inc.",1,XNAS,USA,USD
+RBBN,Ribbon Communications Inc,1,XNAS,USA,USD
+RDZN,Roadzen Inc.,1,XNAS,USA,USD
+RGLD,Royal Gold Inc,1,XNAS,USA,USD
+RMBL,RumbleON Inc,1,XNAS,USA,USD
+RUSHA,Rush Enterprises A Inc,1,XNAS,USA,USD
+ERIC,Telefonaktiebolaget LM Ericsson B ADR,1,XNAS,USA,USD
+EUDAW,EUDA Health Holdings Limited,1,XNAS,USA,USD
+EXFY,Expensify Inc,1,XNAS,USA,USD
+EYE,National Vision Holdings Inc,1,XNAS,USA,USD
+FBMS,"The First Bancshares, Inc.",1,XNAS,USA,USD
+FVNNU,Future Vision II Acquisition Corporation Units,1,XNAS,USA,USD
+GHSI,Guardion Health Sciences Inc,1,XNAS,USA,USD
+GOGL,Golden Ocean Group Ltd,1,XNAS,USA,USD
+GROM,Grom Social Enterprises Inc,1,XNAS,USA,USD
+GSMGW,Glory Star New Media Group Holdings Limited,1,XNAS,USA,USD
+HAFC,Hanmi Financial Corporation,1,XNAS,USA,USD
+SASR,Sandy Spring Bancorp Inc,1,XNAS,USA,USD
+SCNI,Scinai Immunotherapeutics Ltd,1,XNAS,USA,USD
+SGMA,SigmaTron International Inc,1,XNAS,USA,USD
+SHIM,Shimmick Corporation Common Stock,1,XNAS,USA,USD
+SHMD,SCHMID Group N.V. Class A Ordinary Shares,1,XNAS,USA,USD
+SMMT,Summit Therapeutics PLC,1,XNAS,USA,USD
+SND,Smart Sand Inc,1,XNAS,USA,USD
+SNSE,Sensei Biotherapeutics Inc,1,XNAS,USA,USD
+SSP,E. W. Scripps Co Class A,1,XNAS,USA,USD
+STRL,Sterling Construction Company Inc,1,XNAS,USA,USD
+SURG,Surgepays Inc,1,XNAS,USA,USD
+TBMCR,Trailblazer Merger Corporation I Rights,1,XNAS,USA,USD
+TCBK,TriCo Bancshares,1,XNAS,USA,USD
+TFSL,TFS Financial Corporation,1,XNAS,USA,USD
+THCP,Thunder Bridge Capital Partners IV Inc,1,XNAS,USA,USD
+TNON,Tenon Medical Inc,1,XNAS,USA,USD
+HRMY,Harmony Biosciences Holdings,1,XNAS,USA,USD
+HTIA,Healthcare Trust Inc PR,1,XNAS,USA,USD
+HUBC,Hub Cyber Security Ltd. Ordinary Shares,1,XNAS,USA,USD
+ICON,Icon Energy Corp.,1,XNAS,USA,USD
+IPXXW,Inflection Point Acquisition Corp. II Warrant,1,XNAS,USA,USD
+IVP,"Inspire Veterinary Partners, Inc. Class A Common Stock",1,XNAS,USA,USD
+JYD,Jayud Global Logistics Limited Class A Ordinary Shares,1,XNAS,USA,USD
+KARO,Karooooo Ltd,1,XNAS,USA,USD
+KELYA,Kelly Services A Inc,1,XNAS,USA,USD
+UNTY,Unity Bancorp Inc,1,XNAS,USA,USD
+USAU,US Gold Corp,1,XNAS,USA,USD
+VABK,Virginia National Bankshares Corp,1,XNAS,USA,USD
+VERX,Vertex,1,XNAS,USA,USD
+VIVK,Vivakor Inc,1,XNAS,USA,USD
+VRSN,VeriSign Inc,1,XNAS,USA,USD
+WDC,Western Digital Corporation,1,XNAS,USA,USD
+WINT,Windtree Therapeutics Inc,1,XNAS,USA,USD
+YOTAR,Yotta Acquisition Corporation Right,1,XNAS,USA,USD
+ACCD,Accolade Inc,1,XNAS,USA,USD
+AGMH,AGM Group Holdings Inc Class A,1,XNAS,USA,USD
+AIRT,Air T Inc,1,XNAS,USA,USD
+AMPGW,AmpliTech Group Inc,1,XNAS,USA,USD
+AMSF,AMERISAFE Inc,1,XNAS,USA,USD
+AMSWA,American Software Inc,1,XNAS,USA,USD
+ANL,Adlai Nortye Ltd. American Depositary Shares,1,XNAS,USA,USD
+AOUT,American Outdoor Brands Inc,1,XNAS,USA,USD
+AVHIW,Achari Ventures Holdings Corp. I Warrant,1,XNAS,USA,USD
+AVXL,Anavex Life Sciences Corp,1,XNAS,USA,USD
+BANX,Arrowmark Financial Corp,1,XNAS,USA,USD
+BCTX,Briacell Therapeutics Corp,1,XNAS,USA,USD
+BDRX,Biodexa Pharmaceticals,1,XNAS,USA,USD
+BFRI,Biofrontera Inc,1,XNAS,USA,USD
+BGC,BGC Group Inc. ,1,XNAS,USA,USD
+BHFAL,Brighthouse Financial Inc,1,XNAS,USA,USD
+BIOA,"BioAge Labs, Inc",1,XNAS,USA,USD
+BMRN,Biomarin Pharmaceutical Inc,1,XNAS,USA,USD
+BNIXW,Bannix Acquisition Corp. Warrant,1,XNAS,USA,USD
+BOSC,BOS Better Online Solutions,1,XNAS,USA,USD
+BSRR,Sierra Bancorp,1,XNAS,USA,USD
+KNSA,Kiniksa Pharmaceuticals Ltd,1,XNAS,USA,USD
+LATG,LatAmGrowth SPAC,1,XNAS,USA,USD
+LGTY,"Logility Supply Chain Solutions, Inc.",1,XNAS,USA,USD
+LIPO,Lipella Pharmaceuticals Inc. Common Stock,1,XNAS,USA,USD
+LMB,Limbach Holdings Inc,1,XNAS,USA,USD
+LPAA,Launch One Acquisition Corp. Class A Ordinary shares,1,XNAS,USA,USD
+LRMR,Larimar Therapeutics Inc,1,XNAS,USA,USD
+LSBK,Lake Shore Bancorp Inc,1,XNAS,USA,USD
+LSDIF,Lucy Scientific Discovery Inc.,1,XNAS,USA,USD
+LSEA,Landsea Homes Corp,1,XNAS,USA,USD
+LUCYW,Innovative Eyewear Inc,1,XNAS,USA,USD
+MACI,Melar Acquisition Corp. I Class A Ordinary Shares,1,XNAS,USA,USD
+MACIW,Melar Acquisition Corp. I Warrant,1,XNAS,USA,USD
+MDGL,Madrigal Pharmaceuticals Inc,1,XNAS,USA,USD
+MDJH,MDJM Ltd,1,XNAS,USA,USD
+ME,23Andme Holding Co,1,XNAS,USA,USD
+MFH,Mercurity Fintech Holding Inc ADR,1,XNAS,USA,USD
+MFICL,MidCap Financial Investment Corporation 8.00% Notes due 2028,1,XNAS,USA,USD
+MGRM,Monogram Orthopaedics Inc. Common Stock,1,XNAS,USA,USD
+MSBI,Midland States Bancorp Inc,1,XNAS,USA,USD
+NAMS,NewAmsterdam Pharma Company N.V. Ordinary Shares,1,XNAS,USA,USD
+NEWTI,NewtekOne Inc. 8.00% Fixed Rate Senior Notes due 2028,1,XNAS,USA,USD
+NHTC,Natural Health Trend,1,XNAS,USA,USD
+NMFCZ,New Mountain Finance Corporation 8.250% Notes due 2028,1,XNAS,USA,USD
+CAMT,Camtek Ltd,1,XNAS,USA,USD
+CCLDO,CareCloud Inc.,1,XNAS,USA,USD
+CEADW,CEA Industries Inc. Warrant,1,XNAS,USA,USD
+CERT,Certara Inc,1,XNAS,USA,USD
+CINGW,Cingulate Inc. Warrants,1,XNAS,USA,USD
+CNTX,Context Therapeutics Inc,1,XNAS,USA,USD
+COHU,Cohu Inc,1,XNAS,USA,USD
+COOTW,Australian Oilseeds Holdings Limited Warrant,1,XNAS,USA,USD
+CPBI,"Central Plains Bancshares, Inc. Common Stock",1,XNAS,USA,USD
+CREX,Creative Realities Inc,1,XNAS,USA,USD
+CSSNQ,CSSNQ,1,XNAS,USA,USD
+CSTL,Castle Biosciences Inc,1,XNAS,USA,USD
+CWD,CaliberCos Inc. Class A Common Stock,1,XNAS,USA,USD
+CZNC,Citizens & Northern Corp,1,XNAS,USA,USD
+DATSW,DatChat Inc. Series A Warrant,1,XNAS,USA,USD
+DAVE,Dave Inc,1,XNAS,USA,USD
+DVAX,Dynavax Technologies Corporation,1,XNAS,USA,USD
+NVEC,NVE Corporation,1,XNAS,USA,USD
+NXGL,Nexgel Inc,1,XNAS,USA,USD
+ONCT,Oncternal Therapeutics Inc,1,XNAS,USA,USD
+PALT,Paltalk Inc,1,XNAS,USA,USD
+PAVS,Paranovus Entertainment Technology Ltd.,1,XNAS,USA,USD
+PDEX,Pro-Dex Inc,1,XNAS,USA,USD
+PMEC,Primech Holdings Ltd. Ordinary Shares,1,XNAS,USA,USD
+PROCW,Procaps Group S.A. Warrants,1,XNAS,USA,USD
+PTMN,Portman Ridge Finance Corp,1,XNAS,USA,USD
+PWUP,PowerUp Acquisition Corp,1,XNAS,USA,USD
+QETAU,Quetta Acquisition Corporation Unit,1,XNAS,USA,USD
+RIGL,Rigel Pharmaceuticals Inc,1,XNAS,USA,USD
+RILYG,B. Riley Financial Inc. 5.00% Senior Notes due 2026,1,XNAS,USA,USD
+RIME,"Algorhythm Holdings, Inc.",1,XNAS,USA,USD
+ROOT,Root Inc,1,XNAS,USA,USD
+RUN,Sunrun Inc,1,XNAS,USA,USD
+ECOR,Electrocore LLC,1,XNAS,USA,USD
+EEFT,Euronet Worldwide Inc,1,XNAS,USA,USD
+EFOI,Energy Focu,1,XNAS,USA,USD
+ELBM,Electra Battery Materials Corp,1,XNAS,USA,USD
+EPIX,ESSA Pharma Inc,1,XNAS,USA,USD
+FLNT,Fluent Inc,1,XNAS,USA,USD
+FORLW,Four Leaf Acquisition Corporation Warrants,1,XNAS,USA,USD
+FRBA,First Bank,1,XNAS,USA,USD
+FTNT,Fortinet Inc,1,XNAS,USA,USD
+GCTK,GlucoTrack Inc,1,XNAS,USA,USD
+GECCH,GECCH,1,XNAS,USA,USD
+GECCO,Great Elm Capital Corp. 5.875% Notes due 2026,1,XNAS,USA,USD
+GILD,Gilead Sciences Inc,1,XNAS,USA,USD
+GODNR,Golden Star Acquisition Corporation Rights,1,XNAS,USA,USD
+GROW,US Global Investors Inc,1,XNAS,USA,USD
+SLDP,Solid Power Inc,1,XNAS,USA,USD
+SPKL,Spark I Acquisition Corp. Class A Ordinary Share,1,XNAS,USA,USD
+SPRC,Scisparc Ltd,1,XNAS,USA,USD
+SPSC,SPS Commerce Inc,1,XNAS,USA,USD
+STFS,STFS,1,XNAS,USA,USD
+TARA,Protara Therapeutics Inc,1,XNAS,USA,USD
+TAYD,Taylor Devices Inc,1,XNAS,USA,USD
+TPGXL,"TPG Operating Group II, L.P. 6.950% Fixed-Rate Junior Subordinated Notes due 2064",1,XNAS,USA,USD
+TRINZ,Trinity Capital Inc. 7.875% Notes due 2029,1,XNAS,USA,USD
+TRMK,Trustmark Corporation,1,XNAS,USA,USD
+TRVI,Trevi Therapeutics  Inc,1,XNAS,USA,USD
+HFWA,Heritage Financial Corporation,1,XNAS,USA,USD
+HHGCR,HHG Capital Corporation Rights,1,XNAS,USA,USD
+HNST,Honest Company Inc,1,XNAS,USA,USD
+ICCC,ImmuCell Corporation,1,XNAS,USA,USD
+INAQU,Insight Acquisition Corp. Units,1,XNAS,USA,USD
+INDH,WisdomTree India Hedged Equity Fund,1,XNAS,USA,USD
+ISPOW,Thayer Ventures Acquisition Corporation,1,XNAS,USA,USD
+JACK,Jack In The Box Inc,1,XNAS,USA,USD
+JKHY,Jack Henry & Associates Inc,1,XNAS,USA,USD
+UMAC,Unusual Machines Inc.,1,XNAS,USA,USD
+UNB,Union Bankshares Inc,1,XNAS,USA,USD
+VFSWW,VinFast Auto Ltd. Warrant,1,XNAS,USA,USD
+VRTS,"Virtus Investment Partners, Inc.",1,XNAS,USA,USD
+VRTX,Vertex Pharmaceuticals Inc,1,XNAS,USA,USD
+ZCARW,Zoomcar Holdings Inc,1,XNAS,USA,USD
+ABLV,Able View Global Inc. Class B Ordinary Shares,1,XNAS,USA,USD
+AIFF,"Firefly Neuroscience, Inc.",1,XNAS,USA,USD
+ALKS,Alkermes Plc,1,XNAS,USA,USD
+AMD,Advanced Micro Devices Inc,1,XNAS,USA,USD
+AMST,Amesite Operating Co,1,XNAS,USA,USD
+ASTE,Astec Industries Inc,1,XNAS,USA,USD
+ASYS,Amtech Systems Inc,1,XNAS,USA,USD
+ATAT,Atour Lifestyle Holdings Limited American Depositary Shares,1,XNAS,USA,USD
+AUUDW,Auddia Inc,1,XNAS,USA,USD
+AUVPQ,"Applied UV, Inc.",1,XNAS,USA,USD
+AZTA,Azenta Inc,1,XNAS,USA,USD
+BECN,Beacon Roofing Supply Inc,1,XNAS,USA,USD
+BFRIW,Biofrontera Inc. Warrants,1,XNAS,USA,USD
+BLBD,Blue Bird Corp,1,XNAS,USA,USD
+BLFY,Blue Foundry Bancorp,1,XNAS,USA,USD
+BNZIW,Banzai International Inc,1,XNAS,USA,USD
+BPOP,Popular Inc,1,XNAS,USA,USD
+BRLSW,Borealis Foods Inc,1,XNAS,USA,USD
+BSY,Bentley Systems Inc,1,XNAS,USA,USD
+KMDA,Kamada,1,XNAS,USA,USD
+LAB,Standard Biotools Inc,1,XNAS,USA,USD
+LANDP,Gladstone Land Corporation 6.00% Series C Cumulative Redeemable Preferred Stock,1,XNAS,USA,USD
+LX,Lexinfintech Holdings Ltd,1,XNAS,USA,USD
+MCHP,Microchip Technology Inc,1,XNAS,USA,USD
+MNMD,Mind Medicine Inc,1,XNAS,USA,USD
+MNTSW,Momentus Inc,1,XNAS,USA,USD
+MSAI,Infrared Cameras Holdings Inc,1,XNAS,USA,USD
+MSEX,Middlesex Water Company,1,XNAS,USA,USD
+MTLS,Materialise NV,1,XNAS,USA,USD
+MYPS,Playstudios Inc,1,XNAS,USA,USD
+NDAQ,Nasdaq Inc,1,XNAS,USA,USD
+NEGG,Newegg Commerce Inc,1,XNAS,USA,USD
+NPAB,New Providence Acquisition II Corp,1,XNAS,USA,USD
+NPCE,Neuropace Inc,1,XNAS,USA,USD
+NSIT,Insight Enterprises Inc,1,XNAS,USA,USD
+NTES,NetEase Inc,1,XNAS,USA,USD
+BVFL,"BV Financial, Inc. Common Stock",1,XNAS,USA,USD
+BZUN,Baozun Inc,1,XNAS,USA,USD
+CCCC,C4 Therapeutics Inc,1,XNAS,USA,USD
+CCCS,CCC Intelligent Solutions Holdings Inc. Common Stock,1,XNAS,USA,USD
+CCGWW,Cheche Group Inc. Warrant,1,XNAS,USA,USD
+CCIXU,Churchill Capital Corp IX Unit,1,XNAS,USA,USD
+CHRD,Chord Energy Corp,1,XNAS,USA,USD
+CLPS,CLPS Inc,1,XNAS,USA,USD
+CMCSA,Comcast Corp,1,XNAS,USA,USD
+CNEY,CN Energy Group Inc,1,XNAS,USA,USD
+CNXX,CONX Corp.,1,XNAS,USA,USD
+CPSS,Consumer Portfolio Services Inc,1,XNAS,USA,USD
+CRNC,Cerence Inc,1,XNAS,USA,USD
+CSWC,Capital Southwest Corporation,1,XNAS,USA,USD
+CUEN,Cuentas Inc,1,XNAS,USA,USD
+CURR,Currenc Group Inc. Ordinary Shares,1,XNAS,USA,USD
+CUTR,Cutera Inc,1,XNAS,USA,USD
+DFLI,Chardan NexTech Acquisition 2 Corp,1,XNAS,USA,USD
+DOOO,BRP Inc,1,XNAS,USA,USD
+DUO,Fangdd Network Group Ltd,1,XNAS,USA,USD
+DUOT,Duos Technologies Group Inc,1,XNAS,USA,USD
+EA,Electronic Arts Inc,1,XNAS,USA,USD
+NVMI,Nova Ltd,1,XNAS,USA,USD
+OTLK,OUTLOOK THERAPEUTICS INC,1,XNAS,USA,USD
+PAA,Plains All American Pipeline LP,1,XNAS,USA,USD
+PAL,"Proficient Auto Logistics, Inc. Common Stock",1,XNAS,USA,USD
+PDCO,Patterson Companies Inc,1,XNAS,USA,USD
+PKBK,Parke Bancorp Inc,1,XNAS,USA,USD
+PODD,Insulet Corporation,1,XNAS,USA,USD
+PUCKW,Goal Acquisitions Corp,1,XNAS,USA,USD
+RDI,Reading International Inc,1,XNAS,USA,USD
+RENB,Renovaro Biosciences Inc,1,XNAS,USA,USD
+RMCOW,Royalty Management Holding Corporation,1,XNAS,USA,USD
+ROCK,Gibraltar Industries Inc,1,XNAS,USA,USD
+EDBLW,Edible Garden AG Incorporated,1,XNAS,USA,USD
+EMCG,Embrace Change Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+ENGN,enGene Holdings Inc. Common Stock,1,XNAS,USA,USD
+ENVB,Enveric Biosciences Inc,1,XNAS,USA,USD
+ENVX,Enovix Corp,1,XNAS,USA,USD
+EVGN,Evogene,1,XNAS,USA,USD
+FAMI,Farmmi Inc,1,XNAS,USA,USD
+FAT,FAT Brands Inc,1,XNAS,USA,USD
+FFIE,Faraday Future Intelligent Electric Inc,1,XNAS,USA,USD
+FLD,FTAC Emerald Acquisition Corp.,1,XNAS,USA,USD
+FMAO,Farmers & Merchants Bancorp Inc,1,XNAS,USA,USD
+FNLC,First Bancorp Inc,1,XNAS,USA,USD
+FONR,Fonar Corporation,1,XNAS,USA,USD
+FRGT,Freight Technologies Inc,1,XNAS,USA,USD
+FRTX,Fresh Tracks Therapeutics Inc.,1,XNAS,USA,USD
+FTCI,FTC Solar Inc,1,XNAS,USA,USD
+FWRG,First Watch Restaurant Group Inc,1,XNAS,USA,USD
+GAINZ,Gladstone Investment Corporation 4.875% Notes due 2028,1,XNAS,USA,USD
+GFAI,Guardforce AI Co Ltd,1,XNAS,USA,USD
+GHIXW,Gores Holdings IX Inc. Warrant,1,XNAS,USA,USD
+GIGM,Giga Media Ltd,1,XNAS,USA,USD
+GNTX,Gentex Corporation,1,XNAS,USA,USD
+GUTS,"Fractyl Health, Inc. Common Stock",1,XNAS,USA,USD
+GVH,Globavend Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+HCDWQ,Harbor Custom Development Inc,1,XNAS,USA,USD
+RZLV,Rezolve AI Limited Ordinary Shares,1,XNAS,USA,USD
+SABR,Sabre Corpo,1,XNAS,USA,USD
+SKYW,SkyWest Inc,1,XNAS,USA,USD
+SNAL,"Snail, Inc. Class A Common Stock",1,XNAS,USA,USD
+SOPA,Society Pass Inc,1,XNAS,USA,USD
+SPPL,SIMPPLE LTD. Ordinary Shares,1,XNAS,USA,USD
+STNE,StoneCo Ltd,1,XNAS,USA,USD
+STRA,Strategic Education Inc,1,XNAS,USA,USD
+STRR,Star Equity Holdings Inc,1,XNAS,USA,USD
+SVIIW,Spring Valley Acquisition Corp. II Warrant,1,XNAS,USA,USD
+TCTM,Tarena International Inc,1,XNAS,USA,USD
+THFF,First Financial Corporation Indiana,1,XNAS,USA,USD
+THMO,Thermogenesis Holdings Inc,1,XNAS,USA,USD
+TOMZ,TOMI Environmental Solutions Inc,1,XNAS,USA,USD
+TPST,Tempest Therapeutics Inc,1,XNAS,USA,USD
+TRNR,Interactive Strength Inc. Common Stock,1,XNAS,USA,USD
+HOFV,Hall of Fame Resort Entertainment Co,1,XNAS,USA,USD
+HTZ,Hertz Global Holdings Inc,1,XNAS,USA,USD
+HUT,Hut 8 Corp. Common Stock,1,XNAS,USA,USD
+ICFI,ICF International Inc,1,XNAS,USA,USD
+IMKTA,Ingles Markets Incorporated,1,XNAS,USA,USD
+INTEW,Integral Acquisition Corporation 1 Warrants,1,XNAS,USA,USD
+IPX,IperionX Limited American Depositary Share,1,XNAS,USA,USD
+IPXX,Inflection Point Acquisition Corp. II Class A Ordinary Share,1,XNAS,USA,USD
+IQ,iQIYI Inc,1,XNAS,USA,USD
+ITI,Iteris Inc,1,XNAS,USA,USD
+IVCA,Investcorp India Acquisition Corp. Class A ordinary share,1,XNAS,USA,USD
+KFFB,Kentucky First Federal Bancorp,1,XNAS,USA,USD
+KITTW,Nauticus Robotics Inc.,1,XNAS,USA,USD
+TWG,Top Wealth Group Holding Limited Ordinary Shares,1,XNAS,USA,USD
+UCAR,U Power Limited Ordinary Shares,1,XNAS,USA,USD
+UCL,Ucloudlink Group Inc,1,XNAS,USA,USD
+UDMY,Udemy Inc,1,XNAS,USA,USD
+UTHR,United Therapeutics Corporation,1,XNAS,USA,USD
+VACC,Vaccitech PLC ADR,1,XNAS,USA,USD
+VANI,Vivani Medical Inc.,1,XNAS,USA,USD
+VFS,VinFast Auto Ltd. Ordinary Shares,1,XNAS,USA,USD
+VGAS,Verde Clean Fuels Inc.,1,XNAS,USA,USD
+VRNT,Verint Systems Inc,1,XNAS,USA,USD
+VSEC,VSE Corporation,1,XNAS,USA,USD
+WIMI,WiMi Hologram Cloud Inc,1,XNAS,USA,USD
+WOOF,Pet Acquisition LLC,1,XNAS,USA,USD
+XENE,Xenon Pharmaceuticals Inc,1,XNAS,USA,USD
+XLYO,Xylo Technologies Ltd,1,XNAS,USA,USD
+XTKG,X3 Holdings Co Ltd,1,XNAS,USA,USD
+YHGJ,Yunhong Green CTI Ltd.,1,XNAS,USA,USD
+Z,Zillow Group Inc Class C,1,XNAS,USA,USD
+ZEO,Zeo Energy Corp,1,XNAS,USA,USD
+ZTEK,ZEN Graphene Solutions Ltd,1,XNAS,USA,USD
+ADXN,Addex Therapeutics Ltd,1,XNAS,USA,USD
+AISP,Airship AI Holdings Inc,1,XNAS,USA,USD
+AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,1,XNAS,USA,USD
+AMSC,American Superconductor Corporation,1,XNAS,USA,USD
+ANSC,Agriculture & Natural Solutions Acquisition Corporation Class A Ordinary Shares,1,XNAS,USA,USD
+AOGOW,Arogo Capital Acquisition Corp. Warrant,1,XNAS,USA,USD
+ARTNA,Artesian Resources Corporation,1,XNAS,USA,USD
+ASLE,AerSale Corp,1,XNAS,USA,USD
+AVDX,AvidXchange Holdings Inc,1,XNAS,USA,USD
+AXNX,Axonics Modulation Technologies Inc,1,XNAS,USA,USD
+BANL,CBL International Limited Ordinary Shares,1,XNAS,USA,USD
+BAOS,Baosheng Media Group Holdings Ltd,1,XNAS,USA,USD
+BATRA,"Atlanta Braves Holdings, Inc. Series A Common Stock",1,XNAS,USA,USD
+BATRK,"Atlanta Braves Holdings, Inc. Series C Common Stock",1,XNAS,USA,USD
+BENFW,Beneficient Warrant,1,XNAS,USA,USD
+BETR,Better Home & Finance Holding Company,1,XNAS,USA,USD
+BETRW,Better Home & Finance Holding Company,1,XNAS,USA,USD
+BJRI,BJs Restaurants Inc,1,XNAS,USA,USD
+BLBX,Blackboxstocks Inc,1,XNAS,USA,USD
+KLXE,KLX Energy Services Holdings Inc,1,XNAS,USA,USD
+KOD,Kodiak Sciences Inc,1,XNAS,USA,USD
+KXIN,Kaixin Auto Holdings,1,XNAS,USA,USD
+LGIH,LGI Homes,1,XNAS,USA,USD
+LIND,Lindblad Expeditions Holdings Inc,1,XNAS,USA,USD
+LOOP,Loop Industries Inc,1,XNAS,USA,USD
+LUMO,Lumos Pharma Inc,1,XNAS,USA,USD
+LYRA,Lyra Therapeutics Inc,1,XNAS,USA,USD
+LZ,LegalZoom.com Inc,1,XNAS,USA,USD
+MCAA,Mountain & I Acquisition Co Corp,1,XNAS,USA,USD
+MFIN,Medallion Financial Corp,1,XNAS,USA,USD
+MPAA,Motorcar Parts of America Inc,1,XNAS,USA,USD
+MRNS,Marinus Pharmaceuticals Inc,1,XNAS,USA,USD
+MSAIW,Infrared Cameras Holdings Inc,1,XNAS,USA,USD
+NTRB,Nutriband Inc,1,XNAS,USA,USD
+BYON,"Beyond, Inc.",1,XNAS,USA,USD
+CABA,Cabaletta Bio Inc,1,XNAS,USA,USD
+CBAN,Colony Bankcorp Inc,1,XNAS,USA,USD
+CBFV,CB Financial Services Inc,1,XNAS,USA,USD
+CBNK,Capital Bancorp,1,XNAS,USA,USD
+CCOI,Cogent Communications Group Inc,1,XNAS,USA,USD
+CDLX,Cardlytics Inc,1,XNAS,USA,USD
+CDNS,Cadence Design Systems Inc,1,XNAS,USA,USD
+CERO,"CERo Therapeutics Holdings, Inc. Common Stock",1,XNAS,USA,USD
+CFSB,CFSB Bancorp Inc,1,XNAS,USA,USD
+CLLS,Cellectis SA,1,XNAS,USA,USD
+CLOER,Clover Leaf Capital Corp. Rights,1,XNAS,USA,USD
+CLRC,ClimateRock Class A Ordinary Shares,1,XNAS,USA,USD
+CMTL,Comtech Telecommunications Corp,1,XNAS,USA,USD
+CREV,Carbon Revolution Public Limited Ordinary Shares,1,XNAS,USA,USD
+CTBI,Community Trust Bancorp Inc,1,XNAS,USA,USD
+CTLP,Cantaloupe Inc,1,XNAS,USA,USD
+DHCNL,Diversified Healthcare Trust,1,XNAS,USA,USD
+DIOD,Diodes Incorporated,1,XNAS,USA,USD
+DISTR,Distoken Acquisition Corporation Right,1,XNAS,USA,USD
+DPCS,DP Cap Acquisition I Corp,1,XNAS,USA,USD
+DTIL,Precision BioSciences Inc,1,XNAS,USA,USD
+DTST,Data Storage Corp,1,XNAS,USA,USD
+NTRS,Northern Trust Corporation,1,XNAS,USA,USD
+NVNO,enVVeno Medical Corp,1,XNAS,USA,USD
+OAKUW,Oak Woods Acquisition Corporation Warrant,1,XNAS,USA,USD
+OCUL,Ocular Therapeutix Inc,1,XNAS,USA,USD
+ODD,ODDITY Tech Ltd. Class A Ordinary Shares,1,XNAS,USA,USD
+OMIC,Singular Genomics Systems Inc,1,XNAS,USA,USD
+ONCY,Oncolytics Biotech Inc,1,XNAS,USA,USD
+PAVM,PAVmed Inc,1,XNAS,USA,USD
+PCAR,PACCAR Inc,1,XNAS,USA,USD
+PCH,PotlatchDeltic Corp,1,XNAS,USA,USD
+PIK,Kidpik Corp,1,XNAS,USA,USD
+PINC,Premier Inc,1,XNAS,USA,USD
+PNTG,Pennant Group Inc,1,XNAS,USA,USD
+PPC,Pilgrims Pride Corp,1,XNAS,USA,USD
+PRDO,Perdoceo Education Corp,1,XNAS,USA,USD
+PTIX,Protagenic Therapeutics,1,XNAS,USA,USD
+PXS,Pyxis Tankers Inc,1,XNAS,USA,USD
+QTTB,Q32 Bio Inc,1,XNAS,USA,USD
+QUBT,Quantum Computing Inc,1,XNAS,USA,USD
+RANI,Rani Therapeutics Holdings Inc,1,XNAS,USA,USD
+RAYA,Erayak Power Solution Group Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+ROIC,Retail Opportunity Investments,1,XNAS,USA,USD
+ELYS,Elys Game Technology Corp,1,XNAS,USA,USD
+ENPH,Enphase Energy Inc,1,XNAS,USA,USD
+ESOA,Energy Services Of America Corp,1,XNAS,USA,USD
+EVLV,Evolv Technologies Holdings Inc,1,XNAS,USA,USD
+EYEN,Eyenovia Inc,1,XNAS,USA,USD
+FCAP,First Capital Inc,1,XNAS,USA,USD
+FIAC,Focus Impact Acquisition Corp,1,XNAS,USA,USD
+FORL,Four Leaf Acquisition Corporation Class A Common Stock,1,XNAS,USA,USD
+FOX,Fox Corp Class B,1,XNAS,USA,USD
+FRAF,Franklin Financial Services Corp,1,XNAS,USA,USD
+FSHP,Flag Ship Acquisition Corp. Ordinary Shares,1,XNAS,USA,USD
+GCMGW,GCM Grosvenor Inc,1,XNAS,USA,USD
+GECC,Great Elm Capital Corp,1,XNAS,USA,USD
+GMBLW,Esports Entertainment Group Inc,1,XNAS,USA,USD
+GOVX,GeoVax Labs Inc,1,XNAS,USA,USD
+GRFS,Grifols SA ADR,1,XNAS,USA,USD
+GSBC,Great Southern Bancorp Inc,1,XNAS,USA,USD
+HAIN,The Hain Celestial Group Inc,1,XNAS,USA,USD
+HCM,HUTCHMED  DRC,1,XNAS,USA,USD
+RVSN,Rail Vision Ltd. Ordinary Share,1,XNAS,USA,USD
+SANA,Sana Biotechnology Inc,1,XNAS,USA,USD
+SBFG,SB Financial Group Inc,1,XNAS,USA,USD
+SCLX,Scilex Holding Company,1,XNAS,USA,USD
+SIFY,Sify Technologies Limited,1,XNAS,USA,USD
+SLE,Super League Enterprise Inc.,1,XNAS,USA,USD
+SVC,Service Properties Trust,1,XNAS,USA,USD
+SVMH,SRIVARU Holding Limited Ordinary Shares,1,XNAS,USA,USD
+TRIB,Trinity Biotech plc,1,XNAS,USA,USD
+TTD,Trade Desk Inc,1,XNAS,USA,USD
+HEPS,D-MARKET Electronic Services & Trading ADR,1,XNAS,USA,USD
+HHGCW,HHG Capital Corporation Warrant,1,XNAS,USA,USD
+HNNA,Hennessy Ad,1,XNAS,USA,USD
+HQY,HealthEquity Inc,1,XNAS,USA,USD
+HTLD,Heartland Express Inc,1,XNAS,USA,USD
+HWBK,Hawthorn Bancshares Inc,1,XNAS,USA,USD
+HYMCL,Hycroft Mining Holding Corporation,1,XNAS,USA,USD
+IDAI,Trust Stamp Inc,1,XNAS,USA,USD
+IMXI,International Money Express Inc,1,XNAS,USA,USD
+IPAR,Inter Parfums Inc,1,XNAS,USA,USD
+ITIC,Investors Title Company,1,XNAS,USA,USD
+JBDI,JBDI Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+JG,Aurora Mobile Ltd,1,XNAS,USA,USD
+JSPR,Jasper Therapeutics Inc,1,XNAS,USA,USD
+JVSAU,JVSPAC Acquisition Corp. Unit,1,XNAS,USA,USD
+KELYB,Kelly Services B Inc,1,XNAS,USA,USD
+KEQU,Kewaunee Scientific Corporation,1,XNAS,USA,USD
+KIRK,Kirklands Inc,1,XNAS,USA,USD
+UBCP,United Bancorp Inc,1,XNAS,USA,USD
+USAP,Universal Stainless & Alloy,1,XNAS,USA,USD
+USTUF,Roth CH Acquisition Co.,1,XNAS,USA,USD
+VBFC,Village Bank and Trust Financial,1,XNAS,USA,USD
+VINC,Vincerx Pharma Inc,1,XNAS,USA,USD
+VIOT,Viomi Technology ADR,1,XNAS,USA,USD
+VSTE,Vast Renewables Limited Ordinary Shares,1,XNAS,USA,USD
+WLFC,Willis Lease Finance Corporation,1,XNAS,USA,USD
+WVVI,Willamette Valley Vineyards Inc,1,XNAS,USA,USD
+XBPEW,XBP Europe Holdings Inc,1,XNAS,USA,USD
+XFOR,X4 Pharmaceuticals Inc,1,XNAS,USA,USD
+XXII,22nd Century Group Inc,1,XNAS,USA,USD
+ZG,Zillow Group Inc,1,XNAS,USA,USD
+AAOI,Applied Opt,1,XNAS,USA,USD
+ACNB,ACNB Corporation,1,XNAS,USA,USD
+ADNWW,Advent Technologies Holdings Inc,1,XNAS,USA,USD
+AEAEW,AltEnergy Acquisition Corp. Warrant,1,XNAS,USA,USD
+AEI,Alset Ehome International Inc,1,XNAS,USA,USD
+ALAB,"Astera Labs, Inc. Common Stock",1,XNAS,USA,USD
+ALNT,Allient Inc.,1,XNAS,USA,USD
+ALRS,Alerus Financial Corp,1,XNAS,USA,USD
+ALTR,Altair Engineering Inc,1,XNAS,USA,USD
+AMED,Amedisys Inc,1,XNAS,USA,USD
+AMTX,Aemetis Inc,1,XNAS,USA,USD
+ANGHW,Anghami Inc. Warrants,1,XNAS,USA,USD
+ARDX,Ardelyx Inc,1,XNAS,USA,USD
+ATER,Aterian Inc,1,XNAS,USA,USD
+ATPC,Agape ATP Corporation Common Stock,1,XNAS,USA,USD
+ATXI,Avenue Therapeutics Inc,1,XNAS,USA,USD
+AVHI,Achari Ventures Holdings Corp I,1,XNAS,USA,USD
+AXON,Axon Enterprise Inc.,1,XNAS,USA,USD
+BBLG,Bone Biologics Corp,1,XNAS,USA,USD
+BCOW,1895 of Wisconsin Inc Bancorp,1,XNAS,USA,USD
+BETSF,Bit Brother Limited,1,XNAS,USA,USD
+BFIN,BankFinancial Corporation,1,XNAS,USA,USD
+BFRGW,"Bullfrog AI Holdings, Inc. Warrants",1,XNAS,USA,USD
+BGLC,BioNexus Gene Lab Corp Common stock,1,XNAS,USA,USD
+BOLT,Bolt Biotherapeutics,1,XNAS,USA,USD
+BRQSF,Borqs Technologies Inc.,1,XNAS,USA,USD
+KTTA,Pasithea Therapeutics Corp,1,XNAS,USA,USD
+LEGN,Legend Biotech Corp,1,XNAS,USA,USD
+LFWD,ReWalk Robotics Ltd,1,XNAS,USA,USD
+LOT,Lotus Technology Inc. American Depositary Shares,1,XNAS,USA,USD
+LQDT,Liquidity Services Inc,1,XNAS,USA,USD
+LTCH,Latch Inc,1,XNAS,USA,USD
+MBINM,Merchants Bancorp,1,XNAS,USA,USD
+MCOMW,Micromobility.com Inc.,1,XNAS,USA,USD
+MDXH,MDxHealth SA ADR,1,XNAS,USA,USD
+METCL,"Ramaco Resources, Inc. - 9.00%",1,XNAS,USA,USD
+MGAM,Mobile Global Esports Inc.,1,XNAS,USA,USD
+MGPI,MGP Ingredients Inc,1,XNAS,USA,USD
+MLGO,MicroAlgo Inc.,1,XNAS,USA,USD
+MRVI,Maravai Lifesciences Holdings Inc,1,XNAS,USA,USD
+MRVL,Marvell Technology Group Ltd,1,XNAS,USA,USD
+MSS,Maison Solutions Inc,1,XNAS,USA,USD
+MVLA,Movella Holdings Inc.,1,XNAS,USA,USD
+BTSGU,"BrightSpring Health Services, Inc. Tangible Equity Unit",1,XNAS,USA,USD
+CCTSW,Cactus Acquisition Corp. 1 Limited Warrant,1,XNAS,USA,USD
+CDIOW,Cardio Diagnostics Holdings Inc,1,XNAS,USA,USD
+CDZI,Cadiz Inc,1,XNAS,USA,USD
+CELC,Celcuity LLC,1,XNAS,USA,USD
+CFB,CrossFirst Bankshares Inc,1,XNAS,USA,USD
+CFFN,Capitol Federal Financial Inc,1,XNAS,USA,USD
+CJET,"Chijet Motor Company, Inc. Ordinary Shares",1,XNAS,USA,USD
+CLAR,Clarus Corp,1,XNAS,USA,USD
+CLGN,Collplant Biotechnologies Ltd,1,XNAS,USA,USD
+CMLS,Cumulus Media Inc Class A,1,XNAS,USA,USD
+CNET,ZW Data Action Technologies Inc,1,XNAS,USA,USD
+CNTB,Connect Biopharma Holdings Ltd,1,XNAS,USA,USD
+COFS,ChoiceOne Financial Services Inc,1,XNAS,USA,USD
+CSLMW,Consilium Acquisition Corp I Ltd. Warrant,1,XNAS,USA,USD
+CYTO,Altamira Therapeutics Ltd,1,XNAS,USA,USD
+DFLIW,Chardan NexTech Acquisition 2 Corp,1,XNAS,USA,USD
+DSGN,Design Therapeutics Inc,1,XNAS,USA,USD
+DWSN,Dawson Geophysical Company,1,XNAS,USA,USD
+DXR,Daxor Corporation,1,XNAS,USA,USD
+NUKK,Nukkleus Inc,1,XNAS,USA,USD
+NURO,NeuroMetrix Inc,1,XNAS,USA,USD
+NUTX,Nutex Health Inc,1,XNAS,USA,USD
+NWFL,Norwood Financial Corp,1,XNAS,USA,USD
+PAVMZ,PAVmed Inc. Series Z Warrant,1,XNAS,USA,USD
+PENG,"Penguin Solutions, Inc.",1,XNAS,USA,USD
+PETQ,PetIQ Inc,1,XNAS,USA,USD
+PRCT,Procept Biorobotics Corp,1,XNAS,USA,USD
+PSNY,Polestar Automotive Holding UK PLC Class A ADS,1,XNAS,USA,USD
+QMCO,Quantum Corporation,1,XNAS,USA,USD
+RARE,Ultragenyx,1,XNAS,USA,USD
+RDHL,Redhill Biopharma Ltd,1,XNAS,USA,USD
+RELL,Richardson Electronics Ltd,1,XNAS,USA,USD
+REVBW,Revelation Biosciences Inc,1,XNAS,USA,USD
+EQ,Equillium Inc,1,XNAS,USA,USD
+EWBC,East West Bancorp Inc,1,XNAS,USA,USD
+EXE,Expand Energy Corporation,1,XNAS,USA,USD
+EYPT,Eyepoint Pharmaceuticals Inc,1,XNAS,USA,USD
+FDSB,"Fifth District Bancorp, Inc. Common Stock",1,XNAS,USA,USD
+FGEN,FibroGen Inc,1,XNAS,USA,USD
+FNCH,Finch Therapeutics Group Inc,1,XNAS,USA,USD
+FRHC,Freedom Holding Corp,1,XNAS,USA,USD
+FRPH,Frp Holdings Ord,1,XNAS,USA,USD
+FWONA,Liberty Media Corporation Series A Liberty Formula One Common Stock,1,XNAS,USA,USD
+GATEW,Marblegate Acquisition Corp. Warrant,1,XNAS,USA,USD
+GEHC,GE HealthCare Technologies Inc.,1,XNAS,USA,USD
+GLACU,Global Lights Acquisition Corp Unit,1,XNAS,USA,USD
+GLADZ,Gladstone Capital Corporation 7.75% Notes due 2028,1,XNAS,USA,USD
+GTEC,Greenland Acquisition Corp,1,XNAS,USA,USD
+HAIAW,Healthcare AI Acquisition Corp. Warrants,1,XNAS,USA,USD
+HCP,Hashicorp Inc,1,XNAS,USA,USD
+SELX,Semilux International Ltd. Ordinary Shares,1,XNAS,USA,USD
+SEQL,SeqLL Inc.,1,XNAS,USA,USD
+SLAMU,Slam Corp,1,XNAS,USA,USD
+SNCY,Sun Country Airlines Holdings Inc,1,XNAS,USA,USD
+SNDL,SNDL Inc.,1,XNAS,USA,USD
+SOGP,Lizhi Inc,1,XNAS,USA,USD
+SOND,Sonder Holdings Inc,1,XNAS,USA,USD
+SQLLW,SeqLL Inc. Warrant,1,XNAS,USA,USD
+SRTS,Sensus Healthcare Inc,1,XNAS,USA,USD
+STCN,Steel Connect Inc,1,XNAS,USA,USD
+STRC,Sarcos Technology and Robotics,1,XNAS,USA,USD
+SVRE,SaverOne 2014 Ltd. American Depositary Shares,1,XNAS,USA,USD
+SWKS,Skyworks Solutions Inc,1,XNAS,USA,USD
+TEM,"Tempus AI, Inc. Class A Common Stock",1,XNAS,USA,USD
+TMCI,Treace Medical Concepts Inc,1,XNAS,USA,USD
+TNYA,Tenaya Therapeutics Inc,1,XNAS,USA,USD
+TOI,Oncology Institute Inc,1,XNAS,USA,USD
+TREE,Lendingtree Inc,1,XNAS,USA,USD
+TTNP,Titan Pharmaceuticals Inc,1,XNAS,USA,USD
+HQI,Hirequest Inc,1,XNAS,USA,USD
+HUDA,Hudson Acquisition I Corp. Common Stock,1,XNAS,USA,USD
+ICMB,Investcorp Credit Management BDC Inc,1,XNAS,USA,USD
+IDXX,IDEXX Laboratories Inc,1,XNAS,USA,USD
+IMAQR,International Media Acquisition Corp. Rights,1,XNAS,USA,USD
+ISRG,Intuitive Surgical Inc,1,XNAS,USA,USD
+TYGO,Tigo Energy Inc.,1,XNAS,USA,USD
+USCTF,Roth CH Acquisition Co.,1,XNAS,USA,USD
+VACHW,VACHW,1,XNAS,USA,USD
+VSME,VS Media Holdings Limited Class A Ordinary Shares,1,XNAS,USA,USD
+VSTA,Vasta Platform Ltd,1,XNAS,USA,USD
+WBA,Walgreens Boots Alliance Inc,1,XNAS,USA,USD
+WINA,Winmark Corporation,1,XNAS,USA,USD
+WLGS,"Wang & Lee Group, Inc. Ordinary Shares",1,XNAS,USA,USD
+WTER,Alkaline Water Company Inc,1,XNAS,USA,USD
+WULF,Terawulf Inc,1,XNAS,USA,USD
+WWD,Woodward Inc,1,XNAS,USA,USD
+YIBO,Planet Image International Limited Class A Ordinary Shares,1,XNAS,USA,USD
+ABAT,American Battery Technology Company Common Stock,1,XNAS,USA,USD
+ACT,Enact Holdings Inc,1,XNAS,USA,USD
+AEMD,Aethlon Medical Inc,1,XNAS,USA,USD
+AILEW,"iLearningEngines, Inc.",1,XNAS,USA,USD
+ALCYU,Alchemy Investments Acquisition Corp 1 Units,1,XNAS,USA,USD
+ALHC,Alignment Healthcare LLC,1,XNAS,USA,USD
+AMKR,Amkor Technology Inc,1,XNAS,USA,USD
+AMPH,Amphastar P,1,XNAS,USA,USD
+ANIX,Anixa Biosciences Inc,1,XNAS,USA,USD
+ANTX,AN2 Therapeutics Inc,1,XNAS,USA,USD
+AVDL,Avadel Pharmaceuticals PLC,1,XNAS,USA,USD
+AWH,Aspira Womens Health Inc,1,XNAS,USA,USD
+BCAX,Bicara Therapeutics Inc. Common Stock,1,XNAS,USA,USD
+BFST,Business First Bancshares Inc,1,XNAS,USA,USD
+BILI,Bilibili Inc,1,XNAS,USA,USD
+BL,Blackline Inc,1,XNAS,USA,USD
+BOCN,Blue Ocean Acquisition Corp,1,XNAS,USA,USD
+BTBDW,BT Brands Inc. Warrant,1,XNAS,USA,USD
+BTM,Bitcoin Depot Inc.,1,XNAS,USA,USD
+KLTO,"Klotho Neurosciences, Inc.",1,XNAS,USA,USD
+LASR,nLIGHT Inc,1,XNAS,USA,USD
+LIANY,LianBio,1,XNAS,USA,USD
+LIFWW,MSP Recovery Inc.,1,XNAS,USA,USD
+LIVN,LivaNova PLC,1,XNAS,USA,USD
+LNZAW,LanzaTech Global Inc.,1,XNAS,USA,USD
+LVROW,Lavoro Limited Warrant,1,XNAS,USA,USD
+MTEK,Maris Tech Ltd,1,XNAS,USA,USD
+MTSI,MACOM Technology Solutions Holdings Inc,1,XNAS,USA,USD
+NFBK,Northfield Bancorp Inc,1,XNAS,USA,USD
+NRIX,Nurix Therapeutics Inc,1,XNAS,USA,USD
+BTOG,Bit Origin Ltd,1,XNAS,USA,USD
+BWAY,Brainsway Ltd,1,XNAS,USA,USD
+CACO,Caravelle International Group Ordinary Shares,1,XNAS,USA,USD
+CARE,Carter Bank and Trust,1,XNAS,USA,USD
+CIGI,Colliers International Group Inc Bats,1,XNAS,USA,USD
+COKE,Coca-Cola Consolidated Inc.,1,XNAS,USA,USD
+COSM,Cosmos Health Inc.,1,XNAS,USA,USD
+CRIS,Curis Inc,1,XNAS,USA,USD
+CSSEN,Chicken Soup for The Soul Entertainment 9 50 Notes due 2025,1,XNAS,USA,USD
+CTRM,Castor Maritime Inc,1,XNAS,USA,USD
+DAVEW,Dave Inc. Warrants,1,XNAS,USA,USD
+DBGI,Digital Brands Group Inc,1,XNAS,USA,USD
+DTSS,Datasea Inc,1,XNAS,USA,USD
+NTWK,NetSol Technologies Inc,1,XNAS,USA,USD
+NVEI,Nuvei Corp,1,XNAS,USA,USD
+NWTNW,NWTN Inc. Warrant,1,XNAS,USA,USD
+OCC,Optical Cable Corporation,1,XNAS,USA,USD
+ODP,ODP Corp,1,XNAS,USA,USD
+ONCO,Onconetix Inc,1,XNAS,USA,USD
+OPI,Office Properties Income Trust,1,XNAS,USA,USD
+OPXS,"Optex Systems Holdings, Inc. Common Stock",1,XNAS,USA,USD
+OSPN,OneSpan Inc,1,XNAS,USA,USD
+OSW,OneSpaWorld Holdings Ltd,1,XNAS,USA,USD
+PALI,Palisade Bio Inc,1,XNAS,USA,USD
+PFBC,Preferred Bank,1,XNAS,USA,USD
+PFIS,Peoples Fin,1,XNAS,USA,USD
+PRFX,Painreform Ltd,1,XNAS,USA,USD
+PTPI,Petros Pharmaceuticals Inc,1,XNAS,USA,USD
+PVBC,Provident Bancorp Inc,1,XNAS,USA,USD
+QDEL,Quidel Corporation,1,XNAS,USA,USD
+RAIL,Freightcar America Inc,1,XNAS,USA,USD
+REFI,Chicago Atlantic Real Estate Finance Inc,1,XNAS,USA,USD
+REGN,Regeneron Pharmaceuticals Inc,1,XNAS,USA,USD
+RFAI,RF Acquisition Corp II Ordinary Shares,1,XNAS,USA,USD
+RGTI,Rigetti Computing Inc,1,XNAS,USA,USD
+RLAY,Relay Therapeutics Inc,1,XNAS,USA,USD
+RUSHB,Rush Enterprises B Inc,1,XNAS,USA,USD
+EBMT,Eagle Bancorp Montana Inc,1,XNAS,USA,USD
+ECDA,ECD Automotive Design Inc,1,XNAS,USA,USD
+ELTX,Elicio Therapeutics Inc.,1,XNAS,USA,USD
+ELUT,Elutia Inc.,1,XNAS,USA,USD
+ELVN,Enliven Therapeutics Inc.,1,XNAS,USA,USD
+EMCGW,Embrace Change Acquisition Corp Warrants,1,XNAS,USA,USD
+EVCM,EverCommerce Inc,1,XNAS,USA,USD
+EVTV,Envirotech Vehicles Inc,1,XNAS,USA,USD
+EXPE,Expedia Group Inc.,1,XNAS,USA,USD
+FGI,FGI Industries Ltd,1,XNAS,USA,USD
+FLEX,Flex Ltd,1,XNAS,USA,USD
+FNKO,Funko Inc,1,XNAS,USA,USD
+FNWD,Finward Bancorp,1,XNAS,USA,USD
+FOSL,Fossil Group Inc,1,XNAS,USA,USD
+FOXF,Fox Factory Holding Corp,1,XNAS,USA,USD
+FYBR,Frontier Communications Parent Inc,1,XNAS,USA,USD
+GAME,GameSquare Holdings Inc.,1,XNAS,USA,USD
+GANX,Gain Therapeutics Inc,1,XNAS,USA,USD
+GCBC,Greene County Bancorp Inc,1,XNAS,USA,USD
+GCMG,GCM Grosvenor Inc,1,XNAS,USA,USD
+GENK,"GEN Restaurant Group, Inc. Class A Common Stock",1,XNAS,USA,USD
+GLSTW,"Global Star Acquisition, Inc. Warrants",1,XNAS,USA,USD
+GMGI,Golden Matrix Group Inc,1,XNAS,USA,USD
+GSHD,Goosehead Insurance Inc,1,XNAS,USA,USD
+HBCP,Home Bancorp Inc,1,XNAS,USA,USD
+HCKT,The Hackett Group Inc,1,XNAS,USA,USD
+RVYL,Ryvyl Inc,1,XNAS,USA,USD
+SENEB,Seneca Foods Corp B,1,XNAS,USA,USD
+SEVN,Seven Hills Realty Trust,1,XNAS,USA,USD
+SGLY,Singularity Future Technology Ltd,1,XNAS,USA,USD
+SHIP,Seanergy Maritime Holdings Corp,1,XNAS,USA,USD
+SLNG,Stabilis Solutions Inc,1,XNAS,USA,USD
+SNES,SenesTech Inc,1,XNAS,USA,USD
+SRZN,Surrozen Inc,1,XNAS,USA,USD
+STBX,Starbox Group Holdings Ltd. Ordinary Shares,1,XNAS,USA,USD
+STRS,Stratus Properties Inc,1,XNAS,USA,USD
+STRT,Strattec Security Corporation,1,XNAS,USA,USD
+SXTC,China SXT Pharmaceuticals Inc,1,XNAS,USA,USD
+SY,So-Young International Inc,1,XNAS,USA,USD
+TCBP,TC BioPharm Holdings PLC,1,XNAS,USA,USD
+THCH,TH International Limited,1,XNAS,USA,USD
+TITN,Titan Machinery Inc,1,XNAS,USA,USD
+TLIS,Talis Biomedical Corp,1,XNAS,USA,USD
+TSCO,Tractor Supply Company,1,XNAS,USA,USD
+TSPH,Tusimple Holdings Inc,1,XNAS,USA,USD
+HEES,H&E Equipment Services Inc,1,XNAS,USA,USD
+HELE,Helen of Troy Ltd,1,XNAS,USA,USD
+HRZN,Horizon Technology Finance,1,XNAS,USA,USD
+HSAI,"Hesai Group American Depositary Share, each ADS represents one Class B ordinary share",1,XNAS,USA,USD
+HWH,HWH International Inc,1,XNAS,USA,USD
+IMVT,Immunovant Inc,1,XNAS,USA,USD
+IOBT,IO Biotech Inc,1,XNAS,USA,USD
+IROHU,Iron Horse Acquisitions Corp. Unit,1,XNAS,USA,USD
+IVVD,Invivyd Inc.,1,XNAS,USA,USD
+JVSA,JV SPAC Acquisition Corp. Class A Ordinary Share,1,XNAS,USA,USD
+KALU,Kaiser Aluminum Corporation,1,XNAS,USA,USD
+KITT,Nauticus Robotics Inc.,1,XNAS,USA,USD
+ULBI,Ultralife Corporation,1,XNAS,USA,USD
+VCICU,Vine Hill Capital Investment Corp. Unit,1,XNAS,USA,USD
+VFF,Village Farms International Inc,1,XNAS,USA,USD
+VICR,Vicor Corporation,1,XNAS,USA,USD
+VISL,Vislink Technologies Inc,1,XNAS,USA,USD
+VLCN,Volcon Inc,1,XNAS,USA,USD
+VOXR,Vox Royalty Corp. Common Stock,1,XNAS,USA,USD
+VUZI,Vuzix Corp Cmn Stk,1,XNAS,USA,USD
+WGSWW,GeneDx Holdings Corp.,1,XNAS,USA,USD
+XRTX,XORTX Therapeutics Inc,1,XNAS,USA,USD
+YTEN,Yield10 Bioscience Inc,1,XNAS,USA,USD
+YTRA,Yatra Online Inc,1,XNAS,USA,USD
+ZAPP,Zapp Electric Vehicles Group Limited Ordinary Shares,1,XNAS,USA,USD
+ZEUS,Olympic Steel Inc,1,XNAS,USA,USD
+ZOOZW,ZOOZ Power Ltd. Warrant,1,XNAS,USA,USD
+ABLLW,Abacus Life Inc.,1,XNAS,USA,USD
+ACIC,American Coastal Insurance Corp,1,XNAS,USA,USD
+AERTW,Aeries Technology Inc.,1,XNAS,USA,USD
+AIMAW,Aimfinity Investment Corp. I Warrant,1,XNAS,USA,USD
+AONC,American Oncology Network Inc.,1,XNAS,USA,USD
+APA,APA Corporation,1,XNAS,USA,USD
+APCX,Apptech Corp,1,XNAS,USA,USD
+APLM,Apollomics Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+ARCT,Arcturus Therapeutics Holdings Inc,1,XNAS,USA,USD
+ASPS,Altisource Portfolio Solutions SA,1,XNAS,USA,USD
+AVNW,Aviat Networks Inc,1,XNAS,USA,USD
+AVPTW,AvePoint Inc,1,XNAS,USA,USD
+AWIN,AERWINS Technologies Inc.,1,XNAS,USA,USD
+BAFN,Bayfirst Financial Corp,1,XNAS,USA,USD
+BCBP,BCB Bancorp Inc,1,XNAS,USA,USD
+BKHAU,Black Hawk Acquisition Corporation Units,1,XNAS,USA,USD
+KRT,Karat Packaging Inc,1,XNAS,USA,USD
+KRUS,Kura Sushi USA Inc,1,XNAS,USA,USD
+LAND,Gladstone Land Corporation,1,XNAS,USA,USD
+LBTYK,Liberty Global PLC Class C,1,XNAS,USA,USD
+LVRO,Lavoro Limited Class A Ordinary Shares,1,XNAS,USA,USD
+MDAI,Spectral AI Inc.,1,XNAS,USA,USD
+MDB,MongoDB,1,XNAS,USA,USD
+MEDP,Medpace Holdings Inc,1,XNAS,USA,USD
+MELI,MercadoLibre Inc.,1,XNAS,USA,USD
+MMVWW,MultiMetaVerse Holdings Limited,1,XNAS,USA,USD
+MRNA,Moderna Inc,1,XNAS,USA,USD
+MTC,MMTEC Inc,1,XNAS,USA,USD
+NB,NioCorp Developments Ltd. Common Stock,1,XNAS,USA,USD
+NEON,Neonode Inc,1,XNAS,USA,USD
+NEOV,NeoVolta Inc. Common Stock,1,XNAS,USA,USD
+NFYS-UN,Enphys Acquisition Corp.,1,XNAS,USA,USD
+NICK,Nicholas Financial Inc,1,XNAS,USA,USD
+NMHIW,Nature's Miracle Holding Inc. Warrants,1,XNAS,USA,USD
+NMSSX,NMSSX,1,XNAS,USA,USD
+NTRA,Natera Inc,1,XNAS,USA,USD
+BYSI,BeyondSpring Inc,1,XNAS,USA,USD
+CAFLX,CAFLX,1,XNAS,USA,USD
+CAMPQ,CalAmp Corp.,1,XNAS,USA,USD
+CGNX,Cognex Corporation,1,XNAS,USA,USD
+CITEW,Cartica Acquisition Corp Warrant,1,XNAS,USA,USD
+COOT,Australian Oilseeds Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+CRMT,Americas Car-Mart Inc,1,XNAS,USA,USD
+CRON,Cronos Group Inc,1,XNAS,USA,USD
+CRVO,CervoMed Inc.,1,XNAS,USA,USD
+DALN,Dallasnews Corp,1,XNAS,USA,USD
+DCFWQ,Tritium DCFC Limited,1,XNAS,USA,USD
+DCOMG,"Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",1,XNAS,USA,USD
+DGICA,Donegal Group A Inc,1,XNAS,USA,USD
+NUKKW,Nukkleus Inc,1,XNAS,USA,USD
+NVOS,Novo Integrated Sciences Inc,1,XNAS,USA,USD
+NXLIW,Nexalin Technology Inc,1,XNAS,USA,USD
+OPAL,OPAL Fuels Inc,1,XNAS,USA,USD
+ORRF,Orrstown Financial Services Inc,1,XNAS,USA,USD
+PANL,Pangaea Logistic,1,XNAS,USA,USD
+PCT,Purecycle Technologies Holdings Corp,1,XNAS,USA,USD
+PCTTW,PureCycle Technologies Inc,1,XNAS,USA,USD
+PECO,Phillips Edison & Co Inc,1,XNAS,USA,USD
+PENN,Penn National Gaming Inc,1,XNAS,USA,USD
+PMBS,PIMCO Mortgage-Backed Securities Active Exchange-Traded Fund,1,XNAS,USA,USD
+PMN,ProMIS Neurosciences Inc.,1,XNAS,USA,USD
+PNFP,Pinnacle Financial Partners Inc,1,XNAS,USA,USD
+PRE,Prenetics Global Ltd,1,XNAS,USA,USD
+PSEC,Prospect Capital Corporation,1,XNAS,USA,USD
+PZZA,Papa John's International Inc,1,XNAS,USA,USD
+QFIN,360 Finance Inc,1,XNAS,USA,USD
+QRHC,Quest Resource Holding Corp,1,XNAS,USA,USD
+QTRX,Quanterix Corp,1,XNAS,USA,USD
+RCM,R1 RCM Inc,1,XNAS,USA,USD
+RDWR,Radware Ltd,1,XNAS,USA,USD
+RRR,Red Rock Resorts Inc,1,XNAS,USA,USD
+RTC,Baijiayun Group Ltd,1,XNAS,USA,USD
+EDTK,Skillful Craftsman Education Tech,1,XNAS,USA,USD
+EFSC,Enterprise Financial Services,1,XNAS,USA,USD
+EKSO,Ekso Bionics Holdings Inc,1,XNAS,USA,USD
+ELTK,Eltek Ltd,1,XNAS,USA,USD
+EPSN,Epsilon Energy Ltd,1,XNAS,USA,USD
+FEMY,Femasys Inc,1,XNAS,USA,USD
+FGBI,First Guaranty Bancshares Inc,1,XNAS,USA,USD
+FORTY,Formula Systems 1985 Ltd ADR,1,XNAS,USA,USD
+FRMEP,First Merchants Corporation Depository Shares,1,XNAS,USA,USD
+FRPT,Freshpet Inc,1,XNAS,USA,USD
+FTAI,Fortress Transp & Infra Inv,1,XNAS,USA,USD
+GDHG,Golden Heaven Group Holdings Ltd. Ordinary Shares,1,XNAS,USA,USD
+GILT,Gilat Satellite Networks Ltd,1,XNAS,USA,USD
+GLLI,Globalink Investment Inc,1,XNAS,USA,USD
+GLST,"Global Star Acquisition, Inc. Class A Common Stock",1,XNAS,USA,USD
+GODN,Golden Star Acquisition Corporation Ordinary Shares,1,XNAS,USA,USD
+GREE,Greenidge Generation Holdings Inc,1,XNAS,USA,USD
+SAVA,Cassava Sciences Inc,1,XNAS,USA,USD
+SEER,Seer Inc,1,XNAS,USA,USD
+SFWL,Shengfeng Development Limited Class A Ordinary Shares,1,XNAS,USA,USD
+SGHT,Sight Sciences Inc,1,XNAS,USA,USD
+SIENQ,Sientra Inc,1,XNAS,USA,USD
+SITM,Sitime Corporation,1,XNAS,USA,USD
+SLP,Simulations Plus Inc,1,XNAS,USA,USD
+SMTC,Semtech Corporation,1,XNAS,USA,USD
+SNFCA,Security National Financial,1,XNAS,USA,USD
+SNTI,Senti Biosciences Inc,1,XNAS,USA,USD
+SOHU,Sohu.Com Inc,1,XNAS,USA,USD
+SRAX,SRAX Inc,1,XNAS,USA,USD
+SWBI,Smith & Wesson Brands Inc,1,XNAS,USA,USD
+SWKH,SWK Holdings Corp,1,XNAS,USA,USD
+SYTA,Siyata Mobile Inc,1,XNAS,USA,USD
+TCON,TRACON Pharmaceuticals Inc,1,XNAS,USA,USD
+TIGR,Up Fintech Holding Ltd,1,XNAS,USA,USD
+TLGY,TLGY Acquisition Corp,1,XNAS,USA,USD
+TRUP,Trupanion Inc,1,XNAS,USA,USD
+HSII,Heidrick & Struggles International,1,XNAS,USA,USD
+HSTM,HealthStream Inc,1,XNAS,USA,USD
+HTOO,Fusion Fuel Green PLC,1,XNAS,USA,USD
+HUDI,Huadi International Group Co Ltd,1,XNAS,USA,USD
+IBOC,International Bancshares Corporation,1,XNAS,USA,USD
+IDN,Intellicheck Mobilisa Inc,1,XNAS,USA,USD
+ILPT,Industrial Logistics Properties Trust,1,XNAS,USA,USD
+INAQ,Insight Acquisition Corp. Class A Common Stock,1,XNAS,USA,USD
+INTC,Intel Corporation,1,XNAS,USA,USD
+INTR,Inter & Co. Inc. Class A Common Shares,1,XNAS,USA,USD
+ITRI,Itron Inc,1,XNAS,USA,USD
+JCSE,JE Cleantech Holdings Ltd,1,XNAS,USA,USD
+KALA,Kala Pharmaceuticals Inc,1,XNAS,USA,USD
+TW,Tradeweb Markets Inc,1,XNAS,USA,USD
+UPXI,Upexi Inc.,1,XNAS,USA,USD
+USCB,US Century Bank,1,XNAS,USA,USD
+USEA,United Maritime Corporation,1,XNAS,USA,USD
+VEV,Vicinity Motor Corp,1,XNAS,USA,USD
+VSEE,"VSee Health, Inc.",1,XNAS,USA,USD
+WBTN,WEBTOON Entertainment Inc. Common stock,1,XNAS,USA,USD
+WEST,Westrock Coffee Company,1,XNAS,USA,USD
+ZURA,Zura Bio Limited Class A Ordinary Shares,1,XNAS,USA,USD
+ZYXI,Zynex Inc,1,XNAS,USA,USD
+AAPL,Apple Inc,1,XNAS,USA,USD
+ABL,Abacus Life Inc.,1,XNAS,USA,USD
+ABLLL,Abacus Life Inc. 9.875% Fixed Rate Senior Notes due 2028,1,XNAS,USA,USD
+ACHC,Acadia Healthcare Company Inc,1,XNAS,USA,USD
+ADD,Color Star Technology Co. Ltd.,1,XNAS,USA,USD
+AMPG,Amplitech Group Inc,1,XNAS,USA,USD
+BCGWW,"Binah Capital Group, Inc. Warrants",1,XNAS,USA,USD
+BCOV,Brightcove Inc,1,XNAS,USA,USD
+BGXX,Bright Green Corp,1,XNAS,USA,USD
+BIOX,Bioceres Crop Solutions Corp,1,XNAS,USA,USD
+BLIN,Bridgeline Digital Inc,1,XNAS,USA,USD
+BNZI,Banzai International Inc,1,XNAS,USA,USD
+BON,Bon Natural Life Ltd,1,XNAS,USA,USD
+BRKHW,BurTech Acquisition Corp. Warrants,1,XNAS,USA,USD
+BRLS,Borealis Foods Inc.,1,XNAS,USA,USD
+BTDR,Bitdeer Technologies Group Class A Ordinary Shares,1,XNAS,USA,USD
+KSCP,Knightscope Inc,1,XNAS,USA,USD
+LCID,Lucid Group Inc,1,XNAS,USA,USD
+LIQT,LiqTech International Inc,1,XNAS,USA,USD
+LITM,Snow Lake Resources Ltd,1,XNAS,USA,USD
+LNW,Light & Wonder Inc,1,XNAS,USA,USD
+LOGC,Contextlogic Inc,1,XNAS,USA,USD
+LPAAW,Launch One Acquisition Corp. Warrant,1,XNAS,USA,USD
+LUCY,Innovative Eyewear Inc.,1,XNAS,USA,USD
+MIND,Mind Technology Inc,1,XNAS,USA,USD
+MMV,MultiMetaVerse Holdings Limited,1,XNAS,USA,USD
+MNTK,Montauk Renewables Inc,1,XNAS,USA,USD
+MNYWW,MoneyHero Limited Warrants,1,XNAS,USA,USD
+MRUS,Merus BV,1,XNAS,USA,USD
+MSSA,Metal Sky Star Acquisition Corporation Ordinary shares,1,XNAS,USA,USD
+MSTR,MicroStrategy Incorporated,1,XNAS,USA,USD
+NAUT,Nautilus Biotechnology Inc,1,XNAS,USA,USD
+NBIX,Neurocrine Biosciences Inc,1,XNAS,USA,USD
+NDLS,Noodles & Company,1,XNAS,USA,USD
+NERV,Minerva Neurosciences Inc,1,XNAS,USA,USD
+NHYEX,NHYEX,1,XNAS,USA,USD
+NMHI,Nature's Miracle Holding Inc. Common Stock,1,XNAS,USA,USD
+NTGR,NETGEAR Inc,1,XNAS,USA,USD
+CACC,Credit Acceptance Corporation,1,XNAS,USA,USD
+CCIRU,CCIRU,1,XNAS,USA,USD
+CGABL,The Carlyle Group Inc. 4.625% Subordinated Notes due 2061,1,XNAS,USA,USD
+CING,Cingulate Inc,1,XNAS,USA,USD
+CLOV,Clover Health Investments Corp,1,XNAS,USA,USD
+CMBM,Cambium Networks Corp,1,XNAS,USA,USD
+CMPO,CompoSecure Inc,1,XNAS,USA,USD
+CMRA,Comera Life Sciences Holdings Inc,1,XNAS,USA,USD
+CNTY,Century Casinos Inc,1,XNAS,USA,USD
+COLB,Columbia Banking System Inc,1,XNAS,USA,USD
+CROX,Crocs Inc,1,XNAS,USA,USD
+CTOR,"Citius Oncology, Inc.",1,XNAS,USA,USD
+CVLT,CommVault Systems Inc,1,XNAS,USA,USD
+CYAN,Cyanotech Corporation,1,XNAS,USA,USD
+DAIO,Data I/O Corporation,1,XNAS,USA,USD
+DCGO,DocGo Inc,1,XNAS,USA,USD
+DLO,Dlocal Ltd,1,XNAS,USA,USD
+DMLP,Dorchester Minerals LP,1,XNAS,USA,USD
+DOGZ,Dogness International Corp Class A,1,XNAS,USA,USD
+DRMAW,Dermata Therapeutics Inc. Warrant,1,XNAS,USA,USD
+OABIW,OmniAb Inc.,1,XNAS,USA,USD
+OMEX,Odyssey Marine Exploration Inc,1,XNAS,USA,USD
+ONB,Old National Bancorp,1,XNAS,USA,USD
+OXBR,Oxbridge Re Holdings Ltd,1,XNAS,USA,USD
+PHIO,Phio Pharmaceuticals Corp,1,XNAS,USA,USD
+PLXS,Plexus Corp,1,XNAS,USA,USD
+PNBK,Patriot National Bancorp Inc,1,XNAS,USA,USD
+PROK,ProKidney Corp.,1,XNAS,USA,USD
+PRST,Presto Automation Inc.,1,XNAS,USA,USD
+PTEN,Patterson-UTI Energy Inc,1,XNAS,USA,USD
+QLTY,Quality Distribution Inc,1,XNAS,USA,USD
+QSI,QuantumSi Inc,1,XNAS,USA,USD
+RAY,Raytech Holding Limited Ordinary Shares,1,XNAS,USA,USD
+RDACU,RDACU,1,XNAS,USA,USD
+RDVT,Red Violet Inc,1,XNAS,USA,USD
+RENE,Cartesian Growth Corporation II Class A Ordinary Shares,1,XNAS,USA,USD
+REYN,Reynolds Consumer Products Inc,1,XNAS,USA,USD
+RGC,Regencell Bioscience Holdings Ltd,1,XNAS,USA,USD
+ROMA,Roma Green Finance Limited Ordinary Shares,1,XNAS,USA,USD
+RUMBW,Rumble Inc.,1,XNAS,USA,USD
+EGIO,Edgio Inc,1,XNAS,USA,USD
+EH,Ehang Holdings Ltd,1,XNAS,USA,USD
+ERIE,Erie Indemnity Company,1,XNAS,USA,USD
+ESEA,Euroseas Ltd,1,XNAS,USA,USD
+EXPO,Exponent Inc,1,XNAS,USA,USD
+FBNC,First Bancorp,1,XNAS,USA,USD
+FINW,Finwise Bancorp,1,XNAS,USA,USD
+FMST,Foremost Lithium Resource & Technology Ltd. Common stock,1,XNAS,USA,USD
+GLBE,Global-E Online Ltd,1,XNAS,USA,USD
+GOSS,Gossamer Bio Inc,1,XNAS,USA,USD
+GREEL,Greenidge Generation Holdings Inc. 8.50% Senior Notes due 2026,1,XNAS,USA,USD
+GRI,GRI Bio Inc.,1,XNAS,USA,USD
+GSIW,Garden Stage Limited Ordinary Shares,1,XNAS,USA,USD
+GTAC,Global Technology Acquisition Corp I,1,XNAS,USA,USD
+RXST,Rxsight Inc,1,XNAS,USA,USD
+SABSW,SAB Biotherapeutics Inc,1,XNAS,USA,USD
+SAIA,Saia Inc,1,XNAS,USA,USD
+SAIHW,SAIHEAT Limited,1,XNAS,USA,USD
+SBLK,Star Bulk Carriers Corp,1,XNAS,USA,USD
+SBUX,Starbucks Corporation,1,XNAS,USA,USD
+SGA,Saga Communications Inc,1,XNAS,USA,USD
+SLM,SLM Corp,1,XNAS,USA,USD
+SNAXW,Stryve Foods Inc,1,XNAS,USA,USD
+SOUN,SoundHound AI Inc,1,XNAS,USA,USD
+SSBI,Summit State Bank,1,XNAS,USA,USD
+SWKHL,SWK Holdings Corporation 9.00% Senior Notes due 2027,1,XNAS,USA,USD
+TANH,Tantech Holdings Ltd,1,XNAS,USA,USD
+TILE,Interface Inc,1,XNAS,USA,USD
+TPCS,TechPrecision Corporation Common stock,1,XNAS,USA,USD
+TRINI,Trinity Capital Inc. 7.875% Notes Due 2029,1,XNAS,USA,USD
+TRNS,Transcat Inc,1,XNAS,USA,USD
+HTBK,Heritage Commerce Corp,1,XNAS,USA,USD
+HTOOW,Fusion Fuel Green PLC,1,XNAS,USA,USD
+IMOS,ChipMOS Technologies Inc,1,XNAS,USA,USD
+INVO,INVO Bioscience Inc,1,XNAS,USA,USD
+INVZW,Innoviz Technologies Ltd,1,XNAS,USA,USD
+IPA,Immunoprecise Antibodies Ltd,1,XNAS,USA,USD
+IVCAW,Investcorp India Acquisition Corp. Warrant,1,XNAS,USA,USD
+UKOMW,Ucommune International Ltd,1,XNAS,USA,USD
+VERO,Venus Concept Inc,1,XNAS,USA,USD
+VGASW,Verde Clean Fuels Inc.,1,XNAS,USA,USD
+VNET,VNET Group Inc DRC,1,XNAS,USA,USD
+VRAR,Glimpse Group Inc,1,XNAS,USA,USD
+VSAC,Vision Sensing Acquisition Corp,1,XNAS,USA,USD
+WFRD,Weatherford International PLC,1,XNAS,USA,USD
+XBIT,XBiotech Inc,1,XNAS,USA,USD
+XHG,XChange TEC.INC,1,XNAS,USA,USD
+YXT,YXT.COM GROUP HOLDING LIMITED American Depository Shares,1,XNAS,USA,USD
+ABLVW,Able View Global Inc. Warrant,1,XNAS,USA,USD
+ABTS,Abits Group Inc.,1,XNAS,USA,USD
+ACDC,ProFrac Holding Corp.,1,XNAS,USA,USD
+ACRV,"Acrivon Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+ADAG,Adagene Inc,1,XNAS,USA,USD
+ADEA,ADEIA CORP,1,XNAS,USA,USD
+ADN,Advent Technologies Holdings Inc,1,XNAS,USA,USD
+ADVWW,Advantage Solutions Inc,1,XNAS,USA,USD
+AFCG,AFC Gamma Inc,1,XNAS,USA,USD
+AGIO,Agios Pharm,1,XNAS,USA,USD
+AKAM,Akamai Technologies Inc,1,XNAS,USA,USD
+AKTS,Akoustis Technologies Inc,1,XNAS,USA,USD
+ARHS,Arhaus Inc,1,XNAS,USA,USD
+ARQQ,Arqit Quantum Inc,1,XNAS,USA,USD
+ARTV,"Artiva Biotherapeutics, Inc. Common Stock",1,XNAS,USA,USD
+ASCB,A SPAC II Acquisition Corp. Ordinary Shares,1,XNAS,USA,USD
+ASTI,"Ascent Solar Technologies, Inc. Common Stock",1,XNAS,USA,USD
+ATMC,AlphaTime Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+ATMVR,AlphaVest Acquisition Corp Right,1,XNAS,USA,USD
+BAYA,Bayview Acquisition Corp Class A Ordinary Shares,1,XNAS,USA,USD
+BGFV,Big 5 Sporting Goods Corporation,1,XNAS,USA,USD
+BHACW,Crixus BH3 Acquisition Company Warrants,1,XNAS,USA,USD
+BLZE,Backblaze Inc,1,XNAS,USA,USD
+BOCNW,Blue Ocean Acquisition Corp Warrants,1,XNAS,USA,USD
+BRAG,Bragg Gaming Group Inc,1,XNAS,USA,USD
+BROG,Brooge Holdings Ltd,1,XNAS,USA,USD
+BTAI,BioXcel Therapeutics Inc,1,XNAS,USA,USD
+KPLT,Katapult Holdings Inc,1,XNAS,USA,USD
+LMDWF,LumiraDx Limited,1,XNAS,USA,USD
+LSTR,Landstar System Inc,1,XNAS,USA,USD
+MBOT,Microbot Medical Inc,1,XNAS,USA,USD
+MBRX,Moleculin Biotech Inc,1,XNAS,USA,USD
+MCAG,Mountain Crest Acquisition Corp V,1,XNAS,USA,USD
+MGX,"Metagenomi, Inc. Common Stock",1,XNAS,USA,USD
+MODD,Modular Medical Inc,1,XNAS,USA,USD
+MODV,ModivCare Inc,1,XNAS,USA,USD
+MRX,Marex Group plc Ordinary Shares,1,XNAS,USA,USD
+NOVV,Nova Vision Acquisition Corp,1,XNAS,USA,USD
+BWMX,"Betterware de MÃ©xico, S.A.P.I. de C.V.",1,XNAS,USA,USD
+BYU,BAIYU Holdings Inc.,1,XNAS,USA,USD
+BZFDW,BuzzFeed,1,XNAS,USA,USD
+CENX,Century Aluminum Company,1,XNAS,USA,USD
+CGBDL,Carlyle Secured Lending Inc. 8.20% Notes due 2028,1,XNAS,USA,USD
+CLBT,Cellebrite DI,1,XNAS,USA,USD
+CLVV,Clever Leaves Holdings Inc.,1,XNAS,USA,USD
+CME,CME Group Inc,1,XNAS,USA,USD
+COEPW,Coeptis Therapeutics Holdings Inc,1,XNAS,USA,USD
+CREG,Smart Powerr Corp,1,XNAS,USA,USD
+CRTO,Criteo Sa,1,XNAS,USA,USD
+CXDO,Crexendo Inc,1,XNAS,USA,USD
+CYCC,Cyclacel Pharmaceuticals Inc,1,XNAS,USA,USD
+CYTK,Cytokinetics Inc,1,XNAS,USA,USD
+DARE,Dare Bioscience Inc,1,XNAS,USA,USD
+DBX,Dropbox Inc,1,XNAS,USA,USD
+DLHC,DLH Holdings Corp,1,XNAS,USA,USD
+DOMH,Dominari Holdings Inc.,1,XNAS,USA,USD
+DTSTW,Data Storage Corporation,1,XNAS,USA,USD
+OCCI,OFS Credit Company Inc,1,XNAS,USA,USD
+OFIX,Orthofix Medical Inc,1,XNAS,USA,USD
+ORMP,Oramed Pharmaceuticals Inc,1,XNAS,USA,USD
+OUST-WT,Ouster Inc.,1,XNAS,USA,USD
+OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,1,XNAS,USA,USD
+PATK,Patrick Industries Inc,1,XNAS,USA,USD
+PBM,Psyence Biomedical Ltd. Common Shares,1,XNAS,USA,USD
+PCYG,Park City Group Inc,1,XNAS,USA,USD
+PLYA,Playa Hotels & Resorts BV,1,XNAS,USA,USD
+PPBI,Pacific Premier Bancorp Inc,1,XNAS,USA,USD
+PPBT,Purple Biotech,1,XNAS,USA,USD
+PPIH,Perma-Pipe International Holdings Inc,1,XNAS,USA,USD
+PPSI,Pioneer Power Solutions Inc. ,1,XNAS,USA,USD
+PRPO,Precipio Inc,1,XNAS,USA,USD
+PYCR,Paycor HCM Inc,1,XNAS,USA,USD
+RAPT,RAPT Therapeutics Inc,1,XNAS,USA,USD
+RCKT,Rocket Pharmaceuticals Inc,1,XNAS,USA,USD
+RGEN,Repligen Corporation,1,XNAS,USA,USD
+RIBT,Ricebran Tech,1,XNAS,USA,USD
+EMFLX,EMFLX,1,XNAS,USA,USD
+ESLAW,Estrella Immunopharma Inc.,1,XNAS,USA,USD
+EVRG,"Evergy, Inc.",1,XNAS,USA,USD
+FDBC,Fidelity D&D Bancorp Inc,1,XNAS,USA,USD
+FUND,Sprott Focus Trust,1,XNAS,USA,USD
+GLXG,Galaxy Payroll Group Limited Ordinary Shares,1,XNAS,USA,USD
+GMDAQ,Gamida Cell Ltd,1,XNAS,USA,USD
+GOGO,Gogo Inc,1,XNAS,USA,USD
+GSUN,Golden Sun Education Group Ltd,1,XNAS,USA,USD
+GTLB,Gitlab Inc,1,XNAS,USA,USD
+SATS,EchoStar Corporation,1,XNAS,USA,USD
+SEAT,Vivid Seats Inc,1,XNAS,USA,USD
+SGMT,Sagimet Biosciences Inc. Series A Common Stock,1,XNAS,USA,USD
+SHCR,Sharecare Inc,1,XNAS,USA,USD
+SHPWQ,"Shapeways Holdings, Inc",1,XNAS,USA,USD
+SLNAF,Selina Hospitality PLC,1,XNAS,USA,USD
+SLRN,"ACELYRIN, INC. Common Stock",1,XNAS,USA,USD
+SNT,Senstar Technologies Ltd,1,XNAS,USA,USD
+SNTG,Sentage Holdings Inc,1,XNAS,USA,USD
+SONN,Sonnet Biotherapeutics Holdings Inc,1,XNAS,USA,USD
+SOTK,Sono-Tek Corp,1,XNAS,USA,USD
+SRCE,1st Source Corporation,1,XNAS,USA,USD
+SSTI,Shotspotter Inc,1,XNAS,USA,USD
+STAA,STAAR Surgical Company,1,XNAS,USA,USD
+STKL,SunOpta Inc.,1,XNAS,USA,USD
+STTK,Shattuck Labs Inc,1,XNAS,USA,USD
+STX,Seagate Technology PLC,1,XNAS,USA,USD
+SUGP,SU Group Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+SVCO,"Silvaco Group, Inc. Common Stock",1,XNAS,USA,USD
+SXTPW,"60 Degrees Pharmaceuticals, Inc. Warrant",1,XNAS,USA,USD
+SYM,Symbotic Inc,1,XNAS,USA,USD
+SYRA,Syra Health Corp. Class A Common Stock,1,XNAS,USA,USD
+TECH,Bio-Techne Corp,1,XNAS,USA,USD
+TELO,"Telomir Pharmaceuticals, Inc. Common Stock",1,XNAS,USA,USD
+TOPS,TOP Ships Inc.,1,XNAS,USA,USD
+TRKAQ,Troika Media Group Inc,1,XNAS,USA,USD
+TSVT,2Seventy Bio Inc,1,XNAS,USA,USD
+TTSH,Tile Shop Holdings Inc,1,XNAS,USA,USD
+HMNF,HMN Financial Inc,1,XNAS,USA,USD
+HROWM,Harrow Health Inc. 11.875% Senior Notes due 2027,1,XNAS,USA,USD
+HTLM,HomesToLife Ltd,1,XNAS,USA,USD
+ICAD,icad inc,1,XNAS,USA,USD
+ICCT,iCoreConnect Inc. Common stock,1,XNAS,USA,USD
+IFRX,InflaRx N.V.,1,XNAS,USA,USD
+IPSC,Century Therapeutics Inc,1,XNAS,USA,USD
+IRIX,IRIDEX Corporation,1,XNAS,USA,USD
+KAVL,Kaival Brands Innovations Group Inc,1,XNAS,USA,USD
+UHG,United Homes Group Inc.,1,XNAS,USA,USD
+VBIVQ,VBI Vaccines Inc.,1,XNAS,USA,USD
+VCSA,Vacasa Inc,1,XNAS,USA,USD
+WERN,Werner Enterprises Inc,1,XNAS,USA,USD
+WTO,UTime Limited,1,XNAS,USA,USD
+XNCR,Xencor Inc,1,XNAS,USA,USD
+YOTA,Yotta Acquisition Corporation Common Stock,1,XNAS,USA,USD
+ACIW,ACI Worldwide Inc,1,XNAS,USA,USD
+ADIL,Adial Pharmaceuticals Inc,1,XNAS,USA,USD
+AFJKR,"Aimei Health Technology Co., Ltd Right",1,XNAS,USA,USD
+AFMD,Affimed NV,1,XNAS,USA,USD
+ALCE,Alternus Energy Group Plc,1,XNAS,USA,USD
+ALEC,Alector Inc,1,XNAS,USA,USD
+ANAB,AnaptysBio Inc,1,XNAS,USA,USD
+ANIK,Anika Therapeutics Inc,1,XNAS,USA,USD
+APGE,"Apogee Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+ARBEW,Arbe Robotics Ltd. Warrant,1,XNAS,USA,USD
+ASTS,Ast Spacemobile Inc,1,XNAS,USA,USD
+ATAI,ATAI Life Sciences BV,1,XNAS,USA,USD
+ATMCR,AlphaTime Acquisition Corp Right,1,XNAS,USA,USD
+AVO,Mission Produce Inc,1,XNAS,USA,USD
+AZN,AstraZeneca PLC ADR,1,XNAS,USA,USD
+BCEL,Atreca Inc,1,XNAS,USA,USD
+BGNE,BeiGene Ltd,1,XNAS,USA,USD
+BIRD,Allbirds Inc,1,XNAS,USA,USD
+BOXL,Boxlight Corp Class A,1,XNAS,USA,USD
+BTBD,Bt Brands Inc,1,XNAS,USA,USD
+KLIC,Kulicke and Soffa Industries Inc,1,XNAS,USA,USD
+KRMD,Repro Med Systems Inc,1,XNAS,USA,USD
+LANC,Lancaster Colony Corporation,1,XNAS,USA,USD
+LKFN,Lakeland Financial Corporation,1,XNAS,USA,USD
+LKQ,LKQ Corporation,1,XNAS,USA,USD
+LNT,Alliant Energy Corp,1,XNAS,USA,USD
+LNTH,Lantheus Holdings Inc,1,XNAS,USA,USD
+LNZA,LanzaTech Global Inc.,1,XNAS,USA,USD
+LRCX,Lam Research Corp,1,XNAS,USA,USD
+LSBPW,"LakeShore Biopharma Co., Ltd",1,XNAS,USA,USD
+LUNR,Intuitive Machines Inc. ,1,XNAS,USA,USD
+MAMO,Massimo Group Common Stock,1,XNAS,USA,USD
+MBCN,Middlefield Banc,1,XNAS,USA,USD
+MDRX,Veradigm Inc.,1,XNAS,USA,USD
+META,Meta Platforms Inc.,1,XNAS,USA,USD
+MFI,mF International Limited Ordinary Shares,1,XNAS,USA,USD
+MFIC,MidCap Financial Investment Corporation,1,XNAS,USA,USD
+MKTW,Marketwise Inc,1,XNAS,USA,USD
+MNRO,Monro Muffler Brake Inc,1,XNAS,USA,USD
+NBSTW,Newbury Street Acquisition Corporation,1,XNAS,USA,USD
+NCI,Neo-Concept International Group Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+NEPTF,Neptune Wellness Solutions Inc,1,XNAS,USA,USD
+NOTV,Inotiv Inc,1,XNAS,USA,USD
+CFLT,Confluent Inc,1,XNAS,USA,USD
+CGBS,Crown LNG Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+CLPT,Clearpoint Neuro Inc,1,XNAS,USA,USD
+COCO,Vita Coco Company Inc,1,XNAS,USA,USD
+CRDO,Credo Technology Group Holding Ltd,1,XNAS,USA,USD
+CRMLW,Critical Metals Corp. Warrants,1,XNAS,USA,USD
+CSBR,Champions Oncology Inc,1,XNAS,USA,USD
+CSTE,Caesarstone Ltd,1,XNAS,USA,USD
+CVGW,Calavo Growers Inc,1,XNAS,USA,USD
+CYCN,Cyclerion Therapeutics Inc,1,XNAS,USA,USD
+CYTH,Cyclo Therapeutics Inc,1,XNAS,USA,USD
+DJCO,Daily Journal Corp,1,XNAS,USA,USD
+EAST,Eastside Distilling Inc,1,XNAS,USA,USD
+NXPL,Nextplat Corp,1,XNAS,USA,USD
+NXTT,Next Technology Holding Inc,1,XNAS,USA,USD
+NYXH,Nyxoah,1,XNAS,USA,USD
+ORGNW,Origin Materials Inc Warrant,1,XNAS,USA,USD
+ORIS,Oriental Rise Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+OSIS,OSI Systems Inc,1,XNAS,USA,USD
+OVID,Ovid Therapeutics Inc,1,XNAS,USA,USD
+OXLCN,Oxford Lane Capital Corp. 7.125% Series 2029 Term Preferred Stock,1,XNAS,USA,USD
+OXSQ,Oxford Square Capital Corp,1,XNAS,USA,USD
+PCSC,Perceptive Capital Solutions Corp Class A Ordinary Shares,1,XNAS,USA,USD
+PHAT,Phathom Pharmaceuticals Inc,1,XNAS,USA,USD
+PLCE,Children’s Place Inc,1,XNAS,USA,USD
+PWM,Prestige Wealth Inc. Ordinary Shares,1,XNAS,USA,USD
+PWOD,Penns Woods Bancorp Inc,1,XNAS,USA,USD
+PXDT,"Pixie Dust Technologies, Inc. American Depositary Shares",1,XNAS,USA,USD
+RAVE,Rave Restaurant Group Inc,1,XNAS,USA,USD
+RCMT,RCM Technologies Inc,1,XNAS,USA,USD
+RGLS,Regulus Therapeutics Inc,1,XNAS,USA,USD
+RILYT,B. Riley Financial Inc. 6.00% Senior Notes Due 2028,1,XNAS,USA,USD
+RMCO,Royalty Management Holding Corporation,1,XNAS,USA,USD
+RR,Richtech Robotics Inc. Class B Common Stock,1,XNAS,USA,USD
+EQIX,Equinix Inc,1,XNAS,USA,USD
+FSLR,First Solar Inc,1,XNAS,USA,USD
+FSTR,LB Foster Company,1,XNAS,USA,USD
+GAUZ,Gauzy Ltd. Ordinary Shares,1,XNAS,USA,USD
+GECCZ,Great Elm Capital Corp. 8.75% Notes due 2028,1,XNAS,USA,USD
+GEGGL,Great Elm Group Inc.  7.25% Notes due 2027,1,XNAS,USA,USD
+GLDD,Great Lakes Dredge & Dock,1,XNAS,USA,USD
+GNTA,Genenta Science SpA ADR,1,XNAS,USA,USD
+GRAB,Grab Holdings Ltd,1,XNAS,USA,USD
+GSDI,Global System Dynamics Inc,1,XNAS,USA,USD
+GWAV,Greenwave Technology Solutions Inc. Common Stock,1,XNAS,USA,USD
+GWRS,Global Water Resources Inc,1,XNAS,USA,USD
+RVMD,Revolution Medicines Inc,1,XNAS,USA,USD
+SBCWW,SBC Medical Group Holdings Incorporated,1,XNAS,USA,USD
+SGC,Superior Uniform Group Inc,1,XNAS,USA,USD
+SGD,Safe and Green Development Corporation,1,XNAS,USA,USD
+SHC,Sotera Health Co,1,XNAS,USA,USD
+SOBR,Sobr Safe Inc,1,XNAS,USA,USD
+SRBK,"SR Bancorp, Inc. Common stock",1,XNAS,USA,USD
+STHO,Star Holdings,1,XNAS,USA,USD
+TALK,Talkspace Inc,1,XNAS,USA,USD
+TAOP,Taoping Inc,1,XNAS,USA,USD
+HHGC,HHG Capital Corp,1,XNAS,USA,USD
+HLVX,Hillevax Inc,1,XNAS,USA,USD
+ICLK,iClick Interactive Asia Group,1,XNAS,USA,USD
+IPWR,Ideal Power Inc,1,XNAS,USA,USD
+IRWD,Ironwood Pharmaceuticals Inc,1,XNAS,USA,USD
+ISRLW,Israel Acquisitions Corp Warrant,1,XNAS,USA,USD
+UCTT,Ultra Clean Holdings Inc,1,XNAS,USA,USD
+UPBD,Upbound Group Inc.,1,XNAS,USA,USD
+VERI,Veritone Inc,1,XNAS,USA,USD
+VMCA,Valuence Merger Corp I,1,XNAS,USA,USD
+VMD,Viemed Healthcare Inc,1,XNAS,USA,USD
+WDAY,Workday Inc,1,XNAS,USA,USD
+WESTW,Westrock Coffee Company LLC,1,XNAS,USA,USD
+WLDN,Willdan Group Inc,1,XNAS,USA,USD
+WPRT,Westport Fuel Systems Inc,1,XNAS,USA,USD
+WRLD,World Acceptance Corporation,1,XNAS,USA,USD
+XOS,Xos Inc,1,XNAS,USA,USD
+YORW,The York Water Company,1,XNAS,USA,USD
+YYGH,YY Group Holding Limited Class A Ordinary Shares,1,XNAS,USA,USD
+ZBIO_old,"Zenas BioPharma, Inc. Common Stock",1,XNAS,USA,USD
+ZIVO,Zivo Bioscience Inc,1,XNAS,USA,USD
+ZJK,ZJK,1,XNAS,USA,USD
+ZVZZT,NASDAQ TEST STOCK,1,XNAS,USA,USD
+AAGR,African Agriculture Holdings Inc.,1,XNAS,USA,USD
+ACIU,AC Immune Ltd,1,XNAS,USA,USD
+ADUS,Addus HomeCare Corporation,1,XNAS,USA,USD
+AIMD,Ainos Inc,1,XNAS,USA,USD
+ALFUU,Centurion Acquisition Corp. Unit,1,XNAS,USA,USD
+AMGN,Amgen Inc,1,XNAS,USA,USD
+AMLX,Amylyx Pharmaceuticals Inc,1,XNAS,USA,USD
+APVO,Aptevo Therapeutics Inc,1,XNAS,USA,USD
+ATLCL,Atlanticus Holdings Corporation 6.125% Senior Notes due 2026,1,XNAS,USA,USD
+ATNFW,CannBioRx Life Sciences Corp,1,XNAS,USA,USD
+ATNI,ATN International Inc,1,XNAS,USA,USD
+ATRC,AtriCure Inc,1,XNAS,USA,USD
+ATSG,Air Transport Services Group Inc,1,XNAS,USA,USD
+AUTL,Autolus Therapeutics Ltd,1,XNAS,USA,USD
+AXTI,AXT Inc,1,XNAS,USA,USD
+BBCP,Concrete Pumping Holdings Class A,1,XNAS,USA,USD
+BEAM,Beam Therapeutics Inc,1,XNAS,USA,USD
+BELFB,Bel Fuse B Inc,1,XNAS,USA,USD
+BFIIW,BurgerFi International LLC,1,XNAS,USA,USD
+BGM,Qilian International Holding Group Limited,1,XNAS,USA,USD
+BLDEW,Blade Air Mobility Inc,1,XNAS,USA,USD
+BNR,Burning Rock Biotech Ltd,1,XNAS,USA,USD
+BRLT,Brilliant Earth Group Inc,1,XNAS,USA,USD
+BSLKW,"Bolt Projects Holdings, Inc.",1,XNAS,USA,USD
+BTBT,Bit Digital Inc,1,XNAS,USA,USD
+BTMWW,Bitcoin Depot Inc.,1,XNAS,USA,USD
+KOPN,Kopin Corporation,1,XNAS,USA,USD
+LFCR,Lifecore Biomedical Inc.,1,XNAS,USA,USD
+LGTO,Legato Merger II Corp,1,XNAS,USA,USD
+LI,Li Auto Inc,1,XNAS,USA,USD
+LOAN,Manhattan Bridge Capital Inc,1,XNAS,USA,USD
+LOPE,Grand Canyon Education Inc,1,XNAS,USA,USD
+LULU,Lululemon Athletica Inc.,1,XNAS,USA,USD
+LYFT,LYFT Inc,1,XNAS,USA,USD
+MAMA,Mama's Creations Inc.,1,XNAS,USA,USD
+MASI,Masimo Corporation,1,XNAS,USA,USD
+MCFT,MCBC Holdings Inc,1,XNAS,USA,USD
+MGIC,Magic Software Enterprises Ltd,1,XNAS,USA,USD
+MGNX,MacroGenics Inc,1,XNAS,USA,USD
+MNDO,MIND CTI Ltd,1,XNAS,USA,USD
+MYFW,First Western Financial Inc,1,XNAS,USA,USD
+MYMD,MyMD Pharmaceuticals Inc,1,XNAS,USA,USD
+MYSZ,My Size Inc,1,XNAS,USA,USD
+NEWTH,"NewtekOne, Inc. 8.625% Fixed Rate Senior Notes due 2029",1,XNAS,USA,USD
+NODK,NI Holdings Inc,1,XNAS,USA,USD
+NTIC,Northern Technologies,1,XNAS,USA,USD
+CAUD,Collective Audience Inc.,1,XNAS,USA,USD
+CCBG,Capital City Bank Group,1,XNAS,USA,USD
+CERS,Cerus Corporation,1,XNAS,USA,USD
+CGEN,Compugen,1,XNAS,USA,USD
+CNVS,Cineverse Corp.,1,XNAS,USA,USD
+COST,Costco Wholesale Corp,1,XNAS,USA,USD
+CSIQ,Canadian Solar Inc,1,XNAS,USA,USD
+CTSH,Cognizant Technology Solutions Corp Class A,1,XNAS,USA,USD
+CVKD,"Cadrenal Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+DERM,Journey Medical Corp,1,XNAS,USA,USD
+DHIL,Diamond Hill Investment Group Inc,1,XNAS,USA,USD
+DRRX,Durect Corporation,1,XNAS,USA,USD
+DRVN,Driven Brands Holdings Inc,1,XNAS,USA,USD
+DSWL,Deswell Industries Inc,1,XNAS,USA,USD
+NVIVQ,NVIVQ,1,XNAS,USA,USD
+OCEA,Ocean Biomedical Inc.,1,XNAS,USA,USD
+OGI,OrganiGram Holdings Inc,1,XNAS,USA,USD
+OLMA,Olema Pharmaceuticals Inc,1,XNAS,USA,USD
+OSAP,"ProSomnus, Inc.",1,XNAS,USA,USD
+OTEX,Open Text Corp,1,XNAS,USA,USD
+PAIYY,Aesthetic Medical International Holdings Group Limited,1,XNAS,USA,USD
+PAYO,Payoneer Global Inc,1,XNAS,USA,USD
+PCYO,Pure Cycle Corporation,1,XNAS,USA,USD
+PHUN,Phunware Inc,1,XNAS,USA,USD
+PMD,Psychemedics Corporation,1,XNAS,USA,USD
+PROV,Provident Financial Holdings Inc,1,XNAS,USA,USD
+PRSTW,Presto Automation Inc.,1,XNAS,USA,USD
+PUBM,Pubmatic Inc,1,XNAS,USA,USD
+RBB,RBB Bancorp,1,XNAS,USA,USD
+REAI,REAI,1,XNAS,USA,USD
+REPL,Replimune Group Inc,1,XNAS,USA,USD
+ROCL,Roth CH Acquisition V Co,1,XNAS,USA,USD
+RRGB,Red Robin Gourmet Burgers Inc,1,XNAS,USA,USD
+EBC,Eastern Bankshares Inc,1,XNAS,USA,USD
+EBET,Ebet Inc,1,XNAS,USA,USD
+ECDAW,ECD Automotive Design Inc,1,XNAS,USA,USD
+EHTH,eHealth Inc,1,XNAS,USA,USD
+EMLD,FTAC Emerald Acquisition Corp,1,XNAS,USA,USD
+ETAOF,ETAOF,1,XNAS,USA,USD
+EZPW,EZCORP Inc,1,XNAS,USA,USD
+FFIC,Flushing Financial Corporation,1,XNAS,USA,USD
+FHLT,Future Health Esg Corp,1,XNAS,USA,USD
+FLWS,1-800 FLOWERS.COM Inc,1,XNAS,USA,USD
+FMSTW,Foremost Lithium Resource & Technology Ltd. Warrant,1,XNAS,USA,USD
+FRSX,Foresight Autonomous Holdings Ltd ADR,1,XNAS,USA,USD
+FSBW,FS Bancorp Inc,1,XNAS,USA,USD
+GLLIW,Globalink Investment Inc. Warrants,1,XNAS,USA,USD
+GLPI,Gaming & Leisure Properties,1,XNAS,USA,USD
+GLTO,Galecto Inc,1,XNAS,USA,USD
+GMBL,Esports Entertainment Group Inc,1,XNAS,USA,USD
+GPRE,Green Plains Renewable Energy Inc,1,XNAS,USA,USD
+GURE,Gulf Resources Inc,1,XNAS,USA,USD
+HBIO,Harvard Bioscience Inc,1,XNAS,USA,USD
+HBT,Hbt Financial Inc,1,XNAS,USA,USD
+SABS,SAB Biotherapeutics Inc,1,XNAS,USA,USD
+SDOT,Sadot Group Inc.,1,XNAS,USA,USD
+SEAC,SeaChange International Inc,1,XNAS,USA,USD
+SEDG,SolarEdge Technologies Inc,1,XNAS,USA,USD
+SENEA,Seneca Foods Corp A,1,XNAS,USA,USD
+SERA,Sera Prognostics Inc,1,XNAS,USA,USD
+SFBC,Sound Financial Bancorp Inc,1,XNAS,USA,USD
+SGH,Smart Global Holdings Inc,1,XNAS,USA,USD
+SLNH,Soluna Holdings Inc,1,XNAS,USA,USD
+SMSI,Smith Micro Software Inc,1,XNAS,USA,USD
+SNCRL,Synchronoss Technologies Inc. 8.375% Senior Notes due 2026,1,XNAS,USA,USD
+SNGX,Soligenix Inc,1,XNAS,USA,USD
+STRO,Sutro Biopharma,1,XNAS,USA,USD
+STSSW,Sharps Technology Inc. Warrant,1,XNAS,USA,USD
+TARS,Tarsus Pharmaceuticals Inc,1,XNAS,USA,USD
+TATT,Tat Techno,1,XNAS,USA,USD
+TLPH,Talphera Inc.,1,XNAS,USA,USD
+TRDA,Entrada Therapeutics Inc,1,XNAS,USA,USD
+TRSG,Tungray Technologies Inc Class A Ordinary Shares,1,XNAS,USA,USD
+TSBX,Turnstone Biologics Corp. Common Stock,1,XNAS,USA,USD
+HCSG,Healthcare Services Group Inc,1,XNAS,USA,USD
+HLNE,Hamilton Lane Inc,1,XNAS,USA,USD
+HNRG,Hallador Energy Company,1,XNAS,USA,USD
+HRTX,Heron Therapeuti,1,XNAS,USA,USD
+HSCS,Heart Test Laboratories Inc. Common Stock,1,XNAS,USA,USD
+HURC,Hurco Companies Inc,1,XNAS,USA,USD
+IESC,IES Holdings Inc,1,XNAS,USA,USD
+IGTA,Inception Growth Acquisition Ltd,1,XNAS,USA,USD
+INVZ,Innoviz Technologies,1,XNAS,USA,USD
+ITOS,Iteos Therapeutics Inc,1,XNAS,USA,USD
+IVA,Inventiva Sa,1,XNAS,USA,USD
+IVDAW,Iveda Solutions Inc. Warrant,1,XNAS,USA,USD
+IZM,ICZOOM Group Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+JMSB,John Marshall Bancorp Inc,1,XNAS,USA,USD
+JXJT,JX Luxventure Limited,1,XNAS,USA,USD
+KHC,Kraft Heinz Co,1,XNAS,USA,USD
+TWFG,"TWFG, Inc. Class A Common Stock",1,XNAS,USA,USD
+TXMD,TherapeuticsMD Inc,1,XNAS,USA,USD
+UFCS,United Fire Group Inc,1,XNAS,USA,USD
+UTMD,Utah Medical Products Inc,1,XNAS,USA,USD
+VIGL,Vigil Neuroscience Inc,1,XNAS,USA,USD
+VIR,Vir Biotechnology Inc,1,XNAS,USA,USD
+VIRC,Virco Manufacturing Corporation,1,XNAS,USA,USD
+VNDA,Vanda Pharmaceuticals Inc,1,XNAS,USA,USD
+VTRS,Viatris Inc,1,XNAS,USA,USD
+WFCF,Where Food Comes From Inc,1,XNAS,USA,USD
+WFCPX,Wells Fargo & Co Non-Cum Perp Pfd Shs -A- Series -X-,1,XNAS,USA,USD
+WILC,G Willi-Food International Ltd,1,XNAS,USA,USD
+WISH,Contextlogic Inc,1,XNAS,USA,USD
+WTMA,Welsbach Technology Metals Acquisition Corp,1,XNAS,USA,USD
+YMAB,Y mAbs Therapeutics,1,XNAS,USA,USD
+YOTAW,Yotta Acquisition Corporation Warrant,1,XNAS,USA,USD
+ZI,ZoomInfo Technologies Inc,1,XNAS,USA,USD
+ZVSA,ZyVersa Therapeutics Inc.,1,XNAS,USA,USD
+ADVM,Adverum Biotechnologies Inc,1,XNAS,USA,USD
+AFJK,"Aimei Health Technology Co., Ltd Ordinary Share",1,XNAS,USA,USD
+AIRE,reAlpha Tech Corp. Common Stock,1,XNAS,USA,USD
+ALGS,Aligos Therapeutics Inc,1,XNAS,USA,USD
+ALKT,Alkami Technology Inc,1,XNAS,USA,USD
+ALLR,Allarity Therapeutics Inc,1,XNAS,USA,USD
+ALMS,Alumis Inc. Common Stock,1,XNAS,USA,USD
+AMAT,Applied Materials Inc,1,XNAS,USA,USD
+ANSCU,Agriculture & Natural Solutions Acquisition Corporation Unit,1,XNAS,USA,USD
+ARDS,Aridis Pharmaceuticals Inc,1,XNAS,USA,USD
+AREB,American Rebel Holdings Inc,1,XNAS,USA,USD
+ARGX,argenx NV ADR,1,XNAS,USA,USD
+ARQQW,Arqit Quantum Inc. Warrants,1,XNAS,USA,USD
+ASCBW,A SPAC II Acquisition Corp. Warrant,1,XNAS,USA,USD
+ASML,ASML Holding NV ADR,1,XNAS,USA,USD
+ATYR,"aTyr Pharma, Inc.",1,XNAS,USA,USD
+AVTX,Avalo Therapeutics Inc,1,XNAS,USA,USD
+AWRE,Aware Inc,1,XNAS,USA,USD
+BCPC,Balchem Corporation,1,XNAS,USA,USD
+BIMI,Bimi International Medical Inc,1,XNAS,USA,USD
+BLUE,Bluebird bio Inc,1,XNAS,USA,USD
+BNTX,BioNTech SE,1,XNAS,USA,USD
+BOWNR,Bowen Acquisition Corp Rights,1,XNAS,USA,USD
+BRKL,Brookline Bancorp Inc,1,XNAS,USA,USD
+BTOC,Armlogi Holding Corp. Common Stock,1,XNAS,USA,USD
+LPLA,LPL Financial Holdings Inc,1,XNAS,USA,USD
+LRFC,Logan Ridge Finance Corp,1,XNAS,USA,USD
+LYTS,LSI Industries Inc,1,XNAS,USA,USD
+MAPS,WM Technology Inc,1,XNAS,USA,USD
+MASS,908 Devices Inc,1,XNAS,USA,USD
+MDAIW,Spectral AI Inc,1,XNAS,USA,USD
+MERC,Mercer International Inc,1,XNAS,USA,USD
+MFLTY,Missfresh Limited,1,XNAS,USA,USD
+MGRX,"Mangoceuticals, Inc. Common Stock",1,XNAS,USA,USD
+MIRM,Mirum Pharmaceuticals Inc,1,XNAS,USA,USD
+MNTS,Momentus Inc,1,XNAS,USA,USD
+MRM,Medirom Healthcare Technologies Inc,1,XNAS,USA,USD
+MXL,MaxLinear Inc,1,XNAS,USA,USD
+MYRG,MYR Group Inc,1,XNAS,USA,USD
+NAII,Natural Alternatives International,1,XNAS,USA,USD
+NN,Nextnav Acquisition Corp,1,XNAS,USA,USD
+NNDM,Nano Dimension Ltd,1,XNAS,USA,USD
+NTNX,Nutanix Inc,1,XNAS,USA,USD
+BWB,Bridgewater Bancshares Inc,1,XNAS,USA,USD
+CALM,Cal-Maine Foods Inc,1,XNAS,USA,USD
+CMCO,Columbus McKinnon Corporation,1,XNAS,USA,USD
+CMMB,Chemomab Therapeutics Ltd DRC,1,XNAS,USA,USD
+COCP,Cocrystal Pharma Inc,1,XNAS,USA,USD
+COIN,Coinbase Global Inc,1,XNAS,USA,USD
+CUBWU,Lionheart Holdings Unit,1,XNAS,USA,USD
+CURI,Curiositystream Inc.,1,XNAS,USA,USD
+CZFS,Citizens Financial Services Inc. Common Stock,1,XNAS,USA,USD
+DADA,Dada Nexus Ltd,1,XNAS,USA,USD
+DHCNI,DHCNI,1,XNAS,USA,USD
+DMRC,Digimarc Corporation,1,XNAS,USA,USD
+DNTH,Dianthus Therapeutics Inc.,1,XNAS,USA,USD
+DRCT,Direct Digital Holdings Inc,1,XNAS,USA,USD
+NVEE,NV5 Global Inc,1,XNAS,USA,USD
+NVTS,Navitas Semiconductor Corp,1,XNAS,USA,USD
+NWGL,Nature Wood Group Limited American Depositary Shares,1,XNAS,USA,USD
+NXPLW,NextPlat Corp,1,XNAS,USA,USD
+OMCC,Old Market Capital Corporation,1,XNAS,USA,USD
+ORGS,Orgenesis Inc,1,XNAS,USA,USD
+PANW,Palo Alto Networks Inc,1,XNAS,USA,USD
+PAX,Patria Investments Ltd,1,XNAS,USA,USD
+PGHL,Primega Group Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+PKBO,Ignyte Acquisition Corp,1,XNAS,USA,USD
+POLEU,Andretti Acquisition Corp. II Unit,1,XNAS,USA,USD
+PPTA,Perpetua Resources Corp,1,XNAS,USA,USD
+PRTC,PureTech Health PLC,1,XNAS,USA,USD
+PSNL,Personalis Inc,1,XNAS,USA,USD
+PSNYW,Polestar Automotive Holding UK PLC Class C-1 ADS (ADW),1,XNAS,USA,USD
+QCOM,Qualcomm Incorporated,1,XNAS,USA,USD
+QNTM,Quantum BioPharma Ltd.,1,XNAS,USA,USD
+RGS,Regis Corporation Common Stock,1,XNAS,USA,USD
+RNWWW,ReNew Energy Global plc Warrant,1,XNAS,USA,USD
+RSVRW,Reservoir Media Management Inc,1,XNAS,USA,USD
+EM,Smart Share Global Ltd ADR,1,XNAS,USA,USD
+ENG,ENGlobal Corporation,1,XNAS,USA,USD
+ERAS,Erasca Inc,1,XNAS,USA,USD
+EVGOW,EVgo Equity Warrants,1,XNAS,USA,USD
+EVOK,Evoke Pharma Inc,1,XNAS,USA,USD
+FATBW,FAT Brands Inc,1,XNAS,USA,USD
+FCBC,First Community Bancshares Inc,1,XNAS,USA,USD
+GASS,StealthGas Inc,1,XNAS,USA,USD
+GDEV,GDEV Inc.,1,XNAS,USA,USD
+GMGT,Gaming Technologies Inc. Common Stock,1,XNAS,USA,USD
+HCDZQ,Harbor Custom Development Inc,1,XNAS,USA,USD
+RYTM,Rhythm Pharmaceuticals Inc,1,XNAS,USA,USD
+SAI,SAI.TECH Global Corporation,1,XNAS,USA,USD
+SBGI,Sinclair Broadcast Group Inc,1,XNAS,USA,USD
+SFM,Sprouts Farmers Market LLC,1,XNAS,USA,USD
+SGRP,SPAR Group Inc,1,XNAS,USA,USD
+SHPH,Shuttle Pharmaceuticals Inc,1,XNAS,USA,USD
+SMXWW,SMX (Security Matters) Public Limited Company Warrant,1,XNAS,USA,USD
+SNBR,Sleep Number Corp,1,XNAS,USA,USD
+SONDW,Sonder Holdings Inc,1,XNAS,USA,USD
+SQFTW,Presidio Property Trust Inc. Series A Common Stock Purchase Warrants,1,XNAS,USA,USD
+STBA,S&T Bancorp Inc,1,XNAS,USA,USD
+TALKW,Talkspace Inc,1,XNAS,USA,USD
+TCBI,Texas Capital Bancshares Inc,1,XNAS,USA,USD
+TDUP,ThredUp Inc,1,XNAS,USA,USD
+THCPW,Thunder Bridge Capital Partners IV Inc. Warrant,1,XNAS,USA,USD
+TKNO,Alpha Teknova Inc,1,XNAS,USA,USD
+TRKWQ,Troika Media Group Inc,1,XNAS,USA,USD
+HDL,SUPER HI INTERNATIONAL HOLDING LTD. American Depositary Shares,1,XNAS,USA,USD
+IART,Integra LifeSciences Holdings,1,XNAS,USA,USD
+ICHR,Ichor Holdings Ltd,1,XNAS,USA,USD
+IKNA,Ikena Oncology Inc,1,XNAS,USA,USD
+IMPP,Imperial Petroleum Inc,1,XNAS,USA,USD
+INKT,Mink Therapeutics Inc,1,XNAS,USA,USD
+INVA,Innoviva Inc,1,XNAS,USA,USD
+IONR,ioneer Ltd American Depositary Shares,1,XNAS,USA,USD
+IPGP,IPG Photonics Corporation,1,XNAS,USA,USD
+IROHR,Iron Horse Acquisitions Corp. Right,1,XNAS,USA,USD
+KFRC,Kforce Inc.,1,XNAS,USA,USD
+TXRH,Texas Roadhouse Inc,1,XNAS,USA,USD
+UNAM,Unico American Corporation,1,XNAS,USA,USD
+USEG,US Energy Corp,1,XNAS,USA,USD
+USGOW,U.S. GoldMining Inc. Warrant,1,XNAS,USA,USD
+VBTX,Veritex Holdings Inc,1,XNAS,USA,USD
+VCTR,Victory Capital Holdings Inc,1,XNAS,USA,USD
+VCYT,Veracyte Inc,1,XNAS,USA,USD
+VEEE,Twin Vee Powercats Co,1,XNAS,USA,USD
+VNOM,Viper Energy Ut,1,XNAS,USA,USD
+VRMEW,VerifyMe Inc,1,XNAS,USA,USD
+VSEEW,"VSee Health, Inc.",1,XNAS,USA,USD
+WAY,Waystar Holding Corp. Common Stock,1,XNAS,USA,USD
+WSBC,WesBanco Inc,1,XNAS,USA,USD
+WTMAR,Welsbach Technology Metals Acquisition Corp. one right to receive 1/10th of a share of common stock,1,XNAS,USA,USD
+XOMA,XOMA Corp,1,XNAS,USA,USD
+YOSH,Yoshiharu Global Co.,1,XNAS,USA,USD
+ZBAO,Zhibao Technology Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+ZBIO,"Zenas BioPharma, Inc. Common Stock",1,XNAS,USA,USD
+AAL,American Airlines Group,1,XNAS,USA,USD
+ABCL,Abcellera Biologics Inc,1,XNAS,USA,USD
+ACLS,Axcelis Technologies Inc,1,XNAS,USA,USD
+ACST,Acasti Pharma Inc,1,XNAS,USA,USD
+ACTU,"Actuate Therapeutics, Inc. Common stock",1,XNAS,USA,USD
+AFRI,Forafric Global PLC Ordinary Shares,1,XNAS,USA,USD
+AGRI,AgriFORCE Growing Systems Ltd,1,XNAS,USA,USD
+AKTX,Akari Therapeutics PLC,1,XNAS,USA,USD
+ALFUW,Centurion Acquisition Corp. Warrant,1,XNAS,USA,USD
+ARQT,Arcutis Biotherapeutics Inc,1,XNAS,USA,USD
+AZ,A2Z Smart Technologies Corp,1,XNAS,USA,USD
+BANF,BancFirst Corporation,1,XNAS,USA,USD
+BRTX,BioRestorative Therapies Inc,1,XNAS,USA,USD
+KZIA,Kazia Therapeutics Ltd ADR,1,XNAS,USA,USD
+LAZR,Luminar Technologies,1,XNAS,USA,USD
+LENZ,LENZ Therapeutics Inc,1,XNAS,USA,USD
+LNKB,LINKBANCORP Inc,1,XNAS,USA,USD
+LUNA,Luna Innovations Incorporated,1,XNAS,USA,USD
+MBLY,Mobileye Global Inc. Class A Common Stock,1,XNAS,USA,USD
+MBX,"MBX Biosciences, Inc. Common Stock",1,XNAS,USA,USD
+MDIA,Mediaco Holding Inc,1,XNAS,USA,USD
+MDWD,Mediwound Ltd,1,XNAS,USA,USD
+MEIP,MEI Pharma Inc,1,XNAS,USA,USD
+MOBX,Mobix Labs Inc,1,XNAS,USA,USD
+MVST,Microvast Holdings Inc,1,XNAS,USA,USD
+NCNC,noco-noco Inc. Ordinary Share,1,XNAS,USA,USD
+NFE,New Fortress Energy LLC,1,XNAS,USA,USD
+NRBO,Neurobo Pharmaceuticals Inc,1,XNAS,USA,USD
+CASSQ,Casa Systems Inc,1,XNAS,USA,USD
+CELUW,Celularity Inc,1,XNAS,USA,USD
+CGBSW,Crown LNG Holdings Limited Warrants,1,XNAS,USA,USD
+CHX,ChampionX Corporation,1,XNAS,USA,USD
+CLWT,Euro Tech Holdings Company Ltd,1,XNAS,USA,USD
+CRDF,Cardiff Oncology Inc,1,XNAS,USA,USD
+DPRO,Draganfly Inc,1,XNAS,USA,USD
+DRMA,Dermata Therapeutics Inc,1,XNAS,USA,USD
+DRS,"Leonardo DRS, Inc. Common Stock",1,XNAS,USA,USD
+DTSQ,DT Cloud Star Acquisition Corporation Ordinary Shares,1,XNAS,USA,USD
+NVCT,Nuvectis Pharma Inc,1,XNAS,USA,USD
+OAKUR,Oak Woods Acquisition Corporation Right,1,XNAS,USA,USD
+OCUP,Ocuphire Pharma Inc,1,XNAS,USA,USD
+OESX,Orion Energy Systems Inc,1,XNAS,USA,USD
+OLB,OLB Group Inc,1,XNAS,USA,USD
+OMAB,Grupo Aeroportuario del Centro Norte SAB de CV,1,XNAS,USA,USD
+ONMDW,OneMedNet Corp.,1,XNAS,USA,USD
+OSBC,Old Second Bancorp Inc,1,XNAS,USA,USD
+OVLY,Oak Valley Bancorp,1,XNAS,USA,USD
+PBMWW,Psyence Biomedical Ltd. Warrant,1,XNAS,USA,USD
+PDD,PDD Holdings Inc.,1,XNAS,USA,USD
+PLMJ,Plum Acquisition Corp. III,1,XNAS,USA,USD
+PLSE,Pulse Biosciences Inc,1,XNAS,USA,USD
+PLUG,Plug Power Inc,1,XNAS,USA,USD
+POAI,Predictive Oncology Inc,1,XNAS,USA,USD
+PRLD,Prelude Therapeutics Inc,1,XNAS,USA,USD
+PRZO,ParaZero Technologies Ltd. Ordinary Shares,1,XNAS,USA,USD
+PTLE,PTL LTD Ordinary Shares,1,XNAS,USA,USD
+PXSAW,Pyxis Tankers Inc,1,XNAS,USA,USD
+QLI,Qilian International Holding Group Ltd,1,XNAS,USA,USD
+QUIK,QuickLogic Corporation,1,XNAS,USA,USD
+RDIB,Reading International B Inc,1,XNAS,USA,USD
+REAL,TheRealReal Inc,1,XNAS,USA,USD
+REGCO,Regency Centers Corporation 5.875% Series B Cumulative Redeemable Preferred Stock,1,XNAS,USA,USD
+RMTI,Rockwell Medical Inc,1,XNAS,USA,USD
+RNA,Avidity Biosciences Inc,1,XNAS,USA,USD
+EBON,Ebang International Holdings,1,XNAS,USA,USD
+EMKR,EMCORE Corporation,1,XNAS,USA,USD
+ENSG,The Ensign Group Inc,1,XNAS,USA,USD
+EXAI,Exscientia Ltd ADR,1,XNAS,USA,USD
+FCCO,First Community Corporation,1,XNAS,USA,USD
+FCEL,FuelCell Energy Inc,1,XNAS,USA,USD
+FIZZ,National Beverage Corp,1,XNAS,USA,USD
+FNWB,First Northwest Bancorp,1,XNAS,USA,USD
+FORM,FormFactor Inc,1,XNAS,USA,USD
+FRES,Fresh2 Group Ltd,1,XNAS,USA,USD
+FRLAW,Fortune Rise Acquisition Corporation Warrant,1,XNAS,USA,USD
+FRST,Primis Financial Corp,1,XNAS,USA,USD
+GIFT,"RDE, Inc.",1,XNAS,USA,USD
+GOOGL,Alphabet Inc Class A,1,XNAS,USA,USD
+RVLPQ,RVL Pharmaceuticals plc,1,XNAS,USA,USD
+RVNC,Revance The,1,XNAS,USA,USD
+RWAYL,MSCI ACWI exAU/CONSUMER GRTR US,1,XNAS,USA,USD
+RXT,Rackspace Technology Inc,1,XNAS,USA,USD
+SAFT,Safety Insurance Group Inc,1,XNAS,USA,USD
+SAIH,SAIHEAT Limited,1,XNAS,USA,USD
+SEED,Origin Agritech Ltd,1,XNAS,USA,USD
+SEIC,SEI Investments Company,1,XNAS,USA,USD
+SILK,Silk Road Medical Inc,1,XNAS,USA,USD
+SMID,Smith-Midland Corp,1,XNAS,USA,USD
+SSYS,Stratasys Ltd,1,XNAS,USA,USD
+TC,TuanChe ADR,1,XNAS,USA,USD
+TELA,Tela Bio Inc,1,XNAS,USA,USD
+TRIP,TripAdvisor Inc,1,XNAS,USA,USD
+TSBK,Timberland Bancorp Inc,1,XNAS,USA,USD
+TTOO,T2 Biosystms Inc,1,XNAS,USA,USD
+HLP,Hongli Group Inc. Ordinary Shares,1,XNAS,USA,USD
+HNVR,Hanover Bancorp Inc,1,XNAS,USA,USD
+HOVRW,New Horizon Aircraft Ltd,1,XNAS,USA,USD
+HSCSW,Heart Test Laboratories Inc. Warrant,1,XNAS,USA,USD
+HUMA,Humacyte Inc,1,XNAS,USA,USD
+IDEX,Ideanomics Inc,1,XNAS,USA,USD
+IGIC,International General Insurance Holdings Ltd,1,XNAS,USA,USD
+IMRX,Immuneering Corp,1,XNAS,USA,USD
+INBKZ,First Internet Bancorp - Fixed- ,1,XNAS,USA,USD
+INTZ,Intrusion Inc,1,XNAS,USA,USD
+INV,INV,1,XNAS,USA,USD
+IRDM,Iridium Communications Inc,1,XNAS,USA,USD
+IREN,Iris Energy Ltd,1,XNAS,USA,USD
+IRMD,Iradimed Co,1,XNAS,USA,USD
+IXAQW,IX Acquisition Corp. Warrant,1,XNAS,USA,USD
+JBLU,JetBlue Airways Corp,1,XNAS,USA,USD
+JCTC,Jewett-Cameron Trading Company Ltd.,1,XNAS,USA,USD
+JJSF,J & J Snack Foods Corp,1,XNAS,USA,USD
+UG,United-Guardian Inc,1,XNAS,USA,USD
+ULH,Universal Logistics Holdings Inc,1,XNAS,USA,USD
+UNIT,Uniti Group Inc,1,XNAS,USA,USD
+VRAX,Virax Biolabs Group Limited Ordinary Shares,1,XNAS,USA,USD
+VVOS,Vivos Therapeutics Inc,1,XNAS,USA,USD
+VWE,Vintage Wine Estates Inc,1,XNAS,USA,USD
+VYGR,Voyager Therapeutics Inc,1,XNAS,USA,USD
+WHLR,Wheeler Real Estate Investment Trust Inc,1,XNAS,USA,USD
+WING,Wingstop Inc,1,XNAS,USA,USD
+WLDS,Wearable Devices Ltd.,1,XNAS,USA,USD
+ZLS,Zalatoris II Acquisition Corp.,1,XNAS,USA,USD
+ZM,Zoom Video Communications Inc,1,XNAS,USA,USD
+ACACW,Acies Acquisition Corp,1,XNAS,USA,USD
+ACAD,ACADIA Pharmaceuticals Inc,1,XNAS,USA,USD
+ACMR,Acm Research Inc,1,XNAS,USA,USD
+ADTN,ADTRAN Inc,1,XNAS,USA,USD
+AGNCL,AGNC Investment Corp,1,XNAS,USA,USD
+AKRO,Akero Therapeutics Inc,1,XNAS,USA,USD
+ALRM,Alarm.com Holdings Inc,1,XNAS,USA,USD
+ALTO,Alto Ingredients Inc,1,XNAS,USA,USD
+AMRK,Amark Preci,1,XNAS,USA,USD
+ANNX,Annexon Inc,1,XNAS,USA,USD
+APPS,Digital Turbine Inc,1,XNAS,USA,USD
+ASPI,ASP Isotopes Inc. Common Stock,1,XNAS,USA,USD
+ATIF,ATIF Holdings Ltd,1,XNAS,USA,USD
+AUDC,AudioCodes Ltd,1,XNAS,USA,USD
+AXSM,Axsome Therapeutics Inc,1,XNAS,USA,USD
+AZI,Autozi Internet Technology (Global) Ltd. Class A Ordinary Shares,1,XNAS,USA,USD
+BCSA,Blockchain Coinvestors Acquisition Corp I,1,XNAS,USA,USD
+BKR,Baker Hughes Co,1,XNAS,USA,USD
+BKSC,Bank of South Carolina Corp,1,XNAS,USA,USD
+BRKR,Bruker Corporation,1,XNAS,USA,USD
+KLTR,Kaltura Inc,1,XNAS,USA,USD
+LAKE,Lakeland Industries Inc,1,XNAS,USA,USD
+LEXXW,Lexaria Bioscience Corp,1,XNAS,USA,USD
+LPRO,Open Lending Corp,1,XNAS,USA,USD
+LPTX,Leap Therapeutics Inc,1,XNAS,USA,USD
+LTBR,Lightbridge Corp,1,XNAS,USA,USD
+LTRPB,Liberty Tripadvisor Holdings Inc,1,XNAS,USA,USD
+MAQCW,Maquia Capital Acquisition Corporation Warrant,1,XNAS,USA,USD
+MARA,Marathon Digital Holdings Inc,1,XNAS,USA,USD
+MCHX,Marchex Inc,1,XNAS,USA,USD
+MMATQ,MMATQ,1,XNAS,USA,USD
+MNDR,Mobile-health Network Solutions Class A Ordinary Shares,1,XNAS,USA,USD
+MOB,Mobilicom Limited American Depositary Shares,1,XNAS,USA,USD
+MORN,Morningstar Inc,1,XNAS,USA,USD
+MVBF,MVB Financial Corp,1,XNAS,USA,USD
+MVIS,Microvision Inc,1,XNAS,USA,USD
+NBTX,Nanobiotix,1,XNAS,USA,USD
+NEOVW,NeoVolta Inc. Warrant,1,XNAS,USA,USD
+NICE,Nice Ltd ADR,1,XNAS,USA,USD
+NKGNW,"NKGen Biotech, Inc. Warrants",1,XNAS,USA,USD
+BYFC,Broadway Financial Corporation,1,XNAS,USA,USD
+CAPTW,Captivision Inc. Warrant,1,XNAS,USA,USD
+CCLD,CareCloud Inc.,1,XNAS,USA,USD
+CCRN,Cross Country Healthcare Inc,1,XNAS,USA,USD
+CDAQW,Compass Digital Acquisition Corp. Warrant,1,XNAS,USA,USD
+CHEF,The Chefs Warehouse Inc,1,XNAS,USA,USD
+CIFR,Cipher Mining Inc,1,XNAS,USA,USD
+CLMT,Calumet Specialty Products Partners,1,XNAS,USA,USD
+CNTG,Centogene B V,1,XNAS,USA,USD
+CNXN,PC Connection Inc,1,XNAS,USA,USD
+COMS,COMSovereign Holding Corp,1,XNAS,USA,USD
+CSSLQ,"Chicken Soup for the Soul Entertainment, Inc.",1,XNAS,USA,USD
+CTAS,Cintas Corporation,1,XNAS,USA,USD
+CTSO,Cytosorbents Crp,1,XNAS,USA,USD
+CXAI,CXApp Inc.,1,XNAS,USA,USD
+DCFCQ,Tritium DCFC Limited,1,XNAS,USA,USD
+DDI,Doubledown Interactive Co Ltd,1,XNAS,USA,USD
+NVDU,Direxion Daily NVDA Bull 1.5X Shares,1,XNAS,USA,USD
+NWS,News Corp B,1,XNAS,USA,USD
+NWTN,NWTN Inc. Class B Ordinary Shares,1,XNAS,USA,USD
+NYMT,New York Mortgage Trust Inc,1,XNAS,USA,USD
+OM,Outset Medical Inc,1,XNAS,USA,USD
+ORIC,Oric Pharmaceuticals Inc,1,XNAS,USA,USD
+ORKT,Orangekloud Technology Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+PGC,Peapack-Gladstone Financial,1,XNAS,USA,USD
+PKOH,Park Ohio Holdings Corp,1,XNAS,USA,USD
+PLBC,Plumas Bancorp,1,XNAS,USA,USD
+PPYAW,Papaya Growth Opportunity Corp. I Warrant,1,XNAS,USA,USD
+PRTS,CarParts.Com Inc,1,XNAS,USA,USD
+PRVA,Privia Health Group Inc,1,XNAS,USA,USD
+PSIG,PS International Group Ltd. Ordinary Shares,1,XNAS,USA,USD
+PT,Pintec Technology Holdings Ltd,1,XNAS,USA,USD
+PYXS,Pyxis Oncology Inc,1,XNAS,USA,USD
+REG,Regency Centers Corporation,1,XNAS,USA,USD
+RICK,RCI Hospitality Holdings Inc,1,XNAS,USA,USD
+RMGUF,RMG Acquisition Corp. III,1,XNAS,USA,USD
+EGAN,eGain Corporation,1,XNAS,USA,USD
+ELEV,Elevation Oncology Inc,1,XNAS,USA,USD
+EMCGU,Embrace Change Acquisition Corp.,1,XNAS,USA,USD
+ENLV,Enlivex Therapeutics Ltd,1,XNAS,USA,USD
+FEXD,Fintech Ecosystem Development Corp,1,XNAS,USA,USD
+FISI,Financial Institutions Inc,1,XNAS,USA,USD
+FSBC,Five Star Bancorp,1,XNAS,USA,USD
+FTEL,Fitell Corporation Ordinary Shares,1,XNAS,USA,USD
+GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,1,XNAS,USA,USD
+GDST,Goldenstone Acquisition Ltd,1,XNAS,USA,USD
+GDSTW,Goldenstone Acquisition Limited Warrants,1,XNAS,USA,USD
+GENE,Genetic Technologies Ltd,1,XNAS,USA,USD
+GLE,Global Engine Group Holding Limited Ordinary Shares,1,XNAS,USA,USD
+GLRE,Greenlight Capital Re Ltd,1,XNAS,USA,USD
+GMBLZ,Esports Entertainment Group Inc. Warrant,1,XNAS,USA,USD
+GRYP,Gryphon Digital Mining Inc.,1,XNAS,USA,USD
+SDGR,Schrodinger Inc,1,XNAS,USA,USD
+SDSTW,Stardust Power Inc.,1,XNAS,USA,USD
+SKWD,"Skyward Specialty Insurance Group, Inc. Common Stock",1,XNAS,USA,USD
+SLS,Sellas Life Sciences Group Inc,1,XNAS,USA,USD
+SPWH,Sportsmans,1,XNAS,USA,USD
+STEC,Santech Holdings Limited,1,XNAS,USA,USD
+STEP,Stepstone Group Inc,1,XNAS,USA,USD
+STER,Sterling Check Corp,1,XNAS,USA,USD
+SYRS,Syros Pharmaceuticals Inc,1,XNAS,USA,USD
+SYTAW,Siyata Mobile Inc,1,XNAS,USA,USD
+TASK,Taskus Inc,1,XNAS,USA,USD
+TBBK,The Bancorp Inc,1,XNAS,USA,USD
+TFINP,Triumph Financial Inc,1,XNAS,USA,USD
+TRAW,Traws Pharma Inc,1,XNAS,USA,USD
+TRST,TrustCo Bank Corp NY,1,XNAS,USA,USD
+HOLO,MicroCloud Hologram Inc.,1,XNAS,USA,USD
+HTLF,Heartland Financial USA Inc,1,XNAS,USA,USD
+HWCPZ,Hancock Whitney Corporation - 6,1,XNAS,USA,USD
+IBCP,Independent Bank Corporation,1,XNAS,USA,USD
+III,Information Services Group Inc,1,XNAS,USA,USD
+INCR,INC Research Holdings Inc,1,XNAS,USA,USD
+IPHA,Innate Pharma,1,XNAS,USA,USD
+IXHL,Incannex Healthcare Ltd ADR,1,XNAS,USA,USD
+JSPRW,Jasper Therapeutics Inc,1,XNAS,USA,USD
+KANT,"Kineta, Inc.",1,XNAS,USA,USD
+UK,Ucommune International Ltd,1,XNAS,USA,USD
+UPST,Upstart Holdings Inc,1,XNAS,USA,USD
+UPWK,Upwork Inc,1,XNAS,USA,USD
+UXIN,Uxin Ltd,1,XNAS,USA,USD
+VTVT,vTv Therapeutics Inc,1,XNAS,USA,USD
+XGN,Exagen Inc,1,XNAS,USA,USD
+XNET,Xunlei Ltd Adr,1,XNAS,USA,USD
+XTLB,XTL Biopharmaceuticals Ltd ADR,1,XNAS,USA,USD
+ZBRA,Zebra Technologies Corporation,1,XNAS,USA,USD
+ZVRA,Zevra Therapeutics Inc.,1,XNAS,USA,USD
+ACHV,Achieve Life Sciences Inc,1,XNAS,USA,USD
+ACONW,Aclarion Inc,1,XNAS,USA,USD
+ACRS,Aclaris Therapeutics Inc,1,XNAS,USA,USD
+AGAE,Allied Gaming & Entertainment Inc.,1,XNAS,USA,USD
+AGNC,AGNC Investment Corp,1,XNAS,USA,USD
+AILE,"iLearningEngines, Inc.",1,XNAS,USA,USD
+AITRR,AI TRANSPORTATION ACQUISITION CORP Right,1,XNAS,USA,USD
+ALLK,Allakos Inc,1,XNAS,USA,USD
+ALLO,Allogene Therapeutics Inc,1,XNAS,USA,USD
+API,Agora Inc,1,XNAS,USA,USD
+ARBKL,Argo Blockchain plc 8.75% Senior Notes due 2026,1,XNAS,USA,USD
+AREC,American Resources Corp Class A,1,XNAS,USA,USD
+ATCOL,Atlas Corp,1,XNAS,USA,USD
+ATMV,AlphaVest Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+AUROW,Aurora Innovation Inc,1,XNAS,USA,USD
+AVGO,Broadcom Inc,1,XNAS,USA,USD
+AVMC,aVINCI MEDIA CORP,1,XNAS,USA,USD
+BBIO,BridgeBio Pharma Inc,1,XNAS,USA,USD
+BCDA,Biocardia Inc,1,XNAS,USA,USD
+BCG,"Binah Capital Group, Inc. Common Stock",1,XNAS,USA,USD
+BDSX,Biodesix Inc,1,XNAS,USA,USD
+BMR,Beamr Imaging Ltd. Ordinary Share,1,XNAS,USA,USD
+BRKH,BurTech Acquisition Corp,1,XNAS,USA,USD
+BRZE,Braze Inc,1,XNAS,USA,USD
+KRRO,Frequency Therapeutics Inc,1,XNAS,USA,USD
+LFUS,Littelfuse Inc,1,XNAS,USA,USD
+LMDXF,LMDXF,1,XNAS,USA,USD
+LOBO,LOBO EV TECHNOLOGIES LTD. Ordinary shares,1,XNAS,USA,USD
+LTRY,"Lottery.com, Inc. Common Stock",1,XNAS,USA,USD
+LTRYW,"Lottery.com, Inc. Warrants",1,XNAS,USA,USD
+MBIN,Merchants Bancorp,1,XNAS,USA,USD
+METCB,Ramaco Resources Inc.,1,XNAS,USA,USD
+MINM,Minim Inc,1,XNAS,USA,USD
+MRAI,Marpai Inc,1,XNAS,USA,USD
+MRIN,Marin Software Inc,1,XNAS,USA,USD
+MVSTW,Microvast Holdings Inc,1,XNAS,USA,USD
+NBBK,"NB Bancorp, Inc. Common Stock",1,XNAS,USA,USD
+NBN,Northeast Bancorp,1,XNAS,USA,USD
+NCSM,NCS Multistage Holdings Inc,1,XNAS,USA,USD
+NGNE,Neurogene Inc,1,XNAS,USA,USD
+NHYAX,NHYAX,1,XNAS,USA,USD
+NOVT,Novanta Inc,1,XNAS,USA,USD
+BWEN,Broadwind Energy Inc,1,XNAS,USA,USD
+BYRN,Byrna Technologies Inc,1,XNAS,USA,USD
+CDRO,Codere Online US Corp,1,XNAS,USA,USD
+CENQW,CENAQ Energy Corp. Warrant,1,XNAS,USA,USD
+CHCO,City Holding Company,1,XNAS,USA,USD
+CLNE,Clean Energy Fuels Corp,1,XNAS,USA,USD
+CMAX,CareMax Inc,1,XNAS,USA,USD
+CORFX,CORFX,1,XNAS,USA,USD
+COYA,"Coya Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+CRBP,Corbus Pharmaceuticals Holding,1,XNAS,USA,USD
+CRESY,Cresud SACIF y A,1,XNAS,USA,USD
+CRSP,Crispr Therapeutics AG,1,XNAS,USA,USD
+CRWD,Crowdstrike Holdings Inc,1,XNAS,USA,USD
+CSSPQ,"Chicken Soup for the Soul Entertainment, Inc.",1,XNAS,USA,USD
+CTNM,"Contineum Therapeutics, Inc. Class A Common Stock",1,XNAS,USA,USD
+CUENW,Cuentas Inc,1,XNAS,USA,USD
+CWBC,Community West Bancshares,1,XNAS,USA,USD
+DASH,"DoorDash, Inc. Class A Common Stock",1,XNAS,USA,USD
+DBGIW,Digital Brands Group Inc,1,XNAS,USA,USD
+DENN,Denny’s Corp,1,XNAS,USA,USD
+DGHI,Digihost Technology Inc,1,XNAS,USA,USD
+DGII,Digi International Inc,1,XNAS,USA,USD
+DSY,Big Tree Cloud Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+DTI,Drilling Tools International Corp.,1,XNAS,USA,USD
+OCTO,Eightco Holdings Inc.,1,XNAS,USA,USD
+OMQS,Omniq Corp,1,XNAS,USA,USD
+OPHC,OptimumBank Holdings Inc,1,XNAS,USA,USD
+OPRT,Oportun Financial Corp,1,XNAS,USA,USD
+PLAOU,Patria Latin American Opportunity Acquisition Corp,1,XNAS,USA,USD
+PLL,Piedmont Lithium Ltd ADR,1,XNAS,USA,USD
+PROF,Profound Medical Corp,1,XNAS,USA,USD
+PSHG,Performance Shipping Inc,1,XNAS,USA,USD
+PWUPW,PowerUp Acquisition Corp. Warrant,1,XNAS,USA,USD
+QNRX,Quoin Pharmaceuticals Ltd DRC,1,XNAS,USA,USD
+QSIAW,Quantum-Si incorporated,1,XNAS,USA,USD
+RBCAA,Republic Bancorp Inc,1,XNAS,USA,USD
+RELIW,Reliance Global Group Inc,1,XNAS,USA,USD
+RILY,B. Riley Financial Inc,1,XNAS,USA,USD
+ROP,"Roper Technologies, Inc. Common Stock",1,XNAS,USA,USD
+RPD,Rapid7 Inc,1,XNAS,USA,USD
+ENGNW,enGene Holdings Inc. Warrants,1,XNAS,USA,USD
+EOSE,Eos Energy Enterprises Inc,1,XNAS,USA,USD
+EURKU,Eureka Acquisition Corp Unit,1,XNAS,USA,USD
+EVLVW,Evolv Technologies Holdings Inc,1,XNAS,USA,USD
+EXPI,eXp World Holdings Inc,1,XNAS,USA,USD
+FDUS,Fidus Investment Corp,1,XNAS,USA,USD
+FENC,Fennec Pharmaceuticals Inc,1,XNAS,USA,USD
+FLYW,Flywire Corp,1,XNAS,USA,USD
+FNGR,FingerMotion Inc,1,XNAS,USA,USD
+FRLA,Fortune Rise Acquisition Corp,1,XNAS,USA,USD
+FUFU,BitFuFu Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+FULT,Fulton Financial Corporation,1,XNAS,USA,USD
+GGAUF,Genesis Growth Tech Acquisition Corp.,1,XNAS,USA,USD
+GGR,Gogoro Inc,1,XNAS,USA,USD
+GLACR,Global Lights Acquisition Corp Rights,1,XNAS,USA,USD
+GMFI,Aetherium Acquisition Corp,1,XNAS,USA,USD
+GMM,Global Mofy Metaverse Limited Ordinary Shares,1,XNAS,USA,USD
+GPATW,GP-Act III Acquisition Corp. Warrants,1,XNAS,USA,USD
+GRAL,"GRAIL, LLC",1,XNAS,USA,USD
+SANM,Sanmina Corporation,1,XNAS,USA,USD
+SATLW,Satellogic Inc. Warrant,1,XNAS,USA,USD
+SCWO,374Water Inc. Common Stock,1,XNAS,USA,USD
+SDIG,Stronghold Digital Mining Inc,1,XNAS,USA,USD
+SKIN,Beauty Health Co,1,XNAS,USA,USD
+SNEX,Stonex Group Inc,1,XNAS,USA,USD
+SSIC,Silver Spike Investment Corp,1,XNAS,USA,USD
+SSNC,SS&C Technologies Holdings Inc,1,XNAS,USA,USD
+SSSS,SuRo Capital Corp,1,XNAS,USA,USD
+TBNK,Territorial Bancorp Inc,1,XNAS,USA,USD
+TCPC,BlackRock TCP Capital Corp,1,XNAS,USA,USD
+TCRT,Alaunos Therapeutics Inc,1,XNAS,USA,USD
+TLS,Telos Corp,1,XNAS,USA,USD
+TLSI,TriSalus Life Sciences Inc.,1,XNAS,USA,USD
+TNGX,Tango Therapeutics Inc,1,XNAS,USA,USD
+TPIC,TPI Composites Inc,1,XNAS,USA,USD
+TRUG,Trugolf Inc,1,XNAS,USA,USD
+HCWB,HCW Biologics Inc,1,XNAS,USA,USD
+HFBL,Home Federal Bancorp Louisiana,1,XNAS,USA,USD
+HGASW,Global Gas Corporation,1,XNAS,USA,USD
+HON,Honeywell International Inc,1,XNAS,USA,USD
+HONE,HarborOne Bancorp Inc,1,XNAS,USA,USD
+HOWL,Werewolf Therapeutics Inc,1,XNAS,USA,USD
+HSTO,Histogen Inc,1,XNAS,USA,USD
+HURN,Huron Consulting Group Inc,1,XNAS,USA,USD
+IBRX,Immunitybio Inc,1,XNAS,USA,USD
+IDYA,Ideaya Biosciences Inc,1,XNAS,USA,USD
+INTA,Intapp Inc,1,XNAS,USA,USD
+INVE,Identiv Inc,1,XNAS,USA,USD
+IPW,iPower Inc,1,XNAS,USA,USD
+IROQ,IF Bancorp Inc,1,XNAS,USA,USD
+ISPR,Ispire Technology Inc. Common Stock,1,XNAS,USA,USD
+JYNT,The Joint Corp,1,XNAS,USA,USD
+TWST,Twist Bioscience Corp,1,XNAS,USA,USD
+UHGWW,United Homes Group Inc.,1,XNAS,USA,USD
+UROY,Uranium Royalty Corp,1,XNAS,USA,USD
+VEON,VEON Ltd,1,XNAS,USA,USD
+VERB,VERB TECHNOLOGY COMPANY INC,1,XNAS,USA,USD
+VKTX,Viking Therapeutics Inc,1,XNAS,USA,USD
+VRA,Vera Bradley Inc,1,XNAS,USA,USD
+VREX,Varex Imaging Corp,1,XNAS,USA,USD
+VRME,VerifyMe Inc,1,XNAS,USA,USD
+WASH,Washington Trust Bancorp Inc,1,XNAS,USA,USD
+WNEB,Western New England Bancorp Inc,1,XNAS,USA,USD
+WTBN,WisdomTree Bianco Total Return Fund,1,XNAS,USA,USD
+ZNTL,Zentalis Pharmaceuticals Llc,1,XNAS,USA,USD
+ABNB,Airbnb Inc,1,XNAS,USA,USD
+AFJKU,"Aimei Health Technology Co., Ltd Unit",1,XNAS,USA,USD
+AGBAW,AGBA Acquisition Limited,1,XNAS,USA,USD
+AHCO,Adapthealth Corp,1,XNAS,USA,USD
+AIMDW,Ainos Inc.,1,XNAS,USA,USD
+ALCO,Alico Inc,1,XNAS,USA,USD
+ALGM,Allegro Microsystems Inc,1,XNAS,USA,USD
+ANDE,The Andersons Inc,1,XNAS,USA,USD
+ARWR,Arrowhead Pharmaceuticals Inc,1,XNAS,USA,USD
+ATMCW,AlphaTime Acquisition Corp Warrant,1,XNAS,USA,USD
+AUPH,Aurinia Pharmaceuticals Inc,1,XNAS,USA,USD
+BACK,IMAC Holdings Inc,1,XNAS,USA,USD
+BASE,Couchbase Inc,1,XNAS,USA,USD
+BAYAU,Bayview Acquisition Corp Unit,1,XNAS,USA,USD
+BLKB,Blackbaud Inc,1,XNAS,USA,USD
+BMEA,Biomea Fusion Inc,1,XNAS,USA,USD
+BOWN,Bowen Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+BREA,Brera Holdings PLC Class B Ordinary Shares,1,XNAS,USA,USD
+KRYS,Krystal Biotech Inc,1,XNAS,USA,USD
+LE,Lands’ End Inc,1,XNAS,USA,USD
+LOGI,Logitech International SA,1,XNAS,USA,USD
+LQDA,Liquidia Technologies Inc,1,XNAS,USA,USD
+LSAK,Lesaka Technologies Inc,1,XNAS,USA,USD
+MARK,Remark Holdings Inc,1,XNAS,USA,USD
+MNKD,MannKind Corp,1,XNAS,USA,USD
+MULN,Mullen Automotive Inc.,1,XNAS,USA,USD
+NDSN,Nordson Corporation,1,XNAS,USA,USD
+NEWT,Newtek Business Services Corp,1,XNAS,USA,USD
+NITO,N2OFF Inc,1,XNAS,USA,USD
+BUJAR,Bukit Jalil Global Acquisition 1 Ltd. Rights,1,XNAS,USA,USD
+CALT,Calliditas Therapeutics,1,XNAS,USA,USD
+CCTS,Cactus Acquisition Corp 1 Ltd,1,XNAS,USA,USD
+CEVA,CEVA Inc,1,XNAS,USA,USD
+CLDX,Celldex Therapeutics Inc,1,XNAS,USA,USD
+CLRO,ClearOne Inc,1,XNAS,USA,USD
+CORT,Corcept Therapeutics Incorporated,1,XNAS,USA,USD
+CPOP,Pop Culture Group Co Ltd,1,XNAS,USA,USD
+CREVW,Carbon Revolution Public Limited Company Warrant,1,XNAS,USA,USD
+CRNT,Ceragon Networks Ltd,1,XNAS,USA,USD
+CSPI,CSP Inc,1,XNAS,USA,USD
+CVV,CVD Equipment Corporation,1,XNAS,USA,USD
+DHAI,"DIH Holdings US, Inc. Class A Common Stock",1,XNAS,USA,USD
+OBIO,Orchestra BioMed Holdings Inc.,1,XNAS,USA,USD
+OCG,Oriental Culture Holding Ltd,1,XNAS,USA,USD
+ODVWZ,Osisko Development Corp. Warrant expiring 5/27/2027,1,XNAS,USA,USD
+OMCL,Omnicell Inc,1,XNAS,USA,USD
+OMH,Ohmyhome Limited Ordinary Shares,1,XNAS,USA,USD
+OPT,Opthea Ltd,1,XNAS,USA,USD
+OSS,One Stop Systems Inc,1,XNAS,USA,USD
+PBYI,Puma Biotechnology Inc,1,XNAS,USA,USD
+PCB,PCB Bancorp,1,XNAS,USA,USD
+PFIE,Profire Ene,1,XNAS,USA,USD
+PFTA,Portage Fintech Acquisition Corp,1,XNAS,USA,USD
+PGY,Pagaya Technologies Ltd.,1,XNAS,USA,USD
+PIRS,Pieris Pharmaceuticals Inc,1,XNAS,USA,USD
+PRAX,Praxis Precision Medicines Inc,1,XNAS,USA,USD
+PYPD,PolyPid,1,XNAS,USA,USD
+QMMM,QMMM Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+QRTEB,Qurate Retail Inc Series B,1,XNAS,USA,USD
+RCON,Recon Technology Ltd,1,XNAS,USA,USD
+RDNT,RadNet Inc,1,XNAS,USA,USD
+ROIV,Roivant Sciences Ltd,1,XNAS,USA,USD
+RRBI,Red River Bancshares Inc,1,XNAS,USA,USD
+ELWS,"Earlyworks Co., Ltd. American Depositary Shares",1,XNAS,USA,USD
+ESLT,Elbit Systems Ltd,1,XNAS,USA,USD
+ETON,Eton Pharmaceuticals Inc,1,XNAS,USA,USD
+FAAS,DigiAsia Corp,1,XNAS,USA,USD
+FBIZ,First Business Financial Services,1,XNAS,USA,USD
+FLGT,Fulgent Genetics Inc,1,XNAS,USA,USD
+FUSB,First US Bancshares Inc,1,XNAS,USA,USD
+FWONK,Liberty Media Corporation Series C Liberty Formula One Common Stock,1,XNAS,USA,USD
+GAIA,Gaia Inc,1,XNAS,USA,USD
+GLNG,Golar LNG Limited,1,XNAS,USA,USD
+GORV,Lazydays Holdings Inc,1,XNAS,USA,USD
+GRRR,Gorilla Technology Group Inc.,1,XNAS,USA,USD
+HCDIQ,Harbor Custom Development Inc,1,XNAS,USA,USD
+RVMDW,"Revolution Medicines, Inc. Warrant",1,XNAS,USA,USD
+SBFM,Sunshine Biopharma Inc,1,XNAS,USA,USD
+SCWX,Secureworks Corp,1,XNAS,USA,USD
+SEZL,Sezzle Inc. Common Stock,1,XNAS,USA,USD
+SHEN,Shenandoah Telecommunications Co,1,XNAS,USA,USD
+SHYF,Shyft Group Inc,1,XNAS,USA,USD
+SILO,Silo Pharma Inc,1,XNAS,USA,USD
+SIMAW,SIM Acquisition Corp. I Warrant,1,XNAS,USA,USD
+SISI,Shineco Inc,1,XNAS,USA,USD
+SLND,Southland Holdings Inc.,1,XNAS,USA,USD
+SOPH,Sophia Genetics SA,1,XNAS,USA,USD
+SOUNW,SoundHound AI Inc.,1,XNAS,USA,USD
+SPOK,Spok Holdings Inc,1,XNAS,USA,USD
+SUPN,Supernus Pharmaceuticals Inc,1,XNAS,USA,USD
+SXTP,"60 Degrees Pharmaceuticals, Inc. Common Stock",1,XNAS,USA,USD
+SYRE,Spyre Therapeutics Inc.,1,XNAS,USA,USD
+TBLAW,Taboola.com Ltd. Warrant,1,XNAS,USA,USD
+THRD,Third Harmonic Bio Inc.,1,XNAS,USA,USD
+TLRY,Tilray Inc,1,XNAS,USA,USD
+TNFA,"TNF Pharmaceuticals, Inc.",1,XNAS,USA,USD
+TORO,Toro Ltd,1,XNAS,USA,USD
+TROO,TROOPS Inc,1,XNAS,USA,USD
+TSLA,Tesla Inc,1,XNAS,USA,USD
+TVGN,Tevogen Bio Holdings Inc,1,XNAS,USA,USD
+HLIT,Harmonic Inc,1,XNAS,USA,USD
+HLXB,Helix Acquisition Corp. II Class A Ordinary Shares,1,XNAS,USA,USD
+HOFT,Hooker Furniture Corporation,1,XNAS,USA,USD
+HOTH,Hoth Therapeutics Inc,1,XNAS,USA,USD
+HPH,Highest Performances Holdings Inc.,1,XNAS,USA,USD
+HPK,Highpeak Energy Acquisition Corp,1,XNAS,USA,USD
+HSPO,Horizon Space Acquisition I Corp. Ordinary Shares,1,XNAS,USA,USD
+HUIZ,Huize Holding Ltd,1,XNAS,USA,USD
+INTE,Integral Acquisition 1 Corp,1,XNAS,USA,USD
+INTU,Intuit Inc,1,XNAS,USA,USD
+IONM,Assure Holdings Corp,1,XNAS,USA,USD
+IVCB,Investcorp Europe Acquisition I Corp,1,XNAS,USA,USD
+IXAQF,IXAQF,1,XNAS,USA,USD
+IZEA,IZEA Inc,1,XNAS,USA,USD
+JFU,9F Inc,1,XNAS,USA,USD
+KC,Kingsoft Cloud Holdings Ltd,1,XNAS,USA,USD
+VALN,Valneva SE ADR,1,XNAS,USA,USD
+VAXX,Vaxxinity Inc,1,XNAS,USA,USD
+VIRT,Virtu Financial Inc,1,XNAS,USA,USD
+VMEO,Vimeo Inc,1,XNAS,USA,USD
+VRNA,Verona Pharma PLC ADR,1,XNAS,USA,USD
+VTSI,VirTra Inc,1,XNAS,USA,USD
+WENA,"Anew Medical, Inc.",1,XNAS,USA,USD
+WSBF,Waterstone Financial Inc,1,XNAS,USA,USD
+WSC,Willscot Mobile Mini Holdings Corp A,1,XNAS,USA,USD
+WTFC,Wintrust Financial Corporation,1,XNAS,USA,USD
+ZKIN,ZK International Group Co Ltd,1,XNAS,USA,USD
+ADI,Analog Devices Inc,1,XNAS,USA,USD
+AERT,Aeries Technology Inc.,1,XNAS,USA,USD
+AHG,Akso Health Group ADR,1,XNAS,USA,USD
+AIRJ,Montana Technologies Corporation,1,XNAS,USA,USD
+ALSA,Alpha Star Acquisition Corp,1,XNAS,USA,USD
+AMZN,Amazon.com Inc,1,XNAS,USA,USD
+ASTLW,Algoma Steel Group Inc. Warrant,1,XNAS,USA,USD
+BAYAR,Bayview Acquisition Corp Right,1,XNAS,USA,USD
+BBIG,Vinco Ventures Inc,1,XNAS,USA,USD
+BIOL,BIOLASE Inc,1,XNAS,USA,USD
+BLMZ,BloomZ Inc. Ordinary Shares,1,XNAS,USA,USD
+BMRC,Bank of Marin Bancorp,1,XNAS,USA,USD
+BSFC,Blue Star Foods Corp,1,XNAS,USA,USD
+LFLY,Leafly Holdings Inc,1,XNAS,USA,USD
+LICN,Lichen China Limited Class A Ordinary Shares,1,XNAS,USA,USD
+LSTA,Lisata Therapeutics Inc.,1,XNAS,USA,USD
+LXEH,Lixiang Education Holding Co Ltd,1,XNAS,USA,USD
+LXEO,"Lexeo Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+LYT,Lytus Technologies Holdings PTV. Ltd. Common Shares,1,XNAS,USA,USD
+MAQC,Maquia Capital Acquisition Corp,1,XNAS,USA,USD
+MDXG,MiMedx Group Inc,1,XNAS,USA,USD
+MKDW,MKDWELL Tech Inc. Ordinary Share,1,XNAS,USA,USD
+MKSI,MKS Instruments Inc,1,XNAS,USA,USD
+MKTX,MarketAxess Holdings Inc,1,XNAS,USA,USD
+MLEC,Moolec Science SA Ordinary Shares,1,XNAS,USA,USD
+MRSN,Mersana Therapeutics Inc,1,XNAS,USA,USD
+MTRX,Matrix Service Co,1,XNAS,USA,USD
+NCMI,National CineMedia Inc,1,XNAS,USA,USD
+NCNA,NuCana PLC,1,XNAS,USA,USD
+NIXXW,"Nixxy, Inc.",1,XNAS,USA,USD
+NMFC,New Mountain Finance Corporation,1,XNAS,USA,USD
+NMRK,Newmark Group Inc,1,XNAS,USA,USD
+NNBR,NN Inc,1,XNAS,USA,USD
+BUJA,Bukit Jalil Global Acquisition 1 Ltd. Ordinary Shares,1,XNAS,USA,USD
+CCEC,Capital Clean Energy Carriers Corp.,1,XNAS,USA,USD
+CDT,Conduit Pharmaceuticals Inc.,1,XNAS,USA,USD
+CDXS,Codexis Inc,1,XNAS,USA,USD
+CFFS,CF Acquisition VII Corp,1,XNAS,USA,USD
+CHNR,China Natural Resources Inc,1,XNAS,USA,USD
+CLRCR,ClimateRock Right,1,XNAS,USA,USD
+CLST,Catalyst Bancorp Inc,1,XNAS,USA,USD
+CLYM,Climb Bio Inc,1,XNAS,USA,USD
+CRNX,Crinetics Pharmaceuticals Inc,1,XNAS,USA,USD
+CRVS,Corvus Pharmaceuticals Inc,1,XNAS,USA,USD
+CSCO,Cisco Systems Inc,1,XNAS,USA,USD
+DAKT,Daktronics Inc,1,XNAS,USA,USD
+DBVT,DBV Technologies,1,XNAS,USA,USD
+DOCU,DocuSign Inc,1,XNAS,USA,USD
+NUVO,Holdco Nuvo Group D.G Ltd. Ordinary Shares,1,XNAS,USA,USD
+OABI,OmniAb Inc.,1,XNAS,USA,USD
+OB,Outbrain Inc,1,XNAS,USA,USD
+OBT,Orange County Bancorp Inc,1,XNAS,USA,USD
+OCEAW,Ocean Biomedical Inc.,1,XNAS,USA,USD
+OCGN,Ocugen Inc,1,XNAS,USA,USD
+OFSSH,OFS Capital Corporation 4.95% Notes due 2028,1,XNAS,USA,USD
+ON,ON Semiconductor Corporation,1,XNAS,USA,USD
+ONYXW,Onyx Acquisition Co. I Warrant,1,XNAS,USA,USD
+PAGP,Plains GP Holdings LP,1,XNAS,USA,USD
+PET,Wag! Group Co.,1,XNAS,USA,USD
+PLPC,Preformed Line Products Company,1,XNAS,USA,USD
+POCI,"Precision Optics Corporation, Inc. Common stock",1,XNAS,USA,USD
+POLA,Polar Power Inc,1,XNAS,USA,USD
+PRME,"Prime Medicine, Inc. Common Stock",1,XNAS,USA,USD
+PWER,Power One Inc,1,XNAS,USA,USD
+QCEQPX,CREF Equity Index Account - R2,1,XNAS,USA,USD
+QETAR,Quetta Acquisition Corporation Right,1,XNAS,USA,USD
+RCRT,Recruiter.Com Group Inc,1,XNAS,USA,USD
+REE,Ree Automotive Holding Inc,1,XNAS,USA,USD
+RENT,Rent the Runway Inc,1,XNAS,USA,USD
+RGNX,Regenxbio Inc,1,XNAS,USA,USD
+ROAD,Construction Partners Inc,1,XNAS,USA,USD
+EXEEW,Expand Energy Corporation,1,XNAS,USA,USD
+EXEEZ,Expand Energy Corporation,1,XNAS,USA,USD
+EZGO,EZGO Technologies Ltd,1,XNAS,USA,USD
+FA,First Advantage Corp,1,XNAS,USA,USD
+FCUV,Focus Universal Inc,1,XNAS,USA,USD
+FEBO,Fenbo Holdings Limited Ordinary Shares,1,XNAS,USA,USD
+FKWL,Franklin Wireless Corp,1,XNAS,USA,USD
+FORA,Forian Inc,1,XNAS,USA,USD
+FULC,Fulcrum Therapeutics Inc,1,XNAS,USA,USD
+FVCB,FVCBankcorp Inc,1,XNAS,USA,USD
+GDEVW,Nexters Inc. Warrant,1,XNAS,USA,USD
+GEN,Gen Digital Inc.,1,XNAS,USA,USD
+GRWG,GrowGeneration Corp,1,XNAS,USA,USD
+GTIM,Good Times Restaurants Inc,1,XNAS,USA,USD
+GVP,GSE Systems Inc,1,XNAS,USA,USD
+HAIA,Healthcare AI Acquisition Corp,1,XNAS,USA,USD
+RVSNW,Rail Vision Ltd. Warrant,1,XNAS,USA,USD
+RWAY,Runway Growth Finance Corp,1,XNAS,USA,USD
+SGRY,Surgery Partners Inc,1,XNAS,USA,USD
+SHMDW,SCHMID Group N.V. Warrants,1,XNAS,USA,USD
+SIEB,Siebert Financial Corp,1,XNAS,USA,USD
+SKYE,"Skye Bioscience, Inc. Common Stock",1,XNAS,USA,USD
+SLXNW,Biomotion Sciences Warrant,1,XNAS,USA,USD
+SMXT,Solarmax Technology Inc. Common Stock,1,XNAS,USA,USD
+SNY,Sanofi ADR,1,XNAS,USA,USD
+SPECW,Spectaire Holdings Inc.,1,XNAS,USA,USD
+SSBK,Southern States Bancshares Inc,1,XNAS,USA,USD
+TIO,Tingo Group Inc.,1,XNAS,USA,USD
+TLSA,Tiziana Life Sciences Ltd,1,XNAS,USA,USD
+TOIIW,The Oncology Institute Inc,1,XNAS,USA,USD
+HFFG,Hf Foods Group Inc,1,XNAS,USA,USD
+HGAS,Global Gas Corporation,1,XNAS,USA,USD
+HIVE,HIVE Blockchain Technologies Ltd,1,XNAS,USA,USD
+HOLOW,MicroCloud Hologram Inc.,1,XNAS,USA,USD
+HONDU,HCM II Acquisition Corp. Unit,1,XNAS,USA,USD
+HYZN,Hyzon Motors Inc,1,XNAS,USA,USD
+IBKR,Interactive Brokers Group Inc,1,XNAS,USA,USD
+ICCH,ICC Holdings Inc,1,XNAS,USA,USD
+IEP,Icahn Enterprises LP,1,XNAS,USA,USD
+IMPLQ,Impel Pharmaceuticals Inc,1,XNAS,USA,USD
+INAQW,Insight Acquisition Corp. Warrant,1,XNAS,USA,USD
+INBX,Inhibrx Inc,1,XNAS,USA,USD
+IRAAU,Iris Acquisition Corp,1,XNAS,USA,USD
+IROHW,Iron Horse Acquisitions Corp. Warrant,1,XNAS,USA,USD
+ITCI,Intracellular Th,1,XNAS,USA,USD
+JOUT,Johnson Outdoors Inc,1,XNAS,USA,USD
+TWKS,Thoughtworks Holding Inc,1,XNAS,USA,USD
+ULTA,Ulta Beauty Inc,1,XNAS,USA,USD
+VBNK,VersaBank,1,XNAS,USA,USD
+VINP,Vinci Partners Investments Ltd,1,XNAS,USA,USD
+VRCA,Verrica Pharmaceuticals Inc,1,XNAS,USA,USD
+VSAT,ViaSat Inc,1,XNAS,USA,USD
+WAFD,Washington Federal Inc,1,XNAS,USA,USD
+WEN,The Wendy’s Co,1,XNAS,USA,USD
+XBIO,Xenetic Biosciences Inc,1,XNAS,USA,USD
+ZAPPW,Zapp Electric Vehicles Group Limited Warrant,1,XNAS,USA,USD
+AAGRW,African Agriculture Holdings Inc,1,XNAS,USA,USD
+ABCB,Ameris Bancorp,1,XNAS,USA,USD
+ABEO,Abeona Therapeutics Inc,1,XNAS,USA,USD
+ACVA,ACV Auctions Inc,1,XNAS,USA,USD
+AIHS,Senmiao Technology Ltd,1,XNAS,USA,USD
+AISPW,Airship AI Holdings Inc,1,XNAS,USA,USD
+ALAR,Alarum Technologies Ltd.,1,XNAS,USA,USD
+ALCYW,Alchemy Investments Acquisition Corp 1 Warrants,1,XNAS,USA,USD
+AMBA,Ambarella Inc,1,XNAS,USA,USD
+ANGI,ANGI Homeservices Inc,1,XNAS,USA,USD
+APLD,Applied Blockchain Inc,1,XNAS,USA,USD
+ASTSW,AST SpaceMobile Inc,1,XNAS,USA,USD
+ATLC,Atlanticus Holdings Corporation,1,XNAS,USA,USD
+ATLO,Ames National Corporation,1,XNAS,USA,USD
+AURA,Aura Biosciences Inc,1,XNAS,USA,USD
+BCML,BayCom Corp,1,XNAS,USA,USD
+BLACW,Bellevue Life Sciences Acquisition Corp. Warrant,1,XNAS,USA,USD
+BLEUW,bleuacacia ltd Warrants,1,XNAS,USA,USD
+BLTE,Belite Bio Inc ADR,1,XNAS,USA,USD
+BTCT,BTC Digital Ltd.,1,XNAS,USA,USD
+KVAC,Keen Vision Acquisition Corporation Ordinary Shares,1,XNAS,USA,USD
+LIXTW,Lixte Biotechnology Holdings Inc,1,XNAS,USA,USD
+MARX,Mars Acquisition Corp. Ordinary Shares,1,XNAS,USA,USD
+MATW,Matthews International Corporation,1,XNAS,USA,USD
+MBAVU,M3-Brigade Acquisition V Corp. Units,1,XNAS,USA,USD
+MEOH,Methanex Corporation,1,XNAS,USA,USD
+MPWR,Monolithic Power Systems Inc,1,XNAS,USA,USD
+NEOG,Neogen Corporation,1,XNAS,USA,USD
+NISN,Nisun International Enterprise Development Group Co Ltd,1,XNAS,USA,USD
+NKGN,"NKGen Biotech, Inc. Common Stock",1,XNAS,USA,USD
+NKLA,Nikola Corp,1,XNAS,USA,USD
+NMIH,NMI Holdings Inc,1,XNAS,USA,USD
+NNAVW,NextNav Inc. Warrant,1,XNAS,USA,USD
+NNE,Nano Nuclear Energy Inc. Common Stock,1,XNAS,USA,USD
+NTLA,Intellia Therapeutics Inc,1,XNAS,USA,USD
+NTRP,NextTrip Inc,1,XNAS,USA,USD
+BTSG,"BrightSpring Health Services, Inc. Common Stock",1,XNAS,USA,USD
+CALC,"CalciMedica, Inc. Common Stock",1,XNAS,USA,USD
+CANB,Can B Corp,1,XNAS,USA,USD
+CARA,Cara Therapeutic,1,XNAS,USA,USD
+CDROW,Codere Online Luxembourg S.A. Warrants,1,XNAS,USA,USD
+CDXC,Chromadex Corp,1,XNAS,USA,USD
+CETX,Cemtrex Inc,1,XNAS,USA,USD
+CFFSW,CF Acquisition Corp. VII Warrant,1,XNAS,USA,USD
+CHCI,Comstock Holding Companies Inc,1,XNAS,USA,USD
+CHKEZ,Chesapeake Energy Corporation,1,XNAS,USA,USD
+CLOE,Clover Leaf Capital Corp,1,XNAS,USA,USD
+CMND,Clearmind Medicine Inc. Common Shares,1,XNAS,USA,USD
+CNSL,Consolidated Communications,1,XNAS,USA,USD
+CNTA,Centessa Pharmaceuticals PLC ADR,1,XNAS,USA,USD
+COLL,Collegium Pharmaceutical Inc,1,XNAS,USA,USD
+CONNQ,"Conn's, Inc.",1,XNAS,USA,USD
+CSGS,CSG Systems International Inc,1,XNAS,USA,USD
+CSX,CSX Corporation,1,XNAS,USA,USD
+CULL,Cullman Bancorp Inc.,1,XNAS,USA,USD
+CURIW,CuriosityStream Inc,1,XNAS,USA,USD
+DLTH,Duluth Holdings Inc,1,XNAS,USA,USD
+DTSQU,DT Cloud Star Acquisition Corporation Units,1,XNAS,USA,USD
+NUWE,Nuwellis Inc,1,XNAS,USA,USD
+NVVE,Nuvve Holding Corp,1,XNAS,USA,USD
+OMGA,Omega Therapeutics Inc,1,XNAS,USA,USD
+OP,Oceanpal Inc,1,XNAS,USA,USD
+OS,"OneStream, Inc. Class A Common Stock",1,XNAS,USA,USD
+OVBC,Ohio Valley Banc Corp,1,XNAS,USA,USD
+PAHC,Phibro Animal Health Corporation,1,XNAS,USA,USD
+PESI,Perma-Fix Environmental Svcs Inc,1,XNAS,USA,USD
+PETV,PetVivo Holdings Inc,1,XNAS,USA,USD
+PTRAQ,Proterra Inc,1,XNAS,USA,USD
+PXLW,Pixelworks Inc,1,XNAS,USA,USD
+QNST,QuinStreet Inc,1,XNAS,USA,USD
+QRTEA,Qurate Retail Inc Series A,1,XNAS,USA,USD
+QSAM,Qsam Biosciences Inc,1,XNAS,USA,USD
+RPAY,Repay Holdings Corp,1,XNAS,USA,USD
+EGHT,8x8 Inc Common Stock,1,XNAS,USA,USD
+ESCA,Escalade Incorporated,1,XNAS,USA,USD
+ESGR,Enstar Group Limited,1,XNAS,USA,USD
+ESHA,ESH Acquisition Corp. Class A Common Stock,1,XNAS,USA,USD
+ESLA,Estrella Immunopharma Inc.,1,XNAS,USA,USD
+EVAX,Evaxion Biotech AS,1,XNAS,USA,USD
+EVLO,Evelo Biosciences Inc,1,XNAS,USA,USD
+FAASW,DigiAsia Corp,1,XNAS,USA,USD
+FAST,Fastenal Company,1,XNAS,USA,USD
+FBYD,"Falcon's Beyond Global, Inc. Class A Common Stock",1,XNAS,USA,USD
+FFNW,First Financial Northwest Inc,1,XNAS,USA,USD
+FIBK,First Interstate BancSystem Inc,1,XNAS,USA,USD
+FLYE,"Fly-E Group, Inc. Common Stock",1,XNAS,USA,USD
+FRME,First Merchants Corporation,1,XNAS,USA,USD
+FSEA,First Seacoast Bancorp,1,XNAS,USA,USD
+FTAIO,Fortress Transportation and Preferred Series B,1,XNAS,USA,USD
+FTDR,Frontdoor Inc,1,XNAS,USA,USD
+GAMB,Gambling.com Group Ltd,1,XNAS,USA,USD
+GGE,Green Giant Inc.,1,XNAS,USA,USD
+GGEI,Green Giant Inc.,1,XNAS,USA,USD
+GLAD,Gladstone Capital Corporation,1,XNAS,USA,USD
+GLBS,Globus Maritime Ltd,1,XNAS,USA,USD
+GRPN,Groupon Inc,1,XNAS,USA,USD
+HALO,Halozyme Therapeutics Inc,1,XNAS,USA,USD
+RVPH,Reviva Pharmaceuticals Holdings Inc.,1,XNAS,USA,USD
+SBSI,Southside Bancshares Inc,1,XNAS,USA,USD
+SCOR,Comscore Inc,1,XNAS,USA,USD
+SFTGQ,Shift Technologies Inc.,1,XNAS,USA,USD
+SIBN,Si-Bone Inc,1,XNAS,USA,USD
+SINT,SINTX Technologies Inc,1,XNAS,USA,USD
+SKGRW,SK Growth Opportunities Corporation,1,XNAS,USA,USD
+SMX,SMX (Security Matters) Public Limited Company Class A Ordinary Shares,1,XNAS,USA,USD
+SNPX,Synaptogenix Inc,1,XNAS,USA,USD
+SPEC,Spectaire Holdings Inc.,1,XNAS,USA,USD
+SRRK,Scholar Rock Holding Corp,1,XNAS,USA,USD
+STI,Solidion Technology Inc.,1,XNAS,USA,USD
+STIM,Neuronetics Inc,1,XNAS,USA,USD
+STSS,Sharps Technology Inc,1,XNAS,USA,USD
+SVRA,Savara Inc,1,XNAS,USA,USD
+TCMD,Tactile Systems Technology Inc,1,XNAS,USA,USD
+TCOM,Trip.com Group Ltd ADR,1,XNAS,USA,USD
+TMTC,TMT Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+TSEM,Tower Semiconductor Ltd,1,XNAS,USA,USD
+HUBG,Hub Group Inc,1,XNAS,USA,USD
+INDB,Independent Bank,1,XNAS,USA,USD
+INMD,InMode Ltd,1,XNAS,USA,USD
+INSM,Insmed Inc,1,XNAS,USA,USD
+IONS,Ionis Pharmaceuticals Inc,1,XNAS,USA,USD
+IVDA,Iveda Solutions Inc,1,XNAS,USA,USD
+JD,JD.com Inc Adr,1,XNAS,USA,USD
+JDZG,JIADE LIMITED Common stock,1,XNAS,USA,USD
+JL,J-Long Group Limited Ordinary Shares,1,XNAS,USA,USD
+JZ,Jianzhi Education Technology Group Company Limited American Depositary Shares,1,XNAS,USA,USD
+KACL,Kairous Acquisition Corp Ltd,1,XNAS,USA,USD
+UBXG,U-BX Technology Ltd. Ordinary Shares,1,XNAS,USA,USD
+UNIY,WisdomTree Voya Yield Enhanced USD Universal Bond Fund,1,XNAS,USA,USD
+USGO,U.S. GoldMining Inc. Common stock,1,XNAS,USA,USD
+VACH,VACH,1,XNAS,USA,USD
+VINO,Gaucho Group Holdings Inc,1,XNAS,USA,USD
+VMAR,Vision Marine Technologies Inc,1,XNAS,USA,USD
+VRDN,Viridian Therapeutics Inc,1,XNAS,USA,USD
+VSSYW,Versus Systems Inc,1,XNAS,USA,USD
+WEYS,Weyco Group Inc,1,XNAS,USA,USD
+WINVR,WinVest Acquisition Corp. Right,1,XNAS,USA,USD
+WTBA,West Bancorporation,1,XNAS,USA,USD
+XFINW,ExcelFin Acquisition Corp Warrant,1,XNAS,USA,USD
+YQ,17 Education Technology Group Inc,1,XNAS,USA,USD
+ZPTA,Zapata Computing Holdings Inc. Common Stock,1,XNAS,USA,USD
+ACTG,Acacia Research Corporation,1,XNAS,USA,USD
+ADBE,Adobe Systems Incorporated,1,XNAS,USA,USD
+AGYS,Agilysys Inc,1,XNAS,USA,USD
+AIBBR,AIB Acquisition Corporation Right,1,XNAS,USA,USD
+AIOT,"PowerFleet, Inc.",1,XNAS,USA,USD
+AIP,Arteris Inc,1,XNAS,USA,USD
+ALGN,Align Technology Inc,1,XNAS,USA,USD
+ALXO,Alx Oncology Holdings ,1,XNAS,USA,USD
+APTO,Aptose Biosciences Inc,1,XNAS,USA,USD
+AREBW,American Rebel Holdings Inc. Warrants,1,XNAS,USA,USD
+AVGR,Avinger Inc,1,XNAS,USA,USD
+BEEM,Beam Global,1,XNAS,USA,USD
+BLDE,Blade Air Mobility Inc,1,XNAS,USA,USD
+BLEU,Bleuacacia Ltd,1,XNAS,USA,USD
+BLMN,Bloomin Brands Inc,1,XNAS,USA,USD
+BOOM,Dmc Global Inc,1,XNAS,USA,USD
+BSGM,Biosig Technologies Inc,1,XNAS,USA,USD
+BTCY,Biotricity Inc,1,XNAS,USA,USD
+KVHI,KVH Industries Inc,1,XNAS,USA,USD
+LCW,Learn CW Investment Corporation Class A Ordinary Shares,1,XNAS,USA,USD
+LFVN,Lifevantage Corporation,1,XNAS,USA,USD
+LGO,Largo Resources Ltd,1,XNAS,USA,USD
+MACIU,Melar Acquisition Corp. I Unit,1,XNAS,USA,USD
+MAXN,Maxeon Solar Technologies Ltd,1,XNAS,USA,USD
+MIGI,Mawson Infrastructure Group Inc,1,XNAS,USA,USD
+MITA,Coliseum Acquisition Corp. Class A Ordinary Share,1,XNAS,USA,USD
+MNDY,Monday.Com Ltd,1,XNAS,USA,USD
+MNY,MoneyHero Limited Class A Ordinary Shares,1,XNAS,USA,USD
+NAOV,NanoVibronix Inc,1,XNAS,USA,USD
+NCRA,Nocera Inc,1,XNAS,USA,USD
+NNAG,99 Acquisition Group Inc. Class A Common Stock,1,XNAS,USA,USD
+NSTS,NSTS Bancorp Inc,1,XNAS,USA,USD
+BWIN,"The Baldwin Insurance Group, Inc.",1,XNAS,USA,USD
+CCLDP,CareCloud Inc.,1,XNAS,USA,USD
+CDTG,CDT Environmental Technology Investment Holdings Limited ordinary shares,1,XNAS,USA,USD
+CECO,CECO Environmental Corp.,1,XNAS,USA,USD
+CG,Carlyle Group Inc,1,XNAS,USA,USD
+CGC,Canopy Growth Corp,1,XNAS,USA,USD
+CHEK,Check Cap Ltd,1,XNAS,USA,USD
+CINF,Cincinnati Financial Corporation,1,XNAS,USA,USD
+CLBK,Columbia Financial Inc,1,XNAS,USA,USD
+CPSH,Cps Technologies,1,XNAS,USA,USD
+CRAI,CRA International Inc,1,XNAS,USA,USD
+CSCI,COSCIENS Biopharma Inc.,1,XNAS,USA,USD
+CTMX,CytomX Therapeutics Inc,1,XNAS,USA,USD
+DMKPQ,DMK Pharmaceuticals Corporation,1,XNAS,USA,USD
+DUETW,DUET Acquisition Corp. Warrant,1,XNAS,USA,USD
+NWBI,Northwest Bancshares Inc,1,XNAS,USA,USD
+OMER,Omeros Corporation,1,XNAS,USA,USD
+OXLC,Oxford Lane Capital Corp,1,XNAS,USA,USD
+PBHC,Pathfinder Bancorp Inc,1,XNAS,USA,USD
+PDYNW,Palladyne AI Corp,1,XNAS,USA,USD
+PHAR,Pharming Group NV,1,XNAS,USA,USD
+PMTS,CPI Card Group Inc,1,XNAS,USA,USD
+POET,POET Technologies Inc,1,XNAS,USA,USD
+PTIXW,Protagenic Therapeutics Inc,1,XNAS,USA,USD
+PTLO,Portillo's Inc,1,XNAS,USA,USD
+QRVO,Qorvo Inc,1,XNAS,USA,USD
+EBTC,Enterprise Bancorp Inc,1,XNAS,USA,USD
+EDBL,Edible Garden AG Inc,1,XNAS,USA,USD
+EDRY,EuroDry Ltd,1,XNAS,USA,USD
+EFTR,Effector Therapeutics Inc,1,XNAS,USA,USD
+ESHAR,ESH Acquisition Corp. Right,1,XNAS,USA,USD
+ESQ,Esquire Financial Holdings Inc,1,XNAS,USA,USD
+EVGRW,Evergreen Corporation Warrant,1,XNAS,USA,USD
+FARO,FARO Technologies Inc,1,XNAS,USA,USD
+FATBB,FAT Brands Inc,1,XNAS,USA,USD
+FRSH,Freshworks Inc,1,XNAS,USA,USD
+GBRGW,Goldenbridge Acquisition Limited,1,XNAS,USA,USD
+GH,Guardant Health Inc,1,XNAS,USA,USD
+GLAC,Global Lights Acquisition Corp Ordinary Shares,1,XNAS,USA,USD
+RXRX,Recursion Pharmaceuticals Inc,1,XNAS,USA,USD
+SAGE,Sage Therapeutic,1,XNAS,USA,USD
+SAIC,Science Applications International Corporation Common Stock,1,XNAS,USA,USD
+SANW,S&W Seed Company,1,XNAS,USA,USD
+SCVL,Shoe Carnival Inc,1,XNAS,USA,USD
+SCYX,Scynexis Inc,1,XNAS,USA,USD
+SELF,Global Self Storage Inc,1,XNAS,USA,USD
+SFST,Southern First Bancshares Inc,1,XNAS,USA,USD
+SKYQ,SKYQ,1,XNAS,USA,USD
+SLRC,SLR Investment Corp,1,XNAS,USA,USD
+SMTI,Sanara Medtech Inc,1,XNAS,USA,USD
+SOHO,Sotherly Hotels Inc,1,XNAS,USA,USD
+SPRO,Spero Therapeutics Inc,1,XNAS,USA,USD
+STGW,Stagwell Inc,1,XNAS,USA,USD
+SVMHW,SRIVARU Holding Limited Warrant,1,XNAS,USA,USD
+SVREW,SaverOne 2014 Ltd. Warrant,1,XNAS,USA,USD
+SWAG,Software Acquisition Group III Inc,1,XNAS,USA,USD
+SYNA,Synaptics Incorporated,1,XNAS,USA,USD
+TECX,"Tectonic Therapeutic, Inc.",1,XNAS,USA,USD
+TENX,Tenax Therapeutics Inc,1,XNAS,USA,USD
+THAR,Tharimmune Inc.,1,XNAS,USA,USD
+TIRX,Tian Ruixiang Holdings Ltd,1,XNAS,USA,USD
+TIVC,Tivic Health Systems Inc,1,XNAS,USA,USD
+TOUR,Tuniu Corp,1,XNAS,USA,USD
+TRAK,ReposiTrak,1,XNAS,USA,USD
+TRUE,TrueCar Inc,1,XNAS,USA,USD
+TTGT,TechTarget Inc,1,XNAS,USA,USD
+HCVIW,Hennessy Capital Investment Corp. VI Warrant,1,XNAS,USA,USD
+IBTX,Independent Bank Group Inc,1,XNAS,USA,USD
+ICLR,ICON PLC,1,XNAS,USA,USD
+IGMS,IGM Biosciences Inc,1,XNAS,USA,USD
+IGTAW,Inception Growth Acquisition Limited Warrants,1,XNAS,USA,USD
+IINNW,Inspira Technologies Oxy B.H.N. Ltd. Warrant,1,XNAS,USA,USD
+IMCR,Immunocore Holdings Ltd,1,XNAS,USA,USD
+IMMX,Immix Biopharma Inc,1,XNAS,USA,USD
+IRAA,Iris Acquisition Corp,1,XNAS,USA,USD
+IRTC,iRhythm Technologies Inc,1,XNAS,USA,USD
+IVCBW,Investcorp Europe Acquisition Corp I Warrant,1,XNAS,USA,USD
+IXQWF,IXQWF,1,XNAS,USA,USD
+JAMF,Jamf Holding,1,XNAS,USA,USD
+JFBRW,Jeffs' Brands Ltd,1,XNAS,USA,USD
+JUNE,Junee Limited Ordinary Shares,1,XNAS,USA,USD
+TVTX,Travere Therapeutics Inc,1,XNAS,USA,USD
+VIRX,Viracta Therapeutics Inc,1,XNAS,USA,USD
+VRM,Vroom Inc,1,XNAS,USA,USD
+VTGN,VistaGen Therapeutics Inc,1,XNAS,USA,USD
+WAVE,Eco Wave Power Global AB  ADR,1,XNAS,USA,USD
+WISA,WiSA Technologies Inc,1,XNAS,USA,USD
+WMG,Warner Music Group,1,XNAS,USA,USD
+WYNN,Wynn Resorts Limited,1,XNAS,USA,USD
+XEL,Xcel Energy Inc,1,XNAS,USA,USD
+XELA,Exela Technologies Inc,1,XNAS,USA,USD
+AADI,Aadi Bioscience Inc,1,XNAS,USA,USD
+AGFY,Agrify Corp,1,XNAS,USA,USD
+AIRS,Airsculpt Technologies Inc,1,XNAS,USA,USD
+AITR,AI TRANSPORTATION ACQUISITION CORP Ordinary shares,1,XNAS,USA,USD
+AITRU,AI TRANSPORTATION ACQUISITION CORP Unit,1,XNAS,USA,USD
+ALGT,Allegiant Travel Company,1,XNAS,USA,USD
+ALLT,Allot Communications Ltd,1,XNAS,USA,USD
+ATLCZ,Atlanticus Holdings Corporation 9.25% Senior Notes due 2029,1,XNAS,USA,USD
+ATLX,Atlas Lithium Corporation Common Stock,1,XNAS,USA,USD
+ATRO,Astronics Corporation,1,XNAS,USA,USD
+BEATW,Heartbeam Inc. Warrant,1,XNAS,USA,USD
+BHAC,Barington/Hilco Acquisition,1,XNAS,USA,USD
+BIOCQ,Biocept Inc.,1,XNAS,USA,USD
+BIOR,Biora Therapeutics Inc,1,XNAS,USA,USD
+BITF,Bitfarms Ltd,1,XNAS,USA,USD
+BSLK,"Bolt Projects Holdings, Inc.",1,XNAS,USA,USD
+KURA,Kura Oncology Inc,1,XNAS,USA,USD
+KWESW,KWESST Micro Systems Inc. Warrant,1,XNAS,USA,USD
+LBPH,Longboard Pharmaceuticals Inc,1,XNAS,USA,USD
+LBTYA,Liberty Global PLC,1,XNAS,USA,USD
+LEE,Lee Enterprises Incorporated,1,XNAS,USA,USD
+LINK,Interlink Electronics Inc,1,XNAS,USA,USD
+LION,Lionsgate Studios Corp. Common Shares,1,XNAS,USA,USD
+LOVE,The Lovesac Company,1,XNAS,USA,USD
+MBUU,Malibu Boats Inc,1,XNAS,USA,USD
+MBWM,Mercantile Bank Corporation,1,XNAS,USA,USD
+MGOL,MGO Global Inc. Common Stock,1,XNAS,USA,USD
+MLTX,MoonLake Immunotherapeutics,1,XNAS,USA,USD
+MMSI,Merit Medical Systems Inc,1,XNAS,USA,USD
+MNOV,MediciNova Inc,1,XNAS,USA,USD
+MTCH,Match Group Inc,1,XNAS,USA,USD
+MYPSW,PLAYSTUDIOS Inc,1,XNAS,USA,USD
+NBST,Newbury Street Acquisition Corp,1,XNAS,USA,USD
+NNOX,Nano X Imaging Ltd,1,XNAS,USA,USD
+BUJAW,Bukit Jalil Global Acquisition 1 Ltd. Warrants,1,XNAS,USA,USD
+CASY,Caseys General Stores Inc,1,XNAS,USA,USD
+CCG,Cheche Group Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+CFFI,C&F Financial Corporation,1,XNAS,USA,USD
+CHKEL,Chesapeake Energy Corporation,1,XNAS,USA,USD
+CIFRW,Cipher Mining Inc,1,XNAS,USA,USD
+CMPS,Compass Pathways Plc,1,XNAS,USA,USD
+CNGL,Canna Global Acquisition Corp,1,XNAS,USA,USD
+CPRT,Copart Inc,1,XNAS,USA,USD
+DJT,Trump Media & Technology Group Corp.,1,XNAS,USA,USD
+NVNIW,Nvni Group Limited Warrants,1,XNAS,USA,USD
+NWPX,Northwest Pipe Company,1,XNAS,USA,USD
+OCSAW,Oculis Holding AG Warrants,1,XNAS,USA,USD
+OKUR,"OnKure Therapeutics, Inc.",1,XNAS,USA,USD
+OPINL,Office Properties Income Trust,1,XNAS,USA,USD
+PAYX,Paychex Inc,1,XNAS,USA,USD
+PBPB,Potbelly Co,1,XNAS,USA,USD
+PETS,PetMed Express Inc,1,XNAS,USA,USD
+PEV,Phoenix Motor Inc. Common Stock,1,XNAS,USA,USD
+PLUR,Pluri Inc.,1,XNAS,USA,USD
+PMCB,PharmaCyte Biotech Inc,1,XNAS,USA,USD
+PRGS,Progress Software Corporation,1,XNAS,USA,USD
+PTON,Peloton Interactive Inc,1,XNAS,USA,USD
+PTSI,PAM Transportation Services Inc,1,XNAS,USA,USD
+QOMO,Qomolangma Acquisition Corp. Common Stock,1,XNAS,USA,USD
+RAND,Rand Capital Corp,1,XNAS,USA,USD
+RKDA,Arcadia Biosciences Inc,1,XNAS,USA,USD
+RMBS,Rambus Inc,1,XNAS,USA,USD
+RPTX,Repare Therapeutics Inc,1,XNAS,USA,USD
+RSTN,"RDE, Inc. Common Stock",1,XNAS,USA,USD
+EBIXQ,Ebix Inc,1,XNAS,USA,USD
+ECPG,Encore Capital Group Inc,1,XNAS,USA,USD
+EDAP,EDAP TMS SA,1,XNAS,USA,USD
+EHGO,Eshallgo Inc. Class A Ordinary Shares,1,XNAS,USA,USD
+EIGRQ,Eiger BioPharmaceuticals Inc,1,XNAS,USA,USD
+ELDN,Eledon Pharmaceuticals Inc,1,XNAS,USA,USD
+ELSE,Electro-Sensors Inc,1,XNAS,USA,USD
+EXEEL,Expand Energy Corporation,1,XNAS,USA,USD
+FANH,Fanhua Inc,1,XNAS,USA,USD
+FFIEW,Faraday Future Intelligent Electric Inc,1,XNAS,USA,USD
+FLUX,Flux Power Holdings Inc,1,XNAS,USA,USD
+FOXA,Fox Corp Class A,1,XNAS,USA,USD
+FUFUW,BitFuFu Inc. Warrant,1,XNAS,USA,USD
+GCADX,GCADX,1,XNAS,USA,USD
+GCT,GigaCloud Technology Inc Class A Ordinary Shares,1,XNAS,USA,USD
+GECCI,Great Elm Capital Corp. 8.50% NOTES DUE 2029,1,XNAS,USA,USD
+GEOS,Geospace Technologies Corporation,1,XNAS,USA,USD
+GOEVW,Canoo Holdings Ltd,1,XNAS,USA,USD
+GPRO,GoPro Inc,1,XNAS,USA,USD
+HAO,Haoxi Health Technology Limited Class A Ordinary Shares,1,XNAS,USA,USD
+SCLXW,Scilex Holding Company,1,XNAS,USA,USD
+SCSC,ScanSource Inc,1,XNAS,USA,USD
+SELB,Selecta Biosciences Inc,1,XNAS,USA,USD
+SERV,Serve Robotics Inc. Common Stock,1,XNAS,USA,USD
+SHBI,Shore Bancshares Inc,1,XNAS,USA,USD
+SLDPW,Solid Power Inc,1,XNAS,USA,USD
+SONM,Sonim Technologies Inc,1,XNAS,USA,USD
+SPT,Sprout Social Inc,1,XNAS,USA,USD
+STKS,One Group Hospitality Inc,1,XNAS,USA,USD
+STRM,Streamline Health Solutions Inc,1,XNAS,USA,USD
+SURGW,SurgePays Inc. Warrant,1,XNAS,USA,USD
+TDTH,Trident Digital Tech Holdings Ltd American Depository Shares,1,XNAS,USA,USD
+TETE,Technology & Telecommunication,1,XNAS,USA,USD
+TH,Target Hospitality Corp,1,XNAS,USA,USD
+TIPT,Tiptree Inc,1,XNAS,USA,USD
+TLF,Tandy Leather Factory Inc,1,XNAS,USA,USD
+TNDM,Tandem Diabetes Care Inc,1,XNAS,USA,USD
+TTEC,TTEC Holdings Inc,1,XNAS,USA,USD
+TTEK,Tetra Tech Inc,1,XNAS,USA,USD
+TURB,"Turbo Energy, S.A. American Depositary Shares",1,XNAS,USA,USD
+HITI,High Tide Inc,1,XNAS,USA,USD
+HOFVW,Hall of Fame Village LLC,1,XNAS,USA,USD
+HSON,Hudson Global Inc,1,XNAS,USA,USD
+HSPOR,Horizon Space Acquisition I Corp. Right,1,XNAS,USA,USD
+HUBCZ,Hub Cyber Security Ltd. Warrant 8/22/23,1,XNAS,USA,USD
+HYFM,Hydrofarm Holdings Group Inc,1,XNAS,USA,USD
+ICUCW,LMF Acquisition Opportunities Inc,1,XNAS,USA,USD
+IFBD,Infobird Co Ltd,1,XNAS,USA,USD
+IMCC,Im Cannabis Corp,1,XNAS,USA,USD
+INOD,Innodata Inc,1,XNAS,USA,USD
+INTS,"Intensity Therapeutics, Inc. Common stock",1,XNAS,USA,USD
+JAZZ,Jazz Pharmaceuticals PLC,1,XNAS,USA,USD
+UFPI,Ufp Industries Inc,1,XNAS,USA,USD
+UGRO,Urban-Gro Inc,1,XNAS,USA,USD
+ULCC,Frontier Group Holdings Inc,1,XNAS,USA,USD
+VCEL,Vericel Corp Ord,1,XNAS,USA,USD
+VCIG,VCI Global Limited Ordinary Share,1,XNAS,USA,USD
+VRRM,Verra Mobility Corp,1,XNAS,USA,USD
+VSTM,Verastem Inc,1,XNAS,USA,USD
+VTYX,Ventyx Biosciences Inc,1,XNAS,USA,USD
+WALD,Waldencast Acquisition Corp,1,XNAS,USA,USD
+XPON,Expion360 Inc,1,XNAS,USA,USD
+XRX,Xerox Corp,1,XNAS,USA,USD
+XTIA,"XTI Aerospace, Inc.",1,XNAS,USA,USD
+ZCMD,Zhongchao Inc,1,XNAS,USA,USD
+ZUMZ,Zumiez Inc,1,XNAS,USA,USD
+ZYME,Zymeworks Inc. Common Stock,1,XNAS,USA,USD
+ABSI,Absci Corp,1,XNAS,USA,USD
+ACGL,Arch Capital Group Ltd,1,XNAS,USA,USD
+AEIS,Advanced Energy Industries Inc,1,XNAS,USA,USD
+AIXI,XIAO-I Corporation American Depositary Shares,1,XNAS,USA,USD
+AKBA,Akebia Ther,1,XNAS,USA,USD
+ALT,Altimmune Inc,1,XNAS,USA,USD
+ANGH,Anghami De Inc,1,XNAS,USA,USD
+ANSS,ANSYS Inc,1,XNAS,USA,USD
+APEI,American Public Education Inc,1,XNAS,USA,USD
+APP,Applovin Corp,1,XNAS,USA,USD
+APPN,Appian Corp,1,XNAS,USA,USD
+APXI,APx Acquisition I Corp,1,XNAS,USA,USD
+APXIW,APx Acquisition Corp. I Warrant,1,XNAS,USA,USD
+ARKOW,Arko Corp,1,XNAS,USA,USD
+ARVLF,Arrival,1,XNAS,USA,USD
+AUBN,Auburn National Bancorporation Inc,1,XNAS,USA,USD
+BDMD,Baird Medical Investment Holdings Limited,1,XNAS,USA,USD
+BELFA,Bel Fuse A Inc,1,XNAS,USA,USD
+BIAF,"bioAffinity Technologies, Inc.",1,XNAS,USA,USD
+BIDU,Baidu Inc,1,XNAS,USA,USD
+BIVI,Biovie Inc,1,XNAS,USA,USD
+BMRA,Biomerica Inc,1,XNAS,USA,USD
+BPOPM,Popular Capital Trust II Pref,1,XNAS,USA,USD
+BSET,Bassett Furniture Industries,1,XNAS,USA,USD
+KYTX,"Kyverna Therapeutics, Inc. Common Stock",1,XNAS,USA,USD
+LASE,Laser Photonics Corporation Common Stock,1,XNAS,USA,USD
+LEXX,Lexaria Bioscience Corp,1,XNAS,USA,USD
+LFLYW,Leafly Holdings Inc,1,XNAS,USA,USD
+LGMK,LogicMark Inc,1,XNAS,USA,USD
+LIFWZ,MSP Recovery Inc.,1,XNAS,USA,USD
+LUCD,Lucid Diagnostics Inc,1,XNAS,USA,USD
+LUNG,Pulmonx Corp,1,XNAS,USA,USD
+MICS,The Singing Machine Company Inc. Common Stock,1,XNAS,USA,USD
+MLAB,Mesa Laboratories Inc,1,XNAS,USA,USD
+MSBIP,Midland States Bancorp Inc,1,XNAS,USA,USD
+NATL,NCR Atleos Corporation,1,XNAS,USA,USD
+NATR,Natures Sunshine Products Inc,1,XNAS,USA,USD
+NCTY,The9 Ltd ADR,1,XNAS,USA,USD
+NEXI,Neximmune Inc,1,XNAS,USA,USD
+NIU,Niu Technologies,1,XNAS,USA,USD
+NLSPW,NLS Pharmaceutics AG,1,XNAS,USA,USD
+NOGNQ,Nogin Inc,1,XNAS,USA,USD
+NRC,National Research Corp,1,XNAS,USA,USD
+NTRBW,Nutriband Inc. Warrant,1,XNAS,USA,USD
+BVS,Bioventus Inc,1,XNAS,USA,USD
+CGEM,Cullinan Oncology LLC,1,XNAS,USA,USD
+CHKEW,Chesapeake Energy Corporation,1,XNAS,USA,USD
+CHRW,CH Robinson Worldwide Inc,1,XNAS,USA,USD
+CLSK,CleanSpark Inc,1,XNAS,USA,USD
+CMAXW,CareMax Inc,1,XNAS,USA,USD
+CMPOW,CompoSecure Inc,1,XNAS,USA,USD
+CMRX,Chimerix Inc,1,XNAS,USA,USD
+CNXXW,CNXXW,1,XNAS,USA,USD
+CORZ,"Core Scientific, Inc. Common Stock",1,XNAS,USA,USD
+CORZZ,"Core Scientific, Inc. Tranche 2 Warrants",1,XNAS,USA,USD
+CPIX,Cumberland Pharmaceuticals Inc,1,XNAS,USA,USD
+CSLRW,"Complete Solaria, Inc. Warrants",1,XNAS,USA,USD
+CVBF,CVB Financial Corporation,1,XNAS,USA,USD
+DECAW,Denali Capital Acquisition Corp. Warrant,1,XNAS,USA,USD
+DNUT,Krispy Kreme Inc,1,XNAS,USA,USD
+DUOL,Duolingo Inc,1,XNAS,USA,USD
+DXCM,DexCom Inc,1,XNAS,USA,USD
+NWE,NorthWestern Corporation,1,XNAS,USA,USD
+OFS,OFS Capital Corp,1,XNAS,USA,USD
+OLPX,Olaplex Holdings Inc,1,XNAS,USA,USD
+ONDS,Ondas Holdings Inc.,1,XNAS,USA,USD
+ONFOW,Onfolio Holdings Inc. Warrant,1,XNAS,USA,USD
+ONVO,Organovo Holdings Inc,1,XNAS,USA,USD
+ORLY,O’Reilly Automotive Inc,1,XNAS,USA,USD
+OTRK,Ontrak Inc,1,XNAS,USA,USD
+OXBRW,Oxbridge Re Holdings Equity Warrant,1,XNAS,USA,USD
+OZK,Bank Ozk,1,XNAS,USA,USD
+PCTY,Paylocity Holdng,1,XNAS,USA,USD
+PCVX,Vaxcyte Inc,1,XNAS,USA,USD
+PEPG,PepGen Ltd,1,XNAS,USA,USD
+PIII,P3 Health Partners Inc,1,XNAS,USA,USD
+PIXY,ShiftPixy Inc,1,XNAS,USA,USD
+PLMR,Palomar Holdings Inc,1,XNAS,USA,USD
+PRTH,Priority Technology Holdings Inc,1,XNAS,USA,USD
+QLYS,Qualys Inc,1,XNAS,USA,USD
+RBKB,Rhinebeck Bancorp Inc,1,XNAS,USA,USD
+RDCM,Radcom Ltd,1,XNAS,USA,USD
+REAX,Real Brokerage Inc,1,XNAS,USA,USD
+RETO,ReTo Eco-Solutions Inc,1,XNAS,USA,USD
+RGF,Real Good Food Company Inc,1,XNAS,USA,USD
+RITR,Reitar Logtech Holdings Limited Ordinary shares,1,XNAS,USA,USD
+ROII,RiskOn International Inc.,1,XNAS,USA,USD
+EDIT,Editas Medicine Inc,1,XNAS,USA,USD
+ERII,Energy Recovery Inc,1,XNAS,USA,USD
+ESGLW,ESGL Holdings Limited Warrants,1,XNAS,USA,USD
+ETNB,89bio Inc,1,XNAS,USA,USD
+FGF,FG Financial Group,1,XNAS,USA,USD
+FIVE,Five Below Inc,1,XNAS,USA,USD
+FLXS,Flexsteel Industries Inc,1,XNAS,USA,USD
+FORD,Forward Industries Inc,1,XNAS,USA,USD
+FORR,Forrester Research Inc,1,XNAS,USA,USD
+FRZA,Forza X1 Inc,1,XNAS,USA,USD
+FTRE,Fortrea Holdings Inc.,1,XNAS,USA,USD
+GDYN,Grid Dynamics Holdings Inc,1,XNAS,USA,USD
+GGAAF,Genesis Growth Tech Acquisition Corp.,1,XNAS,USA,USD
+SBET,Sharplink Gaming Ltd,1,XNAS,USA,USD
+SCHL,Scholastic Corporation,1,XNAS,USA,USD
+SDA,SunCar Technology Group Inc.,1,XNAS,USA,USD
+SIMO,Silicon Motion Technology,1,XNAS,USA,USD
+SKYX,SKYX Platforms Corp,1,XNAS,USA,USD
+SLNO,Soleno Therapeutics Inc,1,XNAS,USA,USD
+SMBK,"SmartFinancial, Inc.",1,XNAS,USA,USD
+SPWRQ,SunPower Corporation,1,XNAS,USA,USD
+TCBS,Texas Community Bancshares Inc,1,XNAS,USA,USD
+TCJH,Top KingWin Ltd Class A Ordinary Shares,1,XNAS,USA,USD
+TKLF,Yoshitsu Co Ltd ADR,1,XNAS,USA,USD
+TMC,TMC the metals company Inc,1,XNAS,USA,USD
+TNXP,Tonix Pharmaceuticals Holding Corp,1,XNAS,USA,USD
+TRMB,Trimble Inc,1,XNAS,USA,USD
+HOOD,Robinhood Markets Inc,1,XNAS,USA,USD
+HUBCW,Hub Cyber Security Ltd. Warrant 2/27/28,1,XNAS,USA,USD
+IAC,IAC Inc.,1,XNAS,USA,USD
+IKT,Inhibikase Therapeutics Inc,1,XNAS,USA,USD
+ILAG,Intelligent Living Application Group Inc,1,XNAS,USA,USD
+ILMN,Illumina Inc,1,XNAS,USA,USD
+IMAQW,International Media Acquisition Corp. Warrants,1,XNAS,USA,USD
+INCY,Incyte Corporation,1,XNAS,USA,USD
+INDV,Indivior PLC Ordinary Shares,1,XNAS,USA,USD
+INFIQ,Infinity Pharmaceuticals Inc.,1,XNAS,USA,USD
+ISSC,Innovative Solutions and Support,1,XNAS,USA,USD
+IVAC,Intevac Inc,1,XNAS,USA,USD
+IXAQ,IX Acquisition Corp,1,XNAS,USA,USD
+JFIN,Jiayin Group Inc,1,XNAS,USA,USD
+KDP,Keurig Dr Pepper Inc,1,XNAS,USA,USD
+UPC,Universe Pharmaceuticals Inc,1,XNAS,USA,USD
+USLM,United States Lime & Minerals Inc,1,XNAS,USA,USD
+VCNX,Vaccinex Inc,1,XNAS,USA,USD
+VERV,Verve Therapeutics Inc,1,XNAS,USA,USD
+WB,Weibo Corp,1,XNAS,USA,USD
+WHFCL,WhiteHorse Finance Inc. 7.875% Notes due 2028,1,XNAS,USA,USD
+WIX,Wix.Com Ltd,1,XNAS,USA,USD
+WRNT,Warrantee Inc. American Depositary Shares,1,XNAS,USA,USD
+ZCAR,Zoomcar Holdings Inc.,1,XNAS,USA,USD
