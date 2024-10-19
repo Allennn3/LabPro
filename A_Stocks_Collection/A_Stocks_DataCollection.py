@@ -1,5 +1,3 @@
-# author:Liu Yu
-# time:2024/10/14 20:18
 import pandas as pd
 import baostock as bs
 from datetime import datetime, timedelta

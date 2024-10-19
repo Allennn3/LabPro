@@ -1,5 +1,3 @@
-# author:Liu Yu
-# time:2024/10/16 18:19
 # 将最大列数设置为None，这样可以显示所有列
 import yfinance as yf
 import pandas as pd
@@ -25,7 +23,7 @@ class American_Stocks_DataCollection:
             get_stock_tickers(i)
             load_json_to_csv(i)
             data = pd.read_csv(i+".csv")
-            data = data[data['is_active'] != 0]
+            # data = data[data['is_active'] != 0]
 
             for stock_code in data['ticker'][:2]:
                 tk = yf.Ticker(stock_code)

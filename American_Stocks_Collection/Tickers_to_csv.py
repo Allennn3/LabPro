@@ -1,5 +1,3 @@
-# author:Liu Yu
-# time:2024/10/15 22:59
 # 将JSON数据加载为Python字典
 import json
 import csv
@@ -22,7 +20,8 @@ def load_json_to_csv(i):
 
         # 遍历data中的每个条目并写入CSV文件
         for item in data['data']:
-            writer.writerow(item)
+            if item["is_active"]!=0:
+                writer.writerow(item)
 
     # data = pd.read_csv(i+".csv")
     # data = data[data['is_active'] != 0]

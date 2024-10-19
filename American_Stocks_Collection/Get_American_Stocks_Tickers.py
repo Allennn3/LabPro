@@ -1,5 +1,3 @@
-# author:Liu Yu
-# time:2024/10/15 22:12
 import requests
 import json
 

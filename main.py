@@ -26,6 +26,7 @@ if __name__ == '__main__':
 
     #yfinance包中，若在每日交易数据上传之前查询当日交易数据，查询不到当日数据，但不会报错。
     American_Stocks_Data = American_Stocks_DataCollection.American_Stocks_DataCollection('2024-01-01', '2024-10-16', formatted_date)
+    # 获取历史数据（只需要获取一次）
     American_Stocks_Data.get_data('2024-01-01', '2024-10-16')
 
     def fetch_info():
@@ -34,7 +35,7 @@ if __name__ == '__main__':
 
 
     # 每天晚上 23 点执行
-    schedule.every().day.at("23:00").do(fetch_info)
+    # schedule.every().day.at("23:00").do(fetch_info)
 
     while True:
         schedule.run_pending()
